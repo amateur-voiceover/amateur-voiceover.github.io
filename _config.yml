@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Дилетанская озвучка
+title: Дилетантская озвучка
 # email: your-email@example.com
 description: DIY — озвучка на диване, преимущественно работ, связанных с анархизмом
 baseurl: "" # the subpath of your site, e.g. /blog
