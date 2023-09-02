@@ -4,19 +4,32 @@
  * Site header
  */
 .site-header {
-  border-top: 5px solid $grey-color-dark;
-  border-bottom: 1px solid $grey-color-light;
-  min-height: $spacing-unit * 1.865;
+  min-height: $spacing-unit * 10;
+  border-bottom: 1px solid $brand-color;
+  padding: $spacing-unit 0;
 
   // Positioning context for the mobile navigation icon
   position: relative;
+  .wrapper {
+    background-image: url('/assets/hands.svg');
+    background-repeat: no-repeat;
+    background-position: 100% center;
+    background-size: $spacing-unit * 10;
+  }
+  .header-content {
+    margin-right: $spacing-unit * 10.5;
+  }
+  .site-info {
+    margin-bottom: calc($spacing-unit / 2);
+    color: $grey-color;
+  }
 }
 
 .site-title {
   @include relative-font-size(1.625);
   font-family: 'Amatic SC', cursive;
   font-weight: 700;
-  font-size: $base-font-size * 3;
+  font-size: $base-font-size * 4;
   line-height: $base-line-height * $base-font-size * 3;
   letter-spacing: -1px;
   margin-bottom: 0;
@@ -25,6 +38,47 @@
   &,
   &:visited {
     color: $brand-color;
+  }
+}
+
+.page-heading {
+  @include relative-font-size(3);
+  font-family: 'Amatic SC', cursive;
+  color: $brand-color;
+  font-weight: bold;
+}
+
+.bot {
+  a:link, a:visited {
+    color: $brand-color;
+  }
+}
+
+.other_platforms {
+  display: flex;
+  margin-top: calc($spacing-unit / 2);
+  a {
+    display: block;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 28px;
+    height: 28px;
+    margin-right: calc($spacing-unit / 2);
+    span {
+      visibility: hidden;
+    }
+    &.apple {
+      background-image: url("/assets/apple_podcasts.png");
+    }
+    &.google {
+      background-image: url("/assets/google_podcasts.png");
+    }
+    &.castbox {
+      background-image: url("/assets/castbox.png");
+    }
+    &.spotify {
+      background-image: url("/assets/spotify.png");
+    }
   }
 }
 
@@ -53,7 +107,7 @@
   @include media-query($on-palm) {
     position: absolute;
     top: 9px;
-    right: $spacing-unit / 2;
+    right: calc($spacing-unit / 2);
     background-color: $background-color;
     border: 1px solid $grey-color-light;
     border-radius: 5px;
@@ -110,13 +164,18 @@
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid $grey-color-light;
+  border-top: 1px solid $brand-color;
   padding: $spacing-unit 0;
 }
 
 .footer-heading {
   @include relative-font-size(1.125);
-  margin-bottom: $spacing-unit / 2;
+  margin-bottom: calc($spacing-unit / 2);
+  padding-left: $spacing-unit;
+  background-image: url("/assets/unlicense.svg");
+  background-repeat: no-repeat;
+  background-size: calc($spacing-unit / 2);
+  background-position: left center;
 }
 
 .contact-list,
@@ -128,14 +187,14 @@
 .footer-col-wrapper {
   @include relative-font-size(0.9375);
   color: $grey-color;
-  margin-left: -$spacing-unit / 2;
+  margin-left: - calc($spacing-unit / 2);
   @extend %clearfix;
 }
 
 .footer-col {
   float: left;
-  margin-bottom: $spacing-unit / 2;
-  padding-left: $spacing-unit / 2;
+  margin-bottom: calc($spacing-unit / 2);
+  padding-left: calc($spacing-unit / 2);
 }
 
 .footer-col-1 {
@@ -182,10 +241,6 @@
 .page-content {
   padding: $spacing-unit 0;
   flex: 1;
-}
-
-.page-heading {
-  @include relative-font-size(2);
 }
 
 .post-list-heading {
