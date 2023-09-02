@@ -23,6 +23,17 @@
     margin-bottom: calc($spacing-unit / 2);
     color: $grey-color;
   }
+
+  @media screen and (max-width: 600px) {
+    .wrapper {
+      background-position: center top;
+    }
+
+    .header-content {
+      margin-right: 0;
+      padding-top: $spacing-unit * 7;
+    }
+  }
 }
 
 .site-title {
@@ -34,11 +45,6 @@
   letter-spacing: -1px;
   margin-bottom: 0;
   color: $brand-color;
-
-  &,
-  &:visited {
-    color: $brand-color;
-  }
 }
 
 .page-heading {
