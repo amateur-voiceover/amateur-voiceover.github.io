@@ -13,7 +13,7 @@ theme: minima
 - [Как ненасилие защищает государство. Питер Гелдерлоос](https://t.me/dilettante_voiceover/171)
 - [Анархия работает. Примеры из истории России.](https://t.me/dilettante_voiceover/3)
 - [Десять бесед об анархизме. Эррико Малатеста](https://t.me/dilettante_voiceover/145)
-- ### Тюрьма. Питер Гелдерлоос
+- Тюрьма. Питер Гелдерлоос
   - [Все главы](https://t.me/dilettante_voiceover/133)
   - [Послесловие. Алексей Полихович](https://t.me/dilettante_voiceover/245)
 
