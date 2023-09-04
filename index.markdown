@@ -71,7 +71,7 @@ theme: minima
 - [Катехизис революционера. Сергей Нечаев](https://t.me/dilettante_voiceover/218)
 - [Анархо-Ислам. Энтони Т. Фискелла](https://t.me/dilettante_voiceover/229)
 - [О гендере, нации и классе в посткоммунизме. Елена Гапова](https://t.me/dilettante_voiceover/239)
-- [Катынское преступление](https://t.me/dilettante_voiceover/240)
+- [Катынское преступление. Международное общество "Мемориал"](https://t.me/dilettante_voiceover/240)
 - [Голодная степь. Сара Камерон](https://t.me/dilettante_voiceover/247)
 
 
