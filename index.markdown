@@ -17,10 +17,12 @@ theme: minima
 ## Книги в работе
 
 ### [Тюрьма. Питер Гелдерлоос](https://t.me/dilettante_voiceover/133)
+- [Послесловие. Алексей Полихович](https://t.me/dilettante_voiceover/245)
 
 ### Корреспондент Гаскаров в аду и другие истории. Петя Косово.
 - [Предисловие](https://t.me/dilettante_voiceover/212)
 - [Каждый имеет право на свои 15 минут силы](https://t.me/dilettante_voiceover/223)
+- [В зазеркалье и в аду](https://t.me/dilettante_voiceover/246)
 
 ### Совершая убийство, или Политическая экономия прав животных. Боб Торрес
 - [Глава I](https://t.me/dilettante_voiceover/220)
@@ -68,6 +70,9 @@ theme: minima
 - [Опасность самоубийства: клиническая оценка и принятие решений. Джон Молтсбергер](https://t.me/dilettante_voiceover/206)
 - [Катехизис революционера. Сергей Нечаев](https://t.me/dilettante_voiceover/218)
 - [Анархо-Ислам. Энтони Т. Фискелла](https://t.me/dilettante_voiceover/229)
+- [О гендере, нации и классе в посткоммунизме. Елена Гапова](https://t.me/dilettante_voiceover/239)
+- [Катынское преступление](https://t.me/dilettante_voiceover/240)
+- [Голодная степь. Сара Камерон](https://t.me/dilettante_voiceover/247)
 
 
 ## Художественные тексты
