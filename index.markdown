@@ -73,6 +73,7 @@ theme: minima
 - [О гендере, нации и классе в посткоммунизме. Елена Гапова](https://t.me/dilettante_voiceover/239)
 - [Катынское преступление. Международное общество "Мемориал"](https://t.me/dilettante_voiceover/240)
 - [Голодная степь. Сара Камерон](https://t.me/dilettante_voiceover/247)
+- [Борьба за наши жизни. Сrimethinc](https://t.me/dilettante_voiceover/250)
 
 
 ## Художественные тексты
