@@ -13,9 +13,7 @@ theme: minima
 - [Как ненасилие защищает государство. Питер Гелдерлоос](https://t.me/dilettante_voiceover/171)
 - [Анархия работает. Примеры из истории России.](https://t.me/dilettante_voiceover/3)
 - [Десять бесед об анархизме. Эррико Малатеста](https://t.me/dilettante_voiceover/145)
-- Тюрьма. Питер Гелдерлоос
-  - [Все главы](https://t.me/dilettante_voiceover/133)
-  - [Послесловие. Алексей Полихович](https://t.me/dilettante_voiceover/245)
+- [Тюрьма. Питер Гелдерлоос](https://t.me/dilettante_voiceover/252) 
 
 ## Книги в работе
 
@@ -74,7 +72,7 @@ theme: minima
 - [Катынское преступление. Международное общество "Мемориал"](https://t.me/dilettante_voiceover/240)
 - [Голодная степь. Сара Камерон](https://t.me/dilettante_voiceover/247)
 - [Борьба за наши жизни. Сrimethinc](https://t.me/dilettante_voiceover/250)
-
+- [Новобранцам. Альбер Либертад](https://t.me/dilettante_voiceover/251) 
 
 ## Художественные тексты
 - [Надія. Леся Украинка](https://t.me/dilettante_voiceover/110)
