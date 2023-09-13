@@ -72,7 +72,8 @@ theme: minima
 - [Катынское преступление. Международное общество "Мемориал"](https://t.me/dilettante_voiceover/240)
 - [Голодная степь. Сара Камерон](https://t.me/dilettante_voiceover/247)
 - [Борьба за наши жизни. Сrimethinc](https://t.me/dilettante_voiceover/250)
-- [Новобранцам. Альбер Либертад](https://t.me/dilettante_voiceover/251) 
+- [Новобранцам. Альбер Либертад](https://t.me/dilettante_voiceover/251)
+- [Анархо-буддизм. Гэри Снайдер](https://t.me/dilettante_voiceover/262)
 
 ## Художественные тексты
 - [Надія. Леся Украинка](https://t.me/dilettante_voiceover/110)
