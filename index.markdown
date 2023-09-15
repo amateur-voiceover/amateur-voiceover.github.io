@@ -41,6 +41,7 @@ theme: minima
 - [Работницы чайных плантаций в Бангладеш: больше работы, меньше жизни. BASF](https://t.me/dilettante_voiceover/187)
 - [Парижская коммуна (из записей Вольтерины де Клер)](https://t.me/dilettante_voiceover/107)
 - ["Править, подчиняясь". Как устроено сапатистское самоуправление? Валентин Горбунов](https://t.me/dilettante_voiceover/161)
+- [Мария Никифорова: жизнь и смерть анархистки. Анатолий Дубовик](https://t.me/dilettante_voiceover/265)
 
 ### Бармалеи/Партизаны
 - [Бойня (отрывок). Бармалеи/Партизаны](https://t.me/dilettante_voiceover/185)
@@ -77,7 +78,6 @@ theme: minima
 - [Борьба за наши жизни. Сrimethinc](https://t.me/dilettante_voiceover/250)
 - [Новобранцам. Альбер Либертад](https://t.me/dilettante_voiceover/251)
 - [Анархо-буддизм. Гэри Снайдер](https://t.me/dilettante_voiceover/262)
-- [Мария Никифорова: жизнь и смерть анархистки. Анатолий Дубовик](https://t.me/dilettante_voiceover/265)
 
 ## Художественные тексты
 - [Надія. Леся Украинка](https://t.me/dilettante_voiceover/110)
