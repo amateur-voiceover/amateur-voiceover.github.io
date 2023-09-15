@@ -26,6 +26,9 @@ theme: minima
 - [Глава I](https://t.me/dilettante_voiceover/220)
 - [Глава II](https://t.me/dilettante_voiceover/238)
 
+### Революция умерла! Да здравствует революция! Юрий Глушаков
+- [Введение](https://t.me/dilettante_voiceover/264)
+
 ## Отдельные статьи, эссе, отрывки
 
 ### Akrateia
