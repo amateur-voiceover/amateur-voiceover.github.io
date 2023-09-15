@@ -74,6 +74,7 @@ theme: minima
 - [Борьба за наши жизни. Сrimethinc](https://t.me/dilettante_voiceover/250)
 - [Новобранцам. Альбер Либертад](https://t.me/dilettante_voiceover/251)
 - [Анархо-буддизм. Гэри Снайдер](https://t.me/dilettante_voiceover/262)
+- [Мария Никифорова: жизнь и смерть анархистки. Анатолий Дубовик](https://t.me/dilettante_voiceover/265)
 
 ## Художественные тексты
 - [Надія. Леся Украинка](https://t.me/dilettante_voiceover/110)
