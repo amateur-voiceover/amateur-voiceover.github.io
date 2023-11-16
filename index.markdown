@@ -21,6 +21,7 @@ theme: minima
 - [Предисловие](https://t.me/dilettante_voiceover/212)
 - [Каждый имеет право на свои 15 минут силы](https://t.me/dilettante_voiceover/223)
 - [В зазеркалье и в аду](https://t.me/dilettante_voiceover/246)
+- [Вознестись в сиянии (часть 1)](https://t.me/dilettante_voiceover/283)
 
 ### Совершая убийство, или Политическая экономия прав животных. Боб Торрес
 - [Глава I](https://t.me/dilettante_voiceover/220)
@@ -28,6 +29,15 @@ theme: minima
 
 ### Революция умерла! Да здравствует революция! Юрий Глушаков
 - [Введение](https://t.me/dilettante_voiceover/264)
+- [Глава 1. Накануне. Возникновение и деятельность анархо-коммунистических групп в 1903—1904 гг.](https://t.me/dilettante_voiceover/269)
+
+### Путешествие по местам лишения. Иван Асташин
+- [Глава 1](https://t.me/dilettante_voiceover/266)
+- [Глава 2](https://t.me/dilettante_voiceover/268)
+- [Глава 3](https://t.me/dilettante_voiceover/291)
+
+### По следам Бурхана Шахиди или Синьцзян 50 лет спустя. Илья Фальковский
+-[Часть 1, Эпизод 1](https://t.me/dilettante_voiceover/270)
 
 ## Отдельные статьи, эссе, отрывки
 
@@ -42,6 +52,7 @@ theme: minima
 - [Парижская коммуна (из записей Вольтерины де Клер)](https://t.me/dilettante_voiceover/107)
 - ["Править, подчиняясь". Как устроено сапатистское самоуправление? Валентин Горбунов](https://t.me/dilettante_voiceover/161)
 - [Мария Никифорова: жизнь и смерть анархистки. Анатолий Дубовик](https://t.me/dilettante_voiceover/265)
+- [Коллективизация в Каталонии](https://t.me/dilettante_voiceover/284)
 
 ### Бармалеи/Партизаны
 - [Бойня (отрывок). Бармалеи/Партизаны](https://t.me/dilettante_voiceover/185)
@@ -50,6 +61,8 @@ theme: minima
 - [Шахтеры и Железная леди:кто сильней? Бармалеи/Партизаны](https://t.me/dilettante_voiceover/208)
 - [Эпидемия Африканских переворотов. Бармалеи/Партизаны](https://t.me/dilettante_voiceover/210)
 - [Animal Liberation Front (ALF). Бармалеи/Партизаны](https://t.me/dilettante_voiceover/217)
+- [Как умирают диктаторы](https://t.me/dilettante_voiceover/280)
+- [Студенческое сопротивление диктатуре в Аргентине и Греции](https://t.me/dilettante_voiceover/278)
 
 ### Прочие источники
 - [Мифы и легенды: Че Гевара](https://t.me/dilettante_voiceover/80)
@@ -78,6 +91,8 @@ theme: minima
 - [Борьба за наши жизни. Сrimethinc](https://t.me/dilettante_voiceover/250)
 - [Новобранцам. Альбер Либертад](https://t.me/dilettante_voiceover/251)
 - [Анархо-буддизм. Гэри Снайдер](https://t.me/dilettante_voiceover/262)
+- [Оруэлл-гуманист. Вернон Ричардс](https://t.me/dilettante_voiceover/273)
+- [О гражданском неповиновении. Генри Торо](https://t.me/dilettante_voiceover/267)
 
 ## Художественные тексты
 - [Надія. Леся Украинка](https://t.me/dilettante_voiceover/110)
