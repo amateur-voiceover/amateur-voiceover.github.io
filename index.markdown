@@ -37,7 +37,7 @@ theme: minima
 - [Глава 3](https://t.me/dilettante_voiceover/291)
 
 ### По следам Бурхана Шахиди или Синьцзян 50 лет спустя. Илья Фальковский
--[Часть 1, Эпизод 1](https://t.me/dilettante_voiceover/270)
+- [Часть 1. Эпизод 1](https://t.me/dilettante_voiceover/270)
 
 ## Отдельные статьи, эссе, отрывки
 
