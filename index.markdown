@@ -14,6 +14,19 @@ theme: minima
 - [Анархия работает. Примеры из истории России.](https://t.me/dilettante_voiceover/3)
 - [Десять бесед об анархизме. Эррико Малатеста](https://t.me/dilettante_voiceover/145)
 - [Тюрьма. Питер Гелдерлоос](https://t.me/dilettante_voiceover/252) 
+- [Упразнение работы. Боб Блэк](https://t.me/dilettante_voiceover/90)
+
+## Отрывки из книг
+
+### Классы наций. Феминистская критика нациостроительства. Елена Гапова
+- [Любовь как революция, или "несмотря на Грамши" Полуты Бодуновой. Елена Гапова](https://t.me/dilettante_voiceover/131)
+- [О гендере, нации и классе в посткоммунизме. Елена Гапова](https://t.me/dilettante_voiceover/239)
+
+### Оруэлл в семейном кругу и в среде анархистов. Вернон Ричардс
+- [Оруэлл-гуманист. Вернон Ричардс](https://t.me/dilettante_voiceover/273)
+
+### Совесть нацистов. Клаудия Кунц
+- [Глава 3. Союзники в академии. Философия Киттеля)](https://t.me/dilettante_voiceover/67)
 
 ## Книги в работе
 
@@ -36,11 +49,12 @@ theme: minima
 - [Глава 2](https://t.me/dilettante_voiceover/268)
 - [Глава 3](https://t.me/dilettante_voiceover/291)
 - [Глава 4](https://t.me/dilettante_voiceover/293)
+- [Глава 5](https://t.me/dilettante_voiceover/296)
 
 ### По следам Бурхана Шахиди или Синьцзян 50 лет спустя. Илья Фальковский
 - [Часть 1. Эпизод 1](https://t.me/dilettante_voiceover/270)
 
-## Отдельные статьи, эссе, отрывки
+## Отдельные статьи, эссе.
 
 ### Akrateia
 - [Экономика махновщины. Анатолий Дубовик](https://t.me/dilettante_voiceover/130)
@@ -65,34 +79,31 @@ theme: minima
 - [Как умирают диктаторы](https://t.me/dilettante_voiceover/280)
 - [Студенческое сопротивление диктатуре в Аргентине и Греции](https://t.me/dilettante_voiceover/278)
 
+### Религиозный анархизм
+- [Анархо-Ислам. Энтони Т. Фискелла](https://t.me/dilettante_voiceover/229)
+- [Анархо-буддизм. Гэри Снайдер](https://t.me/dilettante_voiceover/262)
+
 ### Прочие источники
 - [Мифы и легенды: Че Гевара](https://t.me/dilettante_voiceover/80)
-- [Упразднение работы. Боб Блэк](https://t.me/dilettante_voiceover/90)
 - [Чикагские мученики. Игорь Подшивалов](https://t.me/dilettante_voiceover/103)
 - [Анархизм в Японии (о Фумико Канеко, Ито Ноэ, Кано Суга)](https://t.me/dilettante_voiceover/71)
 - [Биография Канеко Фумико](https://t.me/dilettante_voiceover/186)
-- [Совесть нацистов. Клаудия Кунц (отрывок)](https://t.me/dilettante_voiceover/67)
 - [История движения за освобождения животных. Кит Манн](https://t.me/dilettante_voiceover/111)
 - [Жанна д'Арк сибирской контрреволюции. Игорь Подшивалов](https://t.me/dilettante_voiceover/113)
 - [Женское сопротивление диктатуре Пиночета. Ядвига Пипер](https://t.me/dilettante_voiceover/123)
 - [Eating Animals. Джонатан Фоер](https://t.me/dilettante_voiceover/126)
 - [Забота о "магических" существах? Моральная оценка литературного тропа "Любитель животных" в Гарри Поттере. Анника Хьюгссон](https://t.me/dilettante_voiceover/141)
 - [Освобождение животных и социальная революция. Брайн А. Доминик](https://t.me/dilettante_voiceover/201)
-- [Любовь как революция, или "несмотря на Грамши" Полуты Бодуновой. Елена Гапова](https://t.me/dilettante_voiceover/131)
 - [Индивидуализм и социализм. Денис Хромый](https://t.me/dilettante_voiceover/191)
 - [Преданная революция. Игорь Подшивалов](https://t.me/dilettante_voiceover/119)
 - [Мужчины и женщины в Красной армии. Олег Будницкий](https://t.me/dilettante_voiceover/194)
 - [Клиническое исследование роли враждебности и пожеланий смерти со стороны семьи и общества при суицидальных попытках. Джон Молтсбергер](https://t.me/dilettante_voiceover/62)
 - [Опасность самоубийства: клиническая оценка и принятие решений. Джон Молтсбергер](https://t.me/dilettante_voiceover/206)
 - [Катехизис революционера. Сергей Нечаев](https://t.me/dilettante_voiceover/218)
-- [Анархо-Ислам. Энтони Т. Фискелла](https://t.me/dilettante_voiceover/229)
-- [О гендере, нации и классе в посткоммунизме. Елена Гапова](https://t.me/dilettante_voiceover/239)
 - [Катынское преступление. Международное общество "Мемориал"](https://t.me/dilettante_voiceover/240)
 - [Голодная степь. Сара Камерон](https://t.me/dilettante_voiceover/247)
 - [Борьба за наши жизни. Сrimethinc](https://t.me/dilettante_voiceover/250)
 - [Новобранцам. Альбер Либертад](https://t.me/dilettante_voiceover/251)
-- [Анархо-буддизм. Гэри Снайдер](https://t.me/dilettante_voiceover/262)
-- [Оруэлл-гуманист. Вернон Ричардс](https://t.me/dilettante_voiceover/273)
 - [О гражданском неповиновении. Генри Торо](https://t.me/dilettante_voiceover/267)
 
 ## Художественные тексты
