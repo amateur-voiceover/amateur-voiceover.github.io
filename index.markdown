@@ -35,6 +35,7 @@ theme: minima
 - [Каждый имеет право на свои 15 минут силы](https://t.me/dilettante_voiceover/223)
 - [В зазеркалье и в аду](https://t.me/dilettante_voiceover/246)
 - [Вознестись в сиянии (часть 1)](https://t.me/dilettante_voiceover/283)
+- [Вознестись в сиянии (часть 2)](https://t.me/dilettante_voiceover/298)
 
 ### Совершая убийство, или Политическая экономия прав животных. Боб Торрес
 - [Глава I](https://t.me/dilettante_voiceover/220)
@@ -50,6 +51,7 @@ theme: minima
 - [Глава 3](https://t.me/dilettante_voiceover/291)
 - [Глава 4](https://t.me/dilettante_voiceover/293)
 - [Глава 5](https://t.me/dilettante_voiceover/296)
+- [Глава 6](https://t.me/dilettante_voiceover/317)
 
 ### По следам Бурхана Шахиди или Синьцзян 50 лет спустя. Илья Фальковский
 - [Часть 1. Эпизод 1](https://t.me/dilettante_voiceover/270)
@@ -102,9 +104,11 @@ theme: minima
 - [Катехизис революционера. Сергей Нечаев](https://t.me/dilettante_voiceover/218)
 - [Катынское преступление. Международное общество "Мемориал"](https://t.me/dilettante_voiceover/240)
 - [Голодная степь. Сара Камерон](https://t.me/dilettante_voiceover/247)
-- [Борьба за наши жизни. Сrimethinc](https://t.me/dilettante_voiceover/250)
+- [Борьба за наши жизни. Часть 1. Сrimethinc](https://t.me/dilettante_voiceover/250)
+- [Борьба за наши жизни. Часть 2. Сrimethinc](https://t.me/dilettante_voiceover/316)
 - [Новобранцам. Альбер Либертад](https://t.me/dilettante_voiceover/251)
 - [О гражданском неповиновении. Генри Торо](https://t.me/dilettante_voiceover/267)
+- [Анархо-синдикалізм як напрям ідейно-інституційної еволюції лівого політичного руху. Геннадій Шипунов](https://t.me/dilettante_voiceover/315)
 
 ## Художественные тексты
 - [Надія. Леся Украинка](https://t.me/dilettante_voiceover/110)
