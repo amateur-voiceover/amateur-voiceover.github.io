@@ -81,6 +81,11 @@ theme: minima
 - [Как умирают диктаторы](https://t.me/dilettante_voiceover/280)
 - [Студенческое сопротивление диктатуре в Аргентине и Греции](https://t.me/dilettante_voiceover/278)
 
+### Сrimethinc
+- [Борьба за наши жизни. Часть 1. Сrimethinc](https://t.me/dilettante_voiceover/250)
+- [Борьба за наши жизни. Часть 2. Сrimethinc](https://t.me/dilettante_voiceover/316)
+- [Борьба за наши жизни. Часть 3. Сrimethinc](https://t.me/dilettante_voiceover/318)
+
 ### Религиозный анархизм
 - [Анархо-Ислам. Энтони Т. Фискелла](https://t.me/dilettante_voiceover/229)
 - [Анархо-буддизм. Гэри Снайдер](https://t.me/dilettante_voiceover/262)
@@ -104,11 +109,10 @@ theme: minima
 - [Катехизис революционера. Сергей Нечаев](https://t.me/dilettante_voiceover/218)
 - [Катынское преступление. Международное общество "Мемориал"](https://t.me/dilettante_voiceover/240)
 - [Голодная степь. Сара Камерон](https://t.me/dilettante_voiceover/247)
-- [Борьба за наши жизни. Часть 1. Сrimethinc](https://t.me/dilettante_voiceover/250)
-- [Борьба за наши жизни. Часть 2. Сrimethinc](https://t.me/dilettante_voiceover/316)
 - [Новобранцам. Альбер Либертад](https://t.me/dilettante_voiceover/251)
 - [О гражданском неповиновении. Генри Торо](https://t.me/dilettante_voiceover/267)
 - [Анархо-синдикалізм як напрям ідейно-інституційної еволюції лівого політичного руху. Геннадій Шипунов](https://t.me/dilettante_voiceover/315)
+- [Батрак, швец, слесарь, машинист: лица вожаков махновского движения. Анатолий Дубовик](https://t.me/dilettante_voiceover/319)
 
 ## Художественные тексты
 - [Надія. Леся Украинка](https://t.me/dilettante_voiceover/110)
