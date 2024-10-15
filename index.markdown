@@ -36,6 +36,16 @@ theme: minima
 - [В зазеркалье и в аду](https://t.me/dilettante_voiceover/246)
 - [Вознестись в сиянии (часть 1)](https://t.me/dilettante_voiceover/283)
 - [Вознестись в сиянии (часть 2)](https://t.me/dilettante_voiceover/298)
+- [Вознестись в сиянии (часть 3)](https://t.me/dilettante_voiceover/396)
+- [Не подавать руки](https://t.me/dilettante_voiceover/397)
+- [Демократы с травматами](https://t.me/dilettante_voiceover/398)
+- [Петр - Октавио - Барселона](https://t.me/dilettante_voiceover/399)
+- [Прощай, балабол, или кого похоронил openspace.ru](https://t.me/dilettante_voiceover/401)
+- [Фемические суды и грунтовые монстры](https://t.me/dilettante_voiceover/402)
+- [Ребята, по-другому не бывает](https://t.me/dilettante_voiceover/403)
+- [Как я в Интерпол ходил](https://t.me/dilettante_voiceover/405)
+- [Анатомия богача](https://t.me/dilettante_voiceover/410)
+- [Смерть в лимбе](https://t.me/dilettante_voiceover/412)
 
 ### Совершая убийство, или Политическая экономия прав животных. Боб Торрес
 - [Глава I](https://t.me/dilettante_voiceover/220)
@@ -113,6 +123,11 @@ theme: minima
 - [О гражданском неповиновении. Генри Торо](https://t.me/dilettante_voiceover/267)
 - [Анархо-синдикалізм як напрям ідейно-інституційної еволюції лівого політичного руху. Геннадій Шипунов](https://t.me/dilettante_voiceover/315)
 - [Батрак, швец, слесарь, машинист: лица вожаков махновского движения. Анатолий Дубовик](https://t.me/dilettante_voiceover/319)
+- [Учиться? Чего ради? Лоуренс Лабади](https://t.me/dilettante_voiceover/409)
+- [Война, война и ещё раз война. Лоуренс Лабади](https://t.me/dilettante_voiceover/411)
+- [Левые? Спасибо, но нет. Джон Зерзан](https://t.me/dilettante_voiceover/408)
+- [Побег как бунт. Петр Рябов](https://t.me/dilettante_voiceover/400)
+- [Зеленая книга ИРА](https://t.me/dilettante_voiceover/393)
 
 ## Художественные тексты
 - [Надія. Леся Украинка](https://t.me/dilettante_voiceover/110)
