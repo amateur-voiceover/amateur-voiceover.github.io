@@ -14,7 +14,7 @@ theme: minima
 - [Анархия работает. Примеры из истории России.](https://t.me/dilettante_voiceover/3)
 - [Десять бесед об анархизме. Эррико Малатеста](https://t.me/dilettante_voiceover/145)
 - [Тюрьма. Питер Гелдерлоос](https://t.me/dilettante_voiceover/252) 
-- [Упразнение работы. Боб Блэк](https://t.me/dilettante_voiceover/90)
+- [Упразднение работы. Боб Блэк](https://t.me/dilettante_voiceover/90)
 
 ## Отрывки из книг
 
@@ -54,6 +54,19 @@ theme: minima
 ### Революция умерла! Да здравствует революция! Юрий Глушаков
 - [Введение](https://t.me/dilettante_voiceover/264)
 - [Глава 1. Накануне. Возникновение и деятельность анархо-коммунистических групп в 1903—1904 гг.](https://t.me/dilettante_voiceover/269)
+- [Глава 2 (1,2)](https://t.me/dilettante_voiceover/340)
+- [Глава 2 (3)](https://t.me/dilettante_voiceover/342)
+- [Глава 2 (4. Деятельность анархистов за пределами Белостока)](https://t.me/dilettante_voiceover/344)
+- [Глава 2 (5,6,7](https://t.me/dilettante_voiceover/348)
+- [Глава 3](https://t.me/dilettante_voiceover/356)
+- [Глава 3](https://t.me/dilettante_voiceover/356)
+- [Глава 4 (1)](https://t.me/dilettante_voiceover/368)
+- [Глава 4 (2)](https://t.me/dilettante_voiceover/373)
+- [Глава 5 (1)](https://t.me/dilettante_voiceover/375)
+- [Глава 5 (2)](https://t.me/dilettante_voiceover/379)
+- [Глава 5 (3)](https://t.me/dilettante_voiceover/387)
+- [Глава 5 (4)](https://t.me/dilettante_voiceover/389)
+- [Глава 5 (5)](https://t.me/dilettante_voiceover/390)
 
 ### Путешествие по местам лишения. Иван Асташин
 - [Глава 1](https://t.me/dilettante_voiceover/266)
