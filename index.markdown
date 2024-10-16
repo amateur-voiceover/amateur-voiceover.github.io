@@ -14,7 +14,7 @@ theme: minima
 - [Анархия работает. Примеры из истории России.](https://t.me/dilettante_voiceover/3)
 - [Десять бесед об анархизме. Эррико Малатеста](https://t.me/dilettante_voiceover/145)
 - [Тюрьма. Питер Гелдерлоос](https://t.me/dilettante_voiceover/252) 
-- [Упразнение работы. Боб Блэк](https://t.me/dilettante_voiceover/90)
+- [Упразднение работы. Боб Блэк](https://t.me/dilettante_voiceover/90)
 
 ## Отрывки из книг
 
@@ -46,6 +46,7 @@ theme: minima
 - [Как я в Интерпол ходил](https://t.me/dilettante_voiceover/405)
 - [Анатомия богача](https://t.me/dilettante_voiceover/410)
 - [Смерть в лимбе](https://t.me/dilettante_voiceover/412)
+- [Оксана Челышева – Воздух несвободы](https://t.me/dilettante_voiceover/386)
 
 ### Совершая убийство, или Политическая экономия прав животных. Боб Торрес
 - [Глава I](https://t.me/dilettante_voiceover/220)
@@ -54,6 +55,19 @@ theme: minima
 ### Революция умерла! Да здравствует революция! Юрий Глушаков
 - [Введение](https://t.me/dilettante_voiceover/264)
 - [Глава 1. Накануне. Возникновение и деятельность анархо-коммунистических групп в 1903—1904 гг.](https://t.me/dilettante_voiceover/269)
+- [Глава 2 (1,2)](https://t.me/dilettante_voiceover/340)
+- [Глава 2 (3)](https://t.me/dilettante_voiceover/342)
+- [Глава 2 (4. Деятельность анархистов за пределами Белостока)](https://t.me/dilettante_voiceover/344)
+- [Глава 2 (5,6,7](https://t.me/dilettante_voiceover/348)
+- [Глава 3](https://t.me/dilettante_voiceover/356)
+- [Глава 3](https://t.me/dilettante_voiceover/356)
+- [Глава 4 (1)](https://t.me/dilettante_voiceover/368)
+- [Глава 4 (2)](https://t.me/dilettante_voiceover/373)
+- [Глава 5 (1)](https://t.me/dilettante_voiceover/375)
+- [Глава 5 (2)](https://t.me/dilettante_voiceover/379)
+- [Глава 5 (3)](https://t.me/dilettante_voiceover/387)
+- [Глава 5 (4)](https://t.me/dilettante_voiceover/389)
+- [Глава 5 (5)](https://t.me/dilettante_voiceover/390)
 
 ### Путешествие по местам лишения. Иван Асташин
 - [Глава 1](https://t.me/dilettante_voiceover/266)
@@ -62,6 +76,7 @@ theme: minima
 - [Глава 4](https://t.me/dilettante_voiceover/293)
 - [Глава 5](https://t.me/dilettante_voiceover/296)
 - [Глава 6](https://t.me/dilettante_voiceover/317)
+- [Глава 7](https://t.me/dilettante_voiceover/353)
 
 ### По следам Бурхана Шахиди или Синьцзян 50 лет спустя. Илья Фальковский
 - [Часть 1. Эпизод 1](https://t.me/dilettante_voiceover/270)
@@ -80,6 +95,7 @@ theme: minima
 - ["Править, подчиняясь". Как устроено сапатистское самоуправление? Валентин Горбунов](https://t.me/dilettante_voiceover/161)
 - [Мария Никифорова: жизнь и смерть анархистки. Анатолий Дубовик](https://t.me/dilettante_voiceover/265)
 - [Коллективизация в Каталонии](https://t.me/dilettante_voiceover/284)
+- [Неактуальная тема: о направлениях анархизма. Анатолий Дубовик](https://t.me/dilettante_voiceover/384)
 
 ### Бармалеи/Партизаны
 - [Бойня (отрывок). Бармалеи/Партизаны](https://t.me/dilettante_voiceover/185)
@@ -95,6 +111,9 @@ theme: minima
 - [Борьба за наши жизни. Часть 1. Сrimethinc](https://t.me/dilettante_voiceover/250)
 - [Борьба за наши жизни. Часть 2. Сrimethinc](https://t.me/dilettante_voiceover/316)
 - [Борьба за наши жизни. Часть 3. Сrimethinc](https://t.me/dilettante_voiceover/318)
+- [Борьба за наши жизни. Часть 4. Сrimethinc](https://t.me/dilettante_voiceover/333)
+- [Борьба за наши жизни. Часть 5. Сrimethinc](https://t.me/dilettante_voiceover/345)
+- [Борьба за наши жизни. Часть 6. Сrimethinc](https://t.me/dilettante_voiceover/351)
 
 ### Религиозный анархизм
 - [Анархо-Ислам. Энтони Т. Фискелла](https://t.me/dilettante_voiceover/229)
@@ -128,6 +147,10 @@ theme: minima
 - [Левые? Спасибо, но нет. Джон Зерзан](https://t.me/dilettante_voiceover/408)
 - [Побег как бунт. Петр Рябов](https://t.me/dilettante_voiceover/400)
 - [Зеленая книга ИРА](https://t.me/dilettante_voiceover/393)
+- [Анархия и порядок. Эррико Малатеста](https://t.me/dilettante_voiceover/383)
+- [Дуррути. Памяти героя. Автономное действие](https://t.me/dilettante_voiceover/372)
+- [Ты Анархист? Ответ может тебя удивить. Дэвид Грэбер](https://t.me/dilettante_voiceover/370)
+- [Анархизм без прилагательных. Кевин Карсон](https://t.me/dilettante_voiceover/355)
 
 ## Художественные тексты
 - [Надія. Леся Украинка](https://t.me/dilettante_voiceover/110)
@@ -135,7 +158,10 @@ theme: minima
 - [Сапатистская сказка: история других. Либертарий Джордж](https://t.me/dilettante_voiceover/167)
 - [Два стихотворения из сборника "Поэзия последнего времени"](https://t.me/dilettante_voiceover/158)
 - [Захваченный дом. Хулио Кортасар](https://t.me/dilettante_voiceover/203)
+- [Почему? Брятья Гордины](https://t.me/dilettante_voiceover/354)
 
 ## Исторические источники
 - [Первый приказ Нестора Махно](https://t.me/dilettante_voiceover/226)
+- [Автобиография. С.А. Иванова-Борейшо](https://t.me/dilettante_voiceover/376)
+- [Первая типография народной воли. С.А. Иванова-Борейшо](https://t.me/dilettante_voiceover/363)
 
