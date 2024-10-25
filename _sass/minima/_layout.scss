@@ -311,6 +311,7 @@
   }
 
   h4 {
+    font-weight: bold;
     @include relative-font-size(1.25);
 
     @include media-query($on-laptop) {
