@@ -56,14 +56,18 @@ theme: minima
 ### Революция умерла! Да здравствует революция! Юрий Глушаков
 - [Введение](https://t.me/dilettante_voiceover/264)
 - [Глава 1. Накануне. Возникновение и деятельность анархо-коммунистических групп в 1903—1904 гг.](https://t.me/dilettante_voiceover/269)
+#### Глава 2. Первая революция. На гребне волны. 1905—1907 гг.
 - [Глава 2 (1,2)](https://t.me/dilettante_voiceover/340)
 - [Глава 2 (3)](https://t.me/dilettante_voiceover/342)
 - [Глава 2 (4. Деятельность анархистов за пределами Белостока)](https://t.me/dilettante_voiceover/344)
 - [Глава 2 (5,6,7](https://t.me/dilettante_voiceover/348)
+#### Глава 3. Отступление. 1907—1917 гг.
 - [Глава 3](https://t.me/dilettante_voiceover/356)
 - [Глава 3](https://t.me/dilettante_voiceover/356)
+#### Глава 4. На переломе эпох. Анархизм в Беларуси в период революции 1917 г., гражданской войны и иностранной интервенции 1917—1921 гг
 - [Глава 4 (1)](https://t.me/dilettante_voiceover/368)
 - [Глава 4 (2)](https://t.me/dilettante_voiceover/373)
+#### Глава 5. Новое время. Анархизм в советской Беларуси (1921—1927 гг.)
 - [Глава 5 (1)](https://t.me/dilettante_voiceover/375)
 - [Глава 5 (2)](https://t.me/dilettante_voiceover/379)
 - [Глава 5 (3)](https://t.me/dilettante_voiceover/387)
@@ -81,6 +85,7 @@ theme: minima
 
 ### По следам Бурхана Шахиди или Синьцзян 50 лет спустя. Илья Фальковский
 - [Часть 1. Эпизод 1](https://t.me/dilettante_voiceover/270)
+- [Часть 1. Эпизод 2](https://t.me/dilettante_voiceover/347)
 
 ## Отдельные статьи, эссе.
 
