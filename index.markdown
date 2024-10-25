@@ -15,6 +15,7 @@ theme: minima
 - [Десять бесед об анархизме. Эррико Малатеста](https://t.me/dilettante_voiceover/145)
 - [Тюрьма. Питер Гелдерлоос](https://t.me/dilettante_voiceover/252) 
 - [Упразднение работы. Боб Блэк](https://t.me/dilettante_voiceover/90)
+- [Цвета параллельного мира. Николай Дедок](https://t.me/dilettante_voiceover/346)
 
 ## Отрывки из книг
 
@@ -108,12 +109,12 @@ theme: minima
 - [Студенческое сопротивление диктатуре в Аргентине и Греции](https://t.me/dilettante_voiceover/278)
 
 ### Сrimethinc
-- [Борьба за наши жизни. Часть 1. Сrimethinc](https://t.me/dilettante_voiceover/250)
-- [Борьба за наши жизни. Часть 2. Сrimethinc](https://t.me/dilettante_voiceover/316)
-- [Борьба за наши жизни. Часть 3. Сrimethinc](https://t.me/dilettante_voiceover/318)
-- [Борьба за наши жизни. Часть 4. Сrimethinc](https://t.me/dilettante_voiceover/333)
-- [Борьба за наши жизни. Часть 5. Сrimethinc](https://t.me/dilettante_voiceover/345)
-- [Борьба за наши жизни. Часть 6. Сrimethinc](https://t.me/dilettante_voiceover/351)
+- [Борьба за наши жизни. Часть 1. Crimethinc](https://t.me/dilettante_voiceover/250)
+- [Борьба за наши жизни. Часть 2. Crimethinc](https://t.me/dilettante_voiceover/316)
+- [Борьба за наши жизни. Часть 3. Crimethinc](https://t.me/dilettante_voiceover/318)
+- [Борьба за наши жизни. Часть 4. Crimethinc](https://t.me/dilettante_voiceover/333)
+- [Борьба за наши жизни. Часть 5. Crimethinc](https://t.me/dilettante_voiceover/345)
+- [Борьба за наши жизни. Часть 6. Crimethinc](https://t.me/dilettante_voiceover/351)
 
 ### Религиозный анархизм
 - [Анархо-Ислам. Энтони Т. Фискелла](https://t.me/dilettante_voiceover/229)
@@ -151,6 +152,10 @@ theme: minima
 - [Дуррути. Памяти героя. Автономное действие](https://t.me/dilettante_voiceover/372)
 - [Ты Анархист? Ответ может тебя удивить. Дэвид Грэбер](https://t.me/dilettante_voiceover/370)
 - [Анархизм без прилагательных. Кевин Карсон](https://t.me/dilettante_voiceover/355)
+- [Парижская комунна. Вольтарина Де Клер](https://t.me/dilettante_voiceover/413)
+- [Анархия — мать порядка. Илья Романов](https://t.me/dilettante_voiceover/343)
+- [Мистические анархисты. Николай Герасимов](https://t.me/dilettante_voiceover/341)
+- [Общество против государства. Пьер Кластр](https://t.me/dilettante_voiceover/330)
 
 ## Художественные тексты
 - [Надія. Леся Украинка](https://t.me/dilettante_voiceover/110)
@@ -158,10 +163,11 @@ theme: minima
 - [Сапатистская сказка: история других. Либертарий Джордж](https://t.me/dilettante_voiceover/167)
 - [Два стихотворения из сборника "Поэзия последнего времени"](https://t.me/dilettante_voiceover/158)
 - [Захваченный дом. Хулио Кортасар](https://t.me/dilettante_voiceover/203)
-- [Почему? Брятья Гордины](https://t.me/dilettante_voiceover/354)
+- [Почему? Братья Гордины](https://t.me/dilettante_voiceover/354)
 
 ## Исторические источники
 - [Первый приказ Нестора Махно](https://t.me/dilettante_voiceover/226)
 - [Автобиография. С.А. Иванова-Борейшо](https://t.me/dilettante_voiceover/376)
 - [Первая типография народной воли. С.А. Иванова-Борейшо](https://t.me/dilettante_voiceover/363)
+- [Анархический манифест. Алексей Боровой](https://t.me/dilettante_voiceover/337)
 
