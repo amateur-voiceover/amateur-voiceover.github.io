@@ -51,6 +51,11 @@ theme: minima
 
 ## Книги в работе {#book_in_progress}
 
+### Голодная степь. Сара Камерон
+- [Введение часть 1](https://t.me/dilettante_voiceover/247)
+- [Введение часть 2](https://t.me/dilettante_voiceover/455)
+- [Глава 1](https://t.me/dilettante_voiceover/458)
+
 ### Корреспондент Гаскаров в аду и другие истории. Петя Косово. {#kosovo}
 - [Предисловие](https://t.me/dilettante_voiceover/212)
 - [Каждый имеет право на свои 15 минут силы](https://t.me/dilettante_voiceover/223)
@@ -68,6 +73,9 @@ theme: minima
 - [Анатомия богача](https://t.me/dilettante_voiceover/410)
 - [Смерть в лимбе](https://t.me/dilettante_voiceover/412)
 - [Оксана Челышева – Воздух несвободы](https://t.me/dilettante_voiceover/386)
+- [Фекальная экономика и синьор Пук-Пук](https://t.me/dilettante_voiceover/421)
+- [Центр Экстремизма](https://t.me/dilettante_voiceover/438)
+- [Обезглавлено крыло антифашистов](https://t.me/dilettante_voiceover/438)
 
 ### Совершая убийство, или Политическая экономия прав животных. Боб Торрес {#torens}
 - [Глава I](https://t.me/dilettante_voiceover/220)
@@ -106,6 +114,19 @@ theme: minima
 - [Глава 5](https://t.me/dilettante_voiceover/296)
 - [Глава 6](https://t.me/dilettante_voiceover/317)
 - [Глава 7](https://t.me/dilettante_voiceover/353)
+- [Глава 8](https://t.me/dilettante_voiceover/424)
+- [Глава 9](https://t.me/dilettante_voiceover/430)
+
+### Моя оборона. Сексуальное насилие: мифы и факты
+- [Предисловие](https://t.me/dilettante_voiceover/427)
+- [Мы делаем вид, будто этого нет. Лиза Меламед](https://t.me/dilettante_voiceover/432)
+- [В полиции говорят: "Подумаешь, ничего же не произошло. Павел Никулин](https://t.me/dilettante_voiceover/433)
+- [Сексуальное насилие: мифы и факты. Мария Мохова](https://t.me/dilettante_voiceover/435)
+- [Моя оборона: как не сесть, защищая себя?. Анна Жавнерович, Алиса Хохлова](https://t.me/dilettante_voiceover/441)
+- [Моя история о том, как я справлялась с посттравматическим расстройством (ПТСР) после изнасилования. Елена Ливанова](https://t.me/dilettante_voiceover/443)
+- [О проблеме домашнего и сексуального насилия. Светлана Толстова](https://t.me/dilettante_voiceover/444)
+- [Влияние реакции окружения на развитие посттравматической симптоматики у пострадавших от сексуального насилия. Марина Миронова](https://t.me/dilettante_voiceover/445)
+- [О центре "Сестры" и приложении "Насилию.нет"](https://t.me/dilettante_voiceover/446)
 
 ### По следам Бурхана Шахиди или Синьцзян 50 лет спустя. Илья Фальковский {#falkovski}
 - [Часть 1. Эпизод 1](https://t.me/dilettante_voiceover/270)
@@ -122,7 +143,7 @@ theme: minima
 - [Язык империализма и язык освобождения: Луиза Мишель и колониальные отношения между французами и канаками. Каролин Дж. Эйхнер](https://t.me/dilettante_voiceover/183)
 - [Работницы чайных плантаций в Бангладеш: больше работы, меньше жизни. BASF](https://t.me/dilettante_voiceover/187)
 - [Парижская коммуна (из записей Вольтерины де Клер)](https://t.me/dilettante_voiceover/107)
-- ["Править, подчиняясь". Как устроено сапатистское самоуправление? Валентин Горбунов](https://t.me/dilettante_voiceover/161)
+- ["Править подчиняясь". Как устроено сапатистское самоуправление? Валентин Горбунов](https://t.me/dilettante_voiceover/161)
 - [Мария Никифорова: жизнь и смерть анархистки. Анатолий Дубовик](https://t.me/dilettante_voiceover/265)
 - [Коллективизация в Каталонии](https://t.me/dilettante_voiceover/284)
 - [Неактуальная тема: о направлениях анархизма. Анатолий Дубовик](https://t.me/dilettante_voiceover/384)
@@ -167,7 +188,6 @@ theme: minima
 - [Опасность самоубийства: клиническая оценка и принятие решений. Джон Молтсбергер](https://t.me/dilettante_voiceover/206)
 - [Катехизис революционера. Сергей Нечаев](https://t.me/dilettante_voiceover/218)
 - [Катынское преступление. Международное общество "Мемориал"](https://t.me/dilettante_voiceover/240)
-- [Голодная степь. Сара Камерон](https://t.me/dilettante_voiceover/247)
 - [Новобранцам. Альбер Либертад](https://t.me/dilettante_voiceover/251)
 - [О гражданском неповиновении. Генри Торо](https://t.me/dilettante_voiceover/267)
 - [Анархо-синдикалізм як напрям ідейно-інституційної еволюції лівого політичного руху. Геннадій Шипунов](https://t.me/dilettante_voiceover/315)
@@ -185,6 +205,25 @@ theme: minima
 - [Анархия — мать порядка. Илья Романов](https://t.me/dilettante_voiceover/343)
 - [Мистические анархисты. Николай Герасимов](https://t.me/dilettante_voiceover/341)
 - [Общество против государства. Пьер Кластр](https://t.me/dilettante_voiceover/330)
+- [Что должны делать анархисты в случае войны. Макс Неттлау](https://t.me/dilettante_voiceover/463)
+- [Довольство для всех. П.А. Кропоткин](https://t.me/dilettante_voiceover/462)
+- [Политические права. П.А. Кропоткин](https://t.me/dilettante_voiceover/460)
+- [Антимилитаризм. Был ли он ясно понят? П.А. Кропоткин](https://t.me/dilettante_voiceover/454)
+- [Наши богатства. П.А. Кропоткин](https://t.me/dilettante_voiceover/459)
+- [Ребенок и его враги. Эмма Гольдман](https://t.me/dilettante_voiceover/457)
+- [Красный фашизм. Всеволод Волин](https://t.me/dilettante_voiceover/456)
+- [Я никогда не была одна и не буду. Нас миллионы и мы всегда были неугодны обществу. Татьяна Калинина](https://t.me/dilettante_voiceover/452)
+- [Федерализм. Джеймс Гильом](https://t.me/dilettante_voiceover/442)
+- [От кого мы спасаем море. Черная чомга](https://t.me/dilettante_voiceover/437)
+- [Почему корпоративный капитализм нежизнеспособен. Кевин Карсон](https://t.me/dilettante_voiceover/436)
+- [Коммунизация общества при помощи потребительских кооперативов. Логан Мари Глиттербомб](https://t.me/dilettante_voiceover/431)
+- [Цивилизация подобна реактивному самолёту. Дэвид Уотсон](https://t.me/dilettante_voiceover/423)
+- [Кто будет делать грязную работу? Тони Гибсон](https://t.me/dilettante_voiceover/420)
+- [Средства и цели. Зои Бейкер](https://t.me/dilettante_voiceover/419)
+- [В чер мазница между рыночным анархизмом и анархо-капитализмом. Келли Ви](https://t.me/dilettante_voiceover/418)
+- [Родина и человечество. Элизе Реклю](https://t.me/dilettante_voiceover/417)
+- [Что такое человек и весь мир театр. Лоуренс Лабади](https://t.me/dilettante_voiceover/416)
+- [Инфантильный радикализм. Лоуренс Лабади](https://t.me/dilettante_voiceover/415)
 
 ## Художественные тексты {#art}
 - [Надія. Леся Украинка](https://t.me/dilettante_voiceover/110)
@@ -193,6 +232,8 @@ theme: minima
 - [Два стихотворения из сборника "Поэзия последнего времени"](https://t.me/dilettante_voiceover/158)
 - [Захваченный дом. Хулио Кортасар](https://t.me/dilettante_voiceover/203)
 - [Почему? Братья Гордины](https://t.me/dilettante_voiceover/354)
+- [Избранные стихотворения. Лолита Агамалова](https://t.me/dilettante_voiceover/452)
+- [Лесбийская поэзия. Сапфо, София Парнок, Одри Лорд, Джун Джордан](https://t.me/dilettante_voiceover/448)
 
 ## Исторические источники {#history}
 - [Первый приказ Нестора Махно](https://t.me/dilettante_voiceover/226)
