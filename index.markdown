@@ -132,6 +132,10 @@ theme: minima
 - [Часть 1. Эпизод 1](https://t.me/dilettante_voiceover/270)
 - [Часть 1. Эпизод 2](https://t.me/dilettante_voiceover/347)
 
+## Временные автономные зоны. Питер Лэмборн Уилсон, Хаким Бей
+- [Пиратские утопии](https://t.me/dilettante_voiceover/466)
+- [В ожидании революции](https://t.me/dilettante_voiceover/467)
+
 ## Отдельные статьи, эссе. {#essay}
 
 ### Akrateia {#akrateia}
