@@ -51,10 +51,15 @@ theme: minima
 
 ## Книги в работе {#book_in_progress}
 
+### Пустыня
+- [1. (Глобального) будущего нет](https://t.me/dilettante_voiceover/475)
+
 ### Голодная степь. Сара Камерон
 - [Введение часть 1](https://t.me/dilettante_voiceover/247)
 - [Введение часть 2](https://t.me/dilettante_voiceover/455)
 - [Глава 1](https://t.me/dilettante_voiceover/458)
+- [Глава 1](https://t.me/dilettante_voiceover/471)
+- [Глава 3](https://t.me/dilettante_voiceover/472)
 
 ### Корреспондент Гаскаров в аду и другие истории. Петя Косово. {#kosovo}
 - [Предисловие](https://t.me/dilettante_voiceover/212)
