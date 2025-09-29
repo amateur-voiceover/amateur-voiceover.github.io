@@ -95,7 +95,7 @@ theme: minima
 - [Введение часть 1](https://t.me/dilettante_voiceover/247)
 - [Введение часть 2](https://t.me/dilettante_voiceover/455)
 - [Глава 1](https://t.me/dilettante_voiceover/458)
-- [Глава 1](https://t.me/dilettante_voiceover/471)
+- [Глава 2](https://t.me/dilettante_voiceover/471)
 - [Глава 3](https://t.me/dilettante_voiceover/472)
 
 ### Корреспондент Гаскаров в аду и другие истории. Петя Косово. {#kosovo}
