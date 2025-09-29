@@ -42,7 +42,7 @@ theme: minima
   </summary>
   <ul>
     <li><a href="https://t.me/dilettante_voiceover/264">Введение</a></li>
-    <li><a href="https://t.me/dilettante_voiceover/269">[Глава 1. Накануне. Возникновение и деятельность анархо-коммунистических групп в 1903—1904 гг.</a></li>
+    <li><a href="https://t.me/dilettante_voiceover/269">Глава 1. Накануне. Возникновение и деятельность анархо-коммунистических групп в 1903—1904 гг.</a></li>
   
     <li>Глава 2. Первая революция. На гребне волны. 1905—1907 гг.
       <ul>
@@ -62,7 +62,7 @@ theme: minima
       </ul>
     </li>
 
-    <li>#### Глава 5. Новое время. Анархизм в советской Беларуси (1921—1927 гг.)
+    <li>Глава 5. Новое время. Анархизм в советской Беларуси (1921—1927 гг.)
       <ul>
         <li><a href="https://t.me/dilettante_voiceover/375">Глава 5 (1)</a></li>
         <li><a href="https://t.me/dilettante_voiceover/379">Глава 5 (2)</a></li>
