@@ -40,28 +40,38 @@ theme: minima
   <summary>
   Революция умерла! Да здравствует революция! Юрий Глушаков
   </summary>
-  - [Введение](https://t.me/dilettante_voiceover/264)
-  - [Глава 1. Накануне. Возникновение и деятельность анархо-коммунистических групп в 1903—1904 гг.](https://t.me/dilettante_voiceover/269)
+  <ul>
+    <li><a href="https://t.me/dilettante_voiceover/264">Введение</a></li>
+    <li><a href="https://t.me/dilettante_voiceover/269">[Глава 1. Накануне. Возникновение и деятельность анархо-коммунистических групп в 1903—1904 гг.</a></li>
   
-  #### Глава 2. Первая революция. На гребне волны. 1905—1907 гг.
-  - [Глава 2 (1, 2)](https://t.me/dilettante_voiceover/340)
-  - [Глава 2 (3)](https://t.me/dilettante_voiceover/342)
-  - [Глава 2 (4. Деятельность анархистов за пределами Белостока)](https://t.me/dilettante_voiceover/344)
-  - [Глава 2 (5, 6, 7)](https://t.me/dilettante_voiceover/348)
+    <li>Глава 2. Первая революция. На гребне волны. 1905—1907 гг.
+      <ul>
+        <li><a href="https://t.me/dilettante_voiceover/340">Глава 2 (1, 2)</a></li>
+        <li><a href="https://t.me/dilettante_voiceover/342">Глава 2 (3)</a></li>
+        <li><a href="https://t.me/dilettante_voiceover/344">Глава 2 (4. Деятельность анархистов за пределами Белостока)</a></li>
+        <li><a href="https://t.me/dilettante_voiceover/348">Глава 2 (5, 6, 7)</a></li>
+      </ul>
+    </li>
 
-  #### Глава 3. Отступление. 1907—1917 гг.
-  - [Глава 3](https://t.me/dilettante_voiceover/356)
+    <li><a href="https://t.me/dilettante_voiceover/356">Глава 3. Отступление. 1907—1917 гг</a></li>
 
-  #### Глава 4. На переломе эпох. Анархизм в Беларуси в период революции 1917 г., гражданской войны и иностранной интервенции 1917—1921 гг
-  - [Глава 4 (1)](https://t.me/dilettante_voiceover/368)
-  - [Глава 4 (2)](https://t.me/dilettante_voiceover/373)
+    <li>Глава 4. На переломе эпох. Анархизм в Беларуси в период революции 1917 г., гражданской войны и иностранной интервенции 1917—1921 гг
+      <ul>
+        <li><a href="https://t.me/dilettante_voiceover/368">Глава 4 (1)</a></li>
+        <li><a href="https://t.me/dilettante_voiceover/373">Глава 4 (2)</a></li>
+      </ul>
+    </li>
 
-  #### Глава 5. Новое время. Анархизм в советской Беларуси (1921—1927 гг.)
-  - [Глава 5 (1)](https://t.me/dilettante_voiceover/375)
-  - [Глава 5 (2)](https://t.me/dilettante_voiceover/379)
-  - [Глава 5 (3)](https://t.me/dilettante_voiceover/387)
-  - [Глава 5 (4)](https://t.me/dilettante_voiceover/389)
-  - [Глава 5 (5)](https://t.me/dilettante_voiceover/390)
+    <li>#### Глава 5. Новое время. Анархизм в советской Беларуси (1921—1927 гг.)
+      <ul>
+        <li><a href="https://t.me/dilettante_voiceover/375">Глава 5 (1)</a></li>
+        <li><a href="https://t.me/dilettante_voiceover/379">Глава 5 (2)</a></li>
+        <li><a href="https://t.me/dilettante_voiceover/387">Глава 5 (3)</a></li>
+        <li><a href="https://t.me/dilettante_voiceover/389">Глава 5 (4)</a></li>
+        <li><a href="https://t.me/dilettante_voiceover/390">Глава 5 (5)</a></li>
+      </ul>
+    </li>
+  </ul>
 </details>
 
 ## Отрывки из книг {#book_excerpts}
