@@ -36,9 +36,9 @@ theme: minima
 - [Тюрьма. Питер Гелдерлоос](https://t.me/dilettante_voiceover/252) 
 - [Упразднение работы. Боб Блэк](https://t.me/dilettante_voiceover/90)
 - [Цвета параллельного мира. Николай Дедок](https://t.me/dilettante_voiceover/346)
-- <details>
+<details>
   <summary>
-  Революция умерла! Да здравствует революция! Юрий Глушаков {#belarus}
+  Революция умерла! Да здравствует революция! Юрий Глушаков
   </summary>
   - [Введение](https://t.me/dilettante_voiceover/264)
   - [Глава 1. Накануне. Возникновение и деятельность анархо-коммунистических групп в 1903—1904 гг.](https://t.me/dilettante_voiceover/269)
