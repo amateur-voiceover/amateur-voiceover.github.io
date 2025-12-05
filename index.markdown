@@ -76,6 +76,9 @@ theme: minima
 
 ## Отрывки из книг {#book_excerpts}
 
+###  Железный кулак и тупость институций
+- [Железный кулак и тупость институций. Кевин Карсон](https://t.me/dilettante_voiceover/477)
+
 ### Классы наций. Феминистская критика нациостроительства. Елена Гапова {#gapova}
 - [Любовь как революция, или "несмотря на Грамши" Полуты Бодуновой. Елена Гапова](https://t.me/dilettante_voiceover/131)
 - [О гендере, нации и классе в посткоммунизме. Елена Гапова](https://t.me/dilettante_voiceover/239)
@@ -90,6 +93,10 @@ theme: minima
 
 ### Пустыня
 - [1. (Глобального) будущего нет](https://t.me/dilettante_voiceover/475)
+- [2. Всё намного запущеннее, чем мы думали](https://t.me/dilettante_voiceover/476)
+- [3. Бури в пустыне](https://t.me/dilettante_voiceover/478)
+- [4. Африканские пути к анархии](https://t.me/dilettante_voiceover/483)
+- [5. Цивилизация отступает, дикость остается](https://t.me/dilettante_voiceover/485)
 
 ### Голодная степь. Сара Камерон
 - [Введение часть 1](https://t.me/dilettante_voiceover/247)
@@ -97,6 +104,7 @@ theme: minima
 - [Глава 1](https://t.me/dilettante_voiceover/458)
 - [Глава 2](https://t.me/dilettante_voiceover/471)
 - [Глава 3](https://t.me/dilettante_voiceover/472)
+- [Глава 4](https://t.me/dilettante_voiceover/484)
 
 ### Корреспондент Гаскаров в аду и другие истории. Петя Косово. {#kosovo}
 - [Предисловие](https://t.me/dilettante_voiceover/212)
@@ -149,9 +157,10 @@ theme: minima
 - [Часть 1. Эпизод 1](https://t.me/dilettante_voiceover/270)
 - [Часть 1. Эпизод 2](https://t.me/dilettante_voiceover/347)
 
-## Временные автономные зоны. Питер Лэмборн Уилсон, Хаким Бей
+## Временные автономные зоны. Хаким Бей (Питер Лэмборн Уилсон)
 - [Пиратские утопии](https://t.me/dilettante_voiceover/466)
 - [В ожидании революции](https://t.me/dilettante_voiceover/467)
+- [Музыка как организующий принцип](https://t.me/dilettante_voiceover/489)
 
 ## Отдельные статьи, эссе. {#essay}
 
@@ -186,6 +195,7 @@ theme: minima
 - [Борьба за наши жизни. Часть 4. Crimethinc](https://t.me/dilettante_voiceover/333)
 - [Борьба за наши жизни. Часть 5. Crimethinc](https://t.me/dilettante_voiceover/345)
 - [Борьба за наши жизни. Часть 6. Crimethinc](https://t.me/dilettante_voiceover/351)
+- [Что такое культура безопасности](https://t.me/dilettante_voiceover/479)
 
 ### Религиозный анархизм {#religious}
 - [Анархо-Ислам. Энтони Т. Фискелла](https://t.me/dilettante_voiceover/229)
@@ -245,6 +255,7 @@ theme: minima
 - [Родина и человечество. Элизе Реклю](https://t.me/dilettante_voiceover/417)
 - [Что такое человек и весь мир театр. Лоуренс Лабади](https://t.me/dilettante_voiceover/416)
 - [Инфантильный радикализм. Лоуренс Лабади](https://t.me/dilettante_voiceover/415)
+- [Уверенность. Отвага. Родство. Доверие. Руцепт культуры безопасности. Аноним](https://t.me/dilettante_voiceover/486)
 
 ## Художественные тексты {#art}
 - [Надія. Леся Украинка](https://t.me/dilettante_voiceover/110)
