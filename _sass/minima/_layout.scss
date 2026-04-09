@@ -1,3 +1,4 @@
+@use "variables" as *;
 @import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&display=swap');
 
 /**
@@ -194,7 +195,11 @@
   @include relative-font-size(0.9375);
   color: $grey-color;
   margin-left: - calc($spacing-unit / 2);
-  @extend %clearfix;
+  &::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
 }
 
 .footer-col {
