@@ -330,5 +330,9 @@
 }
 
 details {
-  padding: 0 0 16px 16px;
+  padding: 0 0 16px 0;
+
+  summary h3 {
+    display: inline;
+  }
 }

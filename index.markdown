@@ -36,9 +36,34 @@ theme: minima
 - [Тюрьма. Питер Гелдерлоос](https://t.me/dilettante_voiceover/252) 
 - [Упразднение работы. Боб Блэк](https://t.me/dilettante_voiceover/90)
 - [Цвета параллельного мира. Николай Дедок](https://t.me/dilettante_voiceover/346)
+- [Анархизм: очень краткое введение. Колин Вард](https://t.me/dilettante_voiceover/517)
+
+### Пустыня. Аноним
+- [1. (Глобального) будущего нет](https://t.me/dilettante_voiceover/475)
+- [2. Всё намного запущеннее, чем мы думали](https://t.me/dilettante_voiceover/476)
+- [3. Бури в пустыне](https://t.me/dilettante_voiceover/478)
+- [4. Африканские пути к анархии](https://t.me/dilettante_voiceover/483)
+- [5. Цивилизация отступает, дикость остается](https://t.me/dilettante_voiceover/485)
+- [6. Возвращение Terror-nullius](https://t.me/dilettante_voiceover/492)
+- [7. Конвергенция и новое городское большинство](https://t.me/dilettante_voiceover/507)
+- [8. Сохранение природы в условиях перемен](https://t.me/dilettante_voiceover/519)
+- [9. Анархисты за стенами](https://t.me/dilettante_voiceover/526)
+- [10. Пустыня](https://t.me/dilettante_voiceover/527)
+
+### Голодная степь. Сара Камерон
+- [Введение часть 1](https://t.me/dilettante_voiceover/247)
+- [Введение часть 2](https://t.me/dilettante_voiceover/455)
+- [Глава 1](https://t.me/dilettante_voiceover/458)
+- [Глава 2](https://t.me/dilettante_voiceover/471)
+- [Глава 3](https://t.me/dilettante_voiceover/472)
+- [Глава 4](https://t.me/dilettante_voiceover/484)
+- [Глава 5](https://t.me/dilettante_voiceover/498)
+- [Глава 6](https://t.me/dilettante_voiceover/509)
+- [Заключение и эпилог](https://t.me/dilettante_voiceover/510)
+
 <details>
   <summary>
-  Революция умерла! Да здравствует революция! Юрий Глушаков
+  <h3>Революция умерла! Да здравствует революция! Юрий Глушаков</h3>
   </summary>
   <ul>
     <li><a href="https://t.me/dilettante_voiceover/264">Введение</a></li>
@@ -91,20 +116,16 @@ theme: minima
 
 ## Книги в работе {#book_in_progress}
 
-### Пустыня
-- [1. (Глобального) будущего нет](https://t.me/dilettante_voiceover/475)
-- [2. Всё намного запущеннее, чем мы думали](https://t.me/dilettante_voiceover/476)
-- [3. Бури в пустыне](https://t.me/dilettante_voiceover/478)
-- [4. Африканские пути к анархии](https://t.me/dilettante_voiceover/483)
-- [5. Цивилизация отступает, дикость остается](https://t.me/dilettante_voiceover/485)
+### Анархизм. Алексей Боровой
+- [Предисловие](https://t.me/dilettante_voiceover/532)
 
-### Голодная степь. Сара Камерон
-- [Введение часть 1](https://t.me/dilettante_voiceover/247)
-- [Введение часть 2](https://t.me/dilettante_voiceover/455)
-- [Глава 1](https://t.me/dilettante_voiceover/458)
-- [Глава 2](https://t.me/dilettante_voiceover/471)
-- [Глава 3](https://t.me/dilettante_voiceover/472)
-- [Глава 4](https://t.me/dilettante_voiceover/484)
+### Будущая Революция. Мюррей Букчин
+- [Коммуналистский проект](https://t.me/dilettante_voiceover/531)
+- [Экологический кризис и необходимость переустройства общества](https://t.me/dilettante_voiceover/534)
+
+### Искусство быть неподвластным. Джеймс Скотт
+- [Предисловие](https://t.me/dilettante_voiceover/511)
+- [Глава 1](https://t.me/dilettante_voiceover/529)
 
 ### Корреспондент Гаскаров в аду и другие истории. Петя Косово. {#kosovo}
 - [Предисловие](https://t.me/dilettante_voiceover/212)
@@ -161,6 +182,9 @@ theme: minima
 - [Пиратские утопии](https://t.me/dilettante_voiceover/466)
 - [В ожидании революции](https://t.me/dilettante_voiceover/467)
 - [Музыка как организующий принцип](https://t.me/dilettante_voiceover/489)
+- [Психотопология повседневности](https://t.me/dilettante_voiceover/512)
+- [Ушли на Кроатоан](https://t.me/dilettante_voiceover/513)
+- [Воля к власти как исчезновение](https://t.me/dilettante_voiceover/533)
 
 ## Отдельные статьи, эссе. {#essay}
 
@@ -256,6 +280,10 @@ theme: minima
 - [Что такое человек и весь мир театр. Лоуренс Лабади](https://t.me/dilettante_voiceover/416)
 - [Инфантильный радикализм. Лоуренс Лабади](https://t.me/dilettante_voiceover/415)
 - [Уверенность. Отвага. Родство. Доверие. Руцепт культуры безопасности. Аноним](https://t.me/dilettante_voiceover/486)
+- [Достаточно ли мы хороши. Пётр Кропоткин](https://t.me/dilettante_voiceover/496)
+- [Красная книга антифа. Станислав Маркелов](https://t.me/dilettante_voiceover/503)
+- [Помнить о Стасе. Алексей Сахнин](https://t.me/dilettante_voiceover/505)
+- [История анархического движения Беларуси в первые 10 лет после развала СССР (1992-2002 годы). Павлюк Коновальчик](https://t.me/dilettante_voiceover/525)
 
 ## Художественные тексты {#art}
 - [Надія. Леся Украинка](https://t.me/dilettante_voiceover/110)
@@ -266,6 +294,7 @@ theme: minima
 - [Почему? Братья Гордины](https://t.me/dilettante_voiceover/354)
 - [Избранные стихотворения. Лолита Агамалова](https://t.me/dilettante_voiceover/452)
 - [Лесбийская поэзия. Сапфо, София Парнок, Одри Лорд, Джун Джордан](https://t.me/dilettante_voiceover/448)
+- [Поэзия последнего времени. Сборник](https://t.me/dilettante_voiceover/521)
 
 ## Исторические источники {#history}
 - [Первый приказ Нестора Махно](https://t.me/dilettante_voiceover/226)
