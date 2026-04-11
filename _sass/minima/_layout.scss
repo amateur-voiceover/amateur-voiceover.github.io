@@ -5,7 +5,7 @@
  * Site header
  */
 .site-header {
-  min-height: $spacing-unit * 10;
+  min-height: $spacing-unit * 6;
   border-bottom: 1px solid $brand-color;
   padding: $spacing-unit 0;
 
@@ -46,6 +46,11 @@
   letter-spacing: -1px;
   margin-bottom: 0;
   color: $brand-color;
+
+  a, a:visited, a:hover, a:active {
+    color: $brand-color;
+    text-decoration: none;
+  }
 }
 
 .page-heading {

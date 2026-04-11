@@ -4,14 +4,14 @@
         <section class="header-content">
             {%- assign default_paths = site.pages | map: "path" -%}
             {%- assign page_paths = site.header_pages | default: default_paths -%}
-            <h1 class="site-title">{{ site.title | escape }}</h1>
+            <h1 class="site-title"><a href="{{ '/' | relative_url }}" target="_self">{{ site.title | escape }}</a></h1>
             <section class="site-info">
                 <h2>{{ site.description | escape }}</h2>
             </section>
-            <section class="bot">
-                <a target="_blank" href="https://t.me/Dilettantbot">@Dilettantbot</a> - бот для вопросов и предложений, а
-                также, если хотите присоединиться к команде.
-            </section>
+<!--            <section class="bot">-->
+<!--                <a target="_blank" href="https://t.me/Dilettantbot">@Dilettantbot</a> - бот для вопросов и предложений, а-->
+<!--                также, если хотите присоединиться к команде.-->
+<!--            </section>-->
             {%- include platforms.html -%}
         </section>
 
