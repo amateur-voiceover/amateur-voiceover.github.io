@@ -336,3 +336,39 @@ details {
     display: inline;
   }
 }
+
+ul.books-with-chapters {
+  list-style: none;
+  margin-left: calc($spacing-unit / 2) - 2;
+}
+
+details.book-chapters {
+  padding: 0;
+  margin-bottom: calc($spacing-unit / 4);
+
+  summary {
+    cursor: pointer;
+    list-style: none;
+    user-select: none;
+
+    &::-webkit-details-marker { display: none; }
+
+    &::before {
+      content: "▶\00a0";
+      color: $brand-color;
+      display: inline-block;
+      font-size: 0.55em;
+      vertical-align: middle;
+      transition: transform 0.2s ease;
+      padding-right: $spacing-unit / 4;
+    }
+  }
+
+  &[open] > summary::before {
+    transform: rotate(90deg);
+  }
+
+  li > ul {
+    margin-bottom: 0;
+  }
+}

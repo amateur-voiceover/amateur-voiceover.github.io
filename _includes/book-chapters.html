@@ -1,0 +1,24 @@
+{% assign book = include.book %}
+<li>
+<details class="book-chapters" id="{{ book.id }}">
+  <summary>{{ book.title }}</summary>
+  <ul>
+    {% for chapter in book.chapters %}
+      <li>
+        {% if chapter.parts %}
+          {{ chapter.title }}
+          <ul>
+            {% for part in chapter.parts %}
+              <li><a href="{{ part.url }}">{{ part.label }}</a></li>
+            {% endfor %}
+          </ul>
+        {% elsif chapter.url %}
+          <a href="{{ chapter.url }}">{{ chapter.title }}</a>
+        {% else %}
+          {{ chapter.title }}
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+</details>
+</li>

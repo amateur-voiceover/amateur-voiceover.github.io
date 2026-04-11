@@ -38,66 +38,14 @@ theme: minima
 - [Цвета параллельного мира. Николай Дедок](https://t.me/dilettante_voiceover/346)
 - [Анархизм: очень краткое введение. Колин Вард](https://t.me/dilettante_voiceover/517)
 
-### Пустыня. Аноним
-- [1. (Глобального) будущего нет](https://t.me/dilettante_voiceover/475)
-- [2. Всё намного запущеннее, чем мы думали](https://t.me/dilettante_voiceover/476)
-- [3. Бури в пустыне](https://t.me/dilettante_voiceover/478)
-- [4. Африканские пути к анархии](https://t.me/dilettante_voiceover/483)
-- [5. Цивилизация отступает, дикость остается](https://t.me/dilettante_voiceover/485)
-- [6. Возвращение Terror-nullius](https://t.me/dilettante_voiceover/492)
-- [7. Конвергенция и новое городское большинство](https://t.me/dilettante_voiceover/507)
-- [8. Сохранение природы в условиях перемен](https://t.me/dilettante_voiceover/519)
-- [9. Анархисты за стенами](https://t.me/dilettante_voiceover/526)
-- [10. Пустыня](https://t.me/dilettante_voiceover/527)
-
-### Голодная степь. Сара Камерон
-- [Введение часть 1](https://t.me/dilettante_voiceover/247)
-- [Введение часть 2](https://t.me/dilettante_voiceover/455)
-- [Глава 1](https://t.me/dilettante_voiceover/458)
-- [Глава 2](https://t.me/dilettante_voiceover/471)
-- [Глава 3](https://t.me/dilettante_voiceover/472)
-- [Глава 4](https://t.me/dilettante_voiceover/484)
-- [Глава 5](https://t.me/dilettante_voiceover/498)
-- [Глава 6](https://t.me/dilettante_voiceover/509)
-- [Заключение и эпилог](https://t.me/dilettante_voiceover/510)
-
-<details>
-  <summary>
-  <h3>Революция умерла! Да здравствует революция! Юрий Глушаков</h3>
-  </summary>
-  <ul>
-    <li><a href="https://t.me/dilettante_voiceover/264">Введение</a></li>
-    <li><a href="https://t.me/dilettante_voiceover/269">Глава 1. Накануне. Возникновение и деятельность анархо-коммунистических групп в 1903—1904 гг.</a></li>
-  
-    <li>Глава 2. Первая революция. На гребне волны. 1905—1907 гг.
-      <ul>
-        <li><a href="https://t.me/dilettante_voiceover/340">Глава 2 (1, 2)</a></li>
-        <li><a href="https://t.me/dilettante_voiceover/342">Глава 2 (3)</a></li>
-        <li><a href="https://t.me/dilettante_voiceover/344">Глава 2 (4. Деятельность анархистов за пределами Белостока)</a></li>
-        <li><a href="https://t.me/dilettante_voiceover/348">Глава 2 (5, 6, 7)</a></li>
-      </ul>
-    </li>
-
-    <li><a href="https://t.me/dilettante_voiceover/356">Глава 3. Отступление. 1907—1917 гг</a></li>
-
-    <li>Глава 4. На переломе эпох. Анархизм в Беларуси в период революции 1917 г., гражданской войны и иностранной интервенции 1917—1921 гг
-      <ul>
-        <li><a href="https://t.me/dilettante_voiceover/368">Глава 4 (1)</a></li>
-        <li><a href="https://t.me/dilettante_voiceover/373">Глава 4 (2)</a></li>
-      </ul>
-    </li>
-
-    <li>Глава 5. Новое время. Анархизм в советской Беларуси (1921—1927 гг.)
-      <ul>
-        <li><a href="https://t.me/dilettante_voiceover/375">Глава 5 (1)</a></li>
-        <li><a href="https://t.me/dilettante_voiceover/379">Глава 5 (2)</a></li>
-        <li><a href="https://t.me/dilettante_voiceover/387">Глава 5 (3)</a></li>
-        <li><a href="https://t.me/dilettante_voiceover/389">Глава 5 (4)</a></li>
-        <li><a href="https://t.me/dilettante_voiceover/390">Глава 5 (5)</a></li>
-      </ul>
-    </li>
-  </ul>
-</details>
+<ul class="books-with-chapters">
+{% assign pustunya = site.data.books.books | where: "id", "pustunya" | first %}
+{% include book-chapters.html book=pustunya %}
+{% assign golodnaya = site.data.books.books | where: "id", "golodnaya-step" | first %}
+{% include book-chapters.html book=golodnaya %}
+{% assign glushakov = site.data.books.books | where: "id", "belarus" | first %}
+{% include book-chapters.html book=glushakov %}
+</ul>
 
 ## Отрывки из книг {#book_excerpts}
 
@@ -178,7 +126,7 @@ theme: minima
 - [Часть 1. Эпизод 1](https://t.me/dilettante_voiceover/270)
 - [Часть 1. Эпизод 2](https://t.me/dilettante_voiceover/347)
 
-## Временные автономные зоны. Хаким Бей (Питер Лэмборн Уилсон)
+### Временные автономные зоны. Хаким Бей (Питер Лэмборн Уилсон)
 - [Пиратские утопии](https://t.me/dilettante_voiceover/466)
 - [В ожидании революции](https://t.me/dilettante_voiceover/467)
 - [Музыка как организующий принцип](https://t.me/dilettante_voiceover/489)
