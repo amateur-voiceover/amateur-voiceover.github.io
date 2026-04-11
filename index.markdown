@@ -66,6 +66,7 @@ theme: minima
 
 ### Анархизм. Алексей Боровой
 - [Предисловие](https://t.me/dilettante_voiceover/532)
+- [Глава 1](https://t.me/dilettante_voiceover/535)
 
 ### Будущая Революция. Мюррей Букчин
 - [Коммуналистский проект](https://t.me/dilettante_voiceover/531)
