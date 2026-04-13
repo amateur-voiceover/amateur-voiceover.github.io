@@ -159,6 +159,7 @@ recordings:
     author: "Crimethinc"
     type: book
     status: complete
+    source: "Crimethinc"
     topics: [likbez, resistance]
     chapters:
       - title: "Часть 1"
