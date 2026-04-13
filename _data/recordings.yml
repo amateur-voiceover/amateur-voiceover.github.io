@@ -9,7 +9,7 @@ recordings:
     type: book
     status: complete
     topics: [likbez, resistance]
-    spotify: ~
+    spotify: "https://open.spotify.com/playlist/6YHafcm6EsmF1KTN1pK0Yg"
 
   - id: anarchy-works
     title: "Анархия работает. Примеры из истории России"
@@ -27,7 +27,7 @@ recordings:
     type: book
     status: complete
     topics: [likbez]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/50RBA8rrxY3Y9sBkrBrSfm"
 
   - id: gelderlos-prison
     title: "Тюрьма"
@@ -36,7 +36,7 @@ recordings:
     type: book
     status: complete
     topics: [prison]
-    spotify: ~
+    spotify: "https://open.spotify.com/playlist/49XXP1htvEFrYKvmGRggXu"
 
   - id: black-abolition-work
     title: "Упразднение работы"
@@ -45,7 +45,7 @@ recordings:
     type: book
     status: complete
     topics: [labor]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/1e2DP77WqmA8LlIA4vbPUJ"
 
   - id: dedok-parallel-world
     title: "Цвета параллельного мира"
@@ -54,7 +54,7 @@ recordings:
     type: book
     status: complete
     topics: [prison]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/59vBsacltv60fOgHYTwSdX"
 
   - id: ward-anarchism-intro
     title: "Анархизм: очень краткое введение"
@@ -63,7 +63,7 @@ recordings:
     type: book
     status: complete
     topics: [likbez]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/2dlOd9RHi3dnNVQhA2tEa3"
 
   - id: pustunya
     title: "Пустыня"
@@ -127,7 +127,7 @@ recordings:
     type: book
     status: complete
     topics: [history, belarus]
-    spotify: ~
+    spotify: "https://open.spotify.com/playlist/4gSBjACmA2C4Jjg3NPg7al"
     chapters:
       - title: "Введение"
         url: "https://t.me/dilettante_voiceover/264"
@@ -171,7 +171,7 @@ recordings:
     status: complete
     source: "Crimethinc"
     topics: [likbez, resistance]
-    spotify: ~
+    spotify: "https://open.spotify.com/playlist/1ez1xRzdPq7VV7uM4QwB0g"
     chapters:
       - title: "Часть 1"
         url: "https://t.me/dilettante_voiceover/250"
