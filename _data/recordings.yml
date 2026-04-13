@@ -9,6 +9,7 @@ recordings:
     type: book
     status: complete
     topics: [likbez, resistance]
+    spotify: ~
 
   - id: anarchy-works
     title: "Анархия работает. Примеры из истории России"
@@ -17,6 +18,7 @@ recordings:
     type: book
     status: complete
     topics: [history]
+    spotify: "https://open.spotify.com/playlist/4MJxrrvtpXlre13E6BItMB"
 
   - id: malatesta-ten-talks
     title: "Десять бесед об анархизме"
@@ -25,6 +27,7 @@ recordings:
     type: book
     status: complete
     topics: [likbez]
+    spotify: ~
 
   - id: gelderlos-prison
     title: "Тюрьма"
@@ -33,6 +36,7 @@ recordings:
     type: book
     status: complete
     topics: [prison]
+    spotify: ~
 
   - id: black-abolition-work
     title: "Упразднение работы"
@@ -41,6 +45,7 @@ recordings:
     type: book
     status: complete
     topics: [labor]
+    spotify: ~
 
   - id: dedok-parallel-world
     title: "Цвета параллельного мира"
@@ -49,6 +54,7 @@ recordings:
     type: book
     status: complete
     topics: [prison]
+    spotify: ~
 
   - id: ward-anarchism-intro
     title: "Анархизм: очень краткое введение"
@@ -57,6 +63,7 @@ recordings:
     type: book
     status: complete
     topics: [likbez]
+    spotify: ~
 
   - id: pustunya
     title: "Пустыня"
@@ -64,6 +71,7 @@ recordings:
     type: book
     status: complete
     topics: [ecology, anarcho-primitivism]
+    spotify: "https://open.spotify.com/playlist/5e7bCzUjt7DK8JWXomKmW2"
     chapters:
       - title: "1. (Глобального) будущего нет"
         url: "https://t.me/dilettante_voiceover/475"
@@ -92,6 +100,7 @@ recordings:
     type: book
     status: complete
     topics: [history]
+    spotify: "https://open.spotify.com/playlist/6wIGYax83Fsr280lNr1aXB"
     chapters:
       - title: "Введение часть 1"
         url: "https://t.me/dilettante_voiceover/247"
@@ -118,6 +127,7 @@ recordings:
     type: book
     status: complete
     topics: [history, belarus]
+    spotify: ~
     chapters:
       - title: "Введение"
         url: "https://t.me/dilettante_voiceover/264"
@@ -161,6 +171,7 @@ recordings:
     status: complete
     source: "Crimethinc"
     topics: [likbez, resistance]
+    spotify: ~
     chapters:
       - title: "Часть 1"
         url: "https://t.me/dilettante_voiceover/250"
@@ -185,6 +196,7 @@ recordings:
     source: "Железный кулак и тупость институций"
     status: complete
     topics: [labor, individualist-anarchism]
+    spotify: ~
 
   - id: gapova-love-revolution
     title: "Любовь как революция, или «несмотря на Грамши» Полуты Бодуновой"
@@ -194,6 +206,7 @@ recordings:
     source: "Классы наций. Феминистская критика нациостроительства"
     status: complete
     topics: [feminism, history, belarus]
+    spotify: ~
 
   - id: gapova-gender-nation
     title: "О гендере, нации и классе в посткоммунизме"
@@ -203,6 +216,7 @@ recordings:
     source: "Классы наций. Феминистская критика нациостроительства"
     status: complete
     topics: [feminism, belarus]
+    spotify: ~
 
   - id: richards-orwell-humanist
     title: "Оруэлл-гуманист"
@@ -212,6 +226,7 @@ recordings:
     source: "Оруэлл в семейном кругу и в среде анархистов"
     status: complete
     topics: [history]
+    spotify: ~
 
   - id: kunz-chapter3
     title: "Глава 3. Союзники в академии. Философия Киттеля"
@@ -221,6 +236,7 @@ recordings:
     source: "Совесть нацистов"
     status: complete
     topics: [history, antifascism]
+    spotify: ~
 
   # ── Книги в работе ───────────────────────────────────────────────────────────
 
@@ -230,6 +246,7 @@ recordings:
     type: book
     status: in_progress
     topics: [likbez]
+    spotify: ~
     chapters:
       - title: "Предисловие"
         url: "https://t.me/dilettante_voiceover/532"
@@ -242,6 +259,7 @@ recordings:
     type: book
     status: in_progress
     topics: [ecology, likbez]
+    spotify: ~
     chapters:
       - title: "Коммуналистский проект"
         url: "https://t.me/dilettante_voiceover/531"
@@ -254,6 +272,7 @@ recordings:
     type: book
     status: in_progress
     topics: [history, southeast-asia]
+    spotify: ~
     chapters:
       - title: "Предисловие"
         url: "https://t.me/dilettante_voiceover/511"
@@ -266,6 +285,7 @@ recordings:
     type: book
     status: in_progress
     topics: [prison]
+    spotify: ~
     chapters:
       - title: "Предисловие"
         url: "https://t.me/dilettante_voiceover/212"
@@ -312,6 +332,7 @@ recordings:
     type: book
     status: in_progress
     topics: [animal-rights, labor]
+    spotify: ~
     chapters:
       - title: "Глава I"
         url: "https://t.me/dilettante_voiceover/220"
@@ -324,6 +345,7 @@ recordings:
     type: book
     status: in_progress
     topics: [prison]
+    spotify: ~
     chapters:
       - title: "Глава 1"
         url: "https://t.me/dilettante_voiceover/266"
@@ -350,6 +372,7 @@ recordings:
     type: book
     status: in_progress
     topics: [feminism]
+    spotify: ~
     chapters:
       - title: "Предисловие"
         url: "https://t.me/dilettante_voiceover/427"
@@ -376,6 +399,7 @@ recordings:
     type: book
     status: in_progress
     topics: [history]
+    spotify: ~
     chapters:
       - title: "Часть 1. Эпизод 1"
         url: "https://t.me/dilettante_voiceover/270"
@@ -388,6 +412,7 @@ recordings:
     type: book
     status: in_progress
     topics: [post-anarchism]
+    spotify: ~
     chapters:
       - title: "Пиратские утопии"
         url: "https://t.me/dilettante_voiceover/466"
@@ -412,6 +437,7 @@ recordings:
     source: "Akrateia"
     status: complete
     topics: [history, makhno]
+    spotify: "https://open.spotify.com/episode/78Z1dO7F9EBGT7g9WIIGQa"
 
   - id: dubovyk-makhno-amnesty-thanks
     title: "«Поблагодарили за борьбу против белых, а потом расстреляли». Конец союза красных и Махно"
@@ -421,6 +447,7 @@ recordings:
     source: "Akrateia"
     status: complete
     topics: [history, makhno]
+    spotify: "https://open.spotify.com/episode/3ZGwpf9SfTjvmDj7io4ZVs"
 
   - id: dubovyk-makhno-amnesty-false
     title: "Обманчивая амнистия. Как чекисты уничтожали махновцев, добровольно сложивших оружие"
@@ -430,6 +457,7 @@ recordings:
     source: "Akrateia"
     status: complete
     topics: [history, makhno]
+    spotify: "https://open.spotify.com/episode/3CgURy293aQ3e8kTX3IicF"
 
   - id: leeder-anarchofeminism
     title: "Анархо-феминизм"
@@ -439,6 +467,7 @@ recordings:
     source: "Akrateia"
     status: complete
     topics: [feminism]
+    spotify: "https://open.spotify.com/episode/3kratiHUBlDTeQn6sTthEY"
 
   - id: rakhmaninova-weil
     title: "Апофатический анархизм Симоны Вейль"
@@ -448,6 +477,7 @@ recordings:
     source: "Akrateia"
     status: complete
     topics: [history]
+    spotify: "https://open.spotify.com/episode/1TEG3B4mPMSAk8OjKQdrcd"
 
   - id: eichner-michel-colonialism
     title: "Язык империализма и язык освобождения: Луиза Мишель и колониальные отношения между французами и канаками"
@@ -457,6 +487,7 @@ recordings:
     source: "Akrateia"
     status: complete
     topics: [feminism, history]
+    spotify: "https://open.spotify.com/episode/0xjvMMI4BadDZJ9znKgbDT"
 
   - id: basf-bangladesh
     title: "Работницы чайных плантаций в Бангладеш: больше работы, меньше жизни"
@@ -466,6 +497,7 @@ recordings:
     source: "Akrateia"
     status: complete
     topics: [labor, southeast-asia]
+    spotify: "https://open.spotify.com/episode/4ZerTuxVmSPKKRolh45q7x"
 
   - id: de-cleyre-paris-commune-akrateia
     title: "Парижская коммуна (из записей Вольтерины де Клер)"
@@ -475,6 +507,7 @@ recordings:
     source: "Akrateia"
     status: complete
     topics: [history]
+    spotify: "https://open.spotify.com/episode/1g1Z7TEM7Wx530yjDMwE38"
 
   - id: gorbunov-zapatistas
     title: "«Править подчиняясь». Как устроено сапатистское самоуправление?"
@@ -484,6 +517,7 @@ recordings:
     source: "Akrateia"
     status: complete
     topics: [history]
+    spotify: "https://open.spotify.com/episode/1ZXKzI3NxTCXntmhGJuidd"
 
   - id: dubovyk-nikiforova
     title: "Мария Никифорова: жизнь и смерть анархистки"
@@ -493,6 +527,7 @@ recordings:
     source: "Akrateia"
     status: complete
     topics: [feminism, history, makhno]
+    spotify: "https://open.spotify.com/episode/7D3FeoYtWuQ6NyioZbvxEd"
 
   - id: collectivization-catalonia
     title: "Коллективизация в Каталонии"
@@ -502,6 +537,7 @@ recordings:
     source: "Akrateia"
     status: complete
     topics: [history, labor]
+    spotify: "https://open.spotify.com/episode/5JeRVuEn8AbDA7hCjiTY8j"
 
   - id: dubovyk-directions-anarchism
     title: "Неактуальная тема: о направлениях анархизма"
@@ -511,6 +547,7 @@ recordings:
     source: "Akrateia"
     status: complete
     topics: [likbez]
+    spotify: "https://open.spotify.com/episode/3lbFxLiD3uEkTbM8PqyvxF"
 
   # ── Статьи — Бармалеи/Партизаны ─────────────────────────────────────────────
 
@@ -522,6 +559,7 @@ recordings:
     source: "Бармалеи/Партизаны"
     status: complete
     topics: [history, antimilitarism]
+    spotify: ~
 
   - id: barmalei-slaughterhouse-timor
     title: "Бойня. Тимор: независимость и оккупация"
@@ -531,6 +569,7 @@ recordings:
     source: "Бармалеи/Партизаны"
     status: complete
     topics: [history, antimilitarism, southeast-asia]
+    spotify: ~
 
   - id: barmalei-nuremberg
     title: "Дорога в Нюрнберг"
@@ -540,6 +579,7 @@ recordings:
     source: "Бармалеи/Партизаны"
     status: complete
     topics: [history, antifascism]
+    spotify: ~
 
   - id: barmalei-miners
     title: "Шахтеры и Железная леди: кто сильней?"
@@ -549,6 +589,7 @@ recordings:
     source: "Бармалеи/Партизаны"
     status: complete
     topics: [labor, history]
+    spotify: ~
 
   - id: barmalei-africa-coups
     title: "Эпидемия Африканских переворотов"
@@ -558,6 +599,7 @@ recordings:
     source: "Бармалеи/Партизаны"
     status: complete
     topics: [history]
+    spotify: ~
 
   - id: barmalei-alf
     title: "Animal Liberation Front (ALF)"
@@ -567,6 +609,7 @@ recordings:
     source: "Бармалеи/Партизаны"
     status: complete
     topics: [animal-rights, resistance]
+    spotify: ~
 
   - id: barmalei-dictators-die
     title: "Как умирают диктаторы"
@@ -576,6 +619,7 @@ recordings:
     source: "Бармалеи/Партизаны"
     status: complete
     topics: [history]
+    spotify: ~
 
   - id: barmalei-student-resistance
     title: "Студенческое сопротивление диктатуре в Аргентине и Греции"
@@ -585,6 +629,7 @@ recordings:
     source: "Бармалеи/Партизаны"
     status: complete
     topics: [history, antimilitarism, resistance]
+    spotify: ~
 
   # ── Статьи — Crimethinc ──────────────────────────────────────────────────────
 
@@ -596,6 +641,7 @@ recordings:
     source: "Crimethinc"
     status: complete
     topics: [likbez, resistance]
+    spotify: ~
 
   - id: fiscella-anarcho-islam
     title: "Анархо-Ислам"
@@ -605,6 +651,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [religious-anarchism]
+    spotify: ~
 
   - id: snyder-anarcho-buddhism
     title: "Анархо-буддизм"
@@ -614,6 +661,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [religious-anarchism]
+    spotify: ~
 
   # ── Статьи — Прочие источники ────────────────────────────────────────────────
 
@@ -625,6 +673,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [history]
+    spotify: ~
 
   - id: podshivalov-chicago-martyrs
     title: "Чикагские мученики"
@@ -634,6 +683,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [labor, history]
+    spotify: ~
 
   - id: anarchism-japan
     title: "Анархизм в Японии (о Фумико Канеко, Ито Ноэ, Кано Суга)"
@@ -643,6 +693,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [feminism, history, japan]
+    spotify: ~
 
   - id: kaneko-biography
     title: "Биография Канеко Фумико"
@@ -652,6 +703,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [feminism, history, japan]
+    spotify: ~
 
   - id: mann-animal-liberation-history
     title: "История движения за освобождение животных"
@@ -661,6 +713,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [animal-rights, history]
+    spotify: ~
 
   - id: podshivalov-zhanna-darc
     title: "Жанна д'Арк сибирской контрреволюции"
@@ -670,6 +723,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [history, feminism]
+    spotify: ~
 
   - id: piper-women-pinochet
     title: "Женское сопротивление диктатуре Пиночета"
@@ -679,6 +733,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [feminism, history, antimilitarism, resistance]
+    spotify: ~
 
   - id: foer-eating-animals
     title: "Eating Animals"
@@ -688,6 +743,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [animal-rights]
+    spotify: ~
 
   - id: hugsson-harry-potter-animals
     title: "Забота о «магических» существах? Моральная оценка литературного тропа «Любитель животных» в Гарри Поттере"
@@ -697,6 +753,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [animal-rights]
+    spotify: ~
 
   - id: dominick-animal-liberation-revolution
     title: "Освобождение животных и социальная революция"
@@ -706,6 +763,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [animal-rights]
+    spotify: ~
 
   - id: khromyi-individualism-socialism
     title: "Индивидуализм и социализм"
@@ -715,6 +773,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [individualist-anarchism]
+    spotify: ~
 
   - id: podshivalov-betrayed-revolution
     title: "Преданная революция"
@@ -724,6 +783,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [history]
+    spotify: ~
 
   - id: budnitsky-men-women-red-army
     title: "Мужчины и женщины в Красной армии"
@@ -733,6 +793,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [feminism, history]
+    spotify: ~
 
   - id: maltsberger-hostility-suicide
     title: "Клиническое исследование роли враждебности и пожеланий смерти со стороны семьи и общества при суицидальных попытках"
@@ -742,6 +803,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [prison, suicide]
+    spotify: ~
 
   - id: maltsberger-suicide-risk
     title: "Опасность самоубийства: клиническая оценка и принятие решений"
@@ -751,6 +813,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [prison, suicide]
+    spotify: ~
 
   - id: nechaev-catechism
     title: "Катехизис революционера"
@@ -760,6 +823,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [history]
+    spotify: ~
 
   - id: memorial-katyn
     title: "Катынское преступление"
@@ -769,6 +833,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [history]
+    spotify: ~
 
   - id: libertad-recruits
     title: "Новобранцам"
@@ -778,6 +843,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [antimilitarism]
+    spotify: ~
 
   - id: thoreau-civil-disobedience
     title: "О гражданском неповиновении"
@@ -787,6 +853,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [antimilitarism, individualist-anarchism, resistance]
+    spotify: ~
 
   - id: shypunov-anarchosyndicalism
     title: "Анархо-синдикалізм як напрям ідейно-інституційної еволюції лівого політичного руху"
@@ -796,6 +863,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [labor]
+    spotify: ~
 
   - id: dubovyk-makhno-faces
     title: "Батрак, швец, слесарь, машинист: лица вожаков махновского движения"
@@ -805,6 +873,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [history, makhno]
+    spotify: ~
 
   - id: labadie-study
     title: "Учиться? Чего ради?"
@@ -814,6 +883,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [individualist-anarchism, anarchist-pedagogy]
+    spotify: ~
 
   - id: labadie-war
     title: "Война, война и ещё раз война"
@@ -823,6 +893,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [antimilitarism, individualist-anarchism]
+    spotify: ~
 
   - id: zerzan-left-no-thanks
     title: "Левые? Спасибо, но нет"
@@ -832,6 +903,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [anarcho-primitivism]
+    spotify: ~
 
   - id: ryabov-escape-as-revolt
     title: "Побег как бунт"
@@ -841,6 +913,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [prison, resistance]
+    spotify: ~
 
   - id: ira-green-book
     title: "Зеленая книга ИРА"
@@ -850,6 +923,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [history, resistance]
+    spotify: ~
 
   - id: malatesta-anarchy-order
     title: "Анархия и порядок"
@@ -859,6 +933,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [likbez]
+    spotify: ~
 
   - id: autonomous-action-durruti
     title: "Дуррути. Памяти героя"
@@ -868,6 +943,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [history]
+    spotify: ~
 
   - id: graeber-are-you-anarchist
     title: "Ты Анархист? Ответ может тебя удивить"
@@ -877,6 +953,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [likbez]
+    spotify: ~
 
   - id: carson-anarchism-without-adjectives
     title: "Анархизм без прилагательных"
@@ -886,6 +963,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [individualist-anarchism]
+    spotify: ~
 
   - id: de-cleyre-paris-commune-other
     title: "Парижская коммуна"
@@ -895,6 +973,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [history]
+    spotify: ~
 
   - id: romanov-anarchy-mother-of-order
     title: "Анархия — мать порядка"
@@ -904,6 +983,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [likbez]
+    spotify: ~
 
   - id: gerasimov-mystical-anarchists
     title: "Мистические анархисты"
@@ -913,6 +993,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [history]
+    spotify: ~
 
   - id: clastres-society-against-state
     title: "Общество против государства"
@@ -922,6 +1003,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: []
+    spotify: ~
 
   - id: nettlau-anarchists-war
     title: "Что должны делать анархисты в случае войны"
@@ -931,6 +1013,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [antimilitarism]
+    spotify: ~
 
   - id: kropotkin-satisfaction-for-all
     title: "Довольство для всех"
@@ -940,6 +1023,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [labor]
+    spotify: ~
 
   - id: kropotkin-political-rights
     title: "Политические права"
@@ -949,6 +1033,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: []
+    spotify: ~
 
   - id: kropotkin-antimilitarism
     title: "Антимилитаризм. Был ли он ясно понят?"
@@ -958,6 +1043,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [antimilitarism]
+    spotify: ~
 
   - id: kropotkin-our-riches
     title: "Наши богатства"
@@ -967,6 +1053,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [labor]
+    spotify: ~
 
   - id: goldman-child-enemies
     title: "Ребенок и его враги"
@@ -976,6 +1063,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [feminism, anarchist-pedagogy]
+    spotify: ~
 
   - id: volin-red-fascism
     title: "Красный фашизм"
@@ -985,6 +1073,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [history, antifascism]
+    spotify: ~
 
   - id: kalinina-never-alone
     title: "Я никогда не была одна и не буду. Нас миллионы и мы всегда были неугодны обществу"
@@ -994,6 +1083,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [feminism]
+    spotify: ~
 
   - id: guillaume-federalism
     title: "Федерализм"
@@ -1003,6 +1093,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: []
+    spotify: ~
 
   - id: black-grebe-sea
     title: "От кого мы спасаем море"
@@ -1012,6 +1103,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [ecology]
+    spotify: ~
 
   - id: carson-corporate-capitalism
     title: "Почему корпоративный капитализм нежизнеспособен"
@@ -1021,6 +1113,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [labor, individualist-anarchism]
+    spotify: ~
 
   - id: glitterbomb-cooperatives
     title: "Коммунизация общества при помощи потребительских кооперативов"
@@ -1030,6 +1123,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [labor]
+    spotify: ~
 
   - id: watson-civilization-jet
     title: "Цивилизация подобна реактивному самолёту"
@@ -1039,6 +1133,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [ecology, anarcho-primitivism]
+    spotify: ~
 
   - id: gibson-dirty-work
     title: "Кто будет делать грязную работу?"
@@ -1048,6 +1143,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [labor]
+    spotify: ~
 
   - id: baker-means-ends
     title: "Средства и цели"
@@ -1057,6 +1153,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [post-anarchism]
+    spotify: ~
 
   - id: wee-market-anarchism
     title: "В чем разница между рыночным анархизмом и анархо-капитализмом"
@@ -1066,6 +1163,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [individualist-anarchism]
+    spotify: ~
 
   - id: reclus-homeland-humanity
     title: "Родина и человечество"
@@ -1075,6 +1173,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: []
+    spotify: ~
 
   - id: labadie-what-is-man
     title: "Что такое человек и весь мир театр"
@@ -1084,6 +1183,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [individualist-anarchism]
+    spotify: ~
 
   - id: labadie-infantile-radicalism
     title: "Инфантильный радикализм"
@@ -1093,6 +1193,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [individualist-anarchism]
+    spotify: ~
 
   - id: anon-security-culture-recipe
     title: "Уверенность. Отвага. Родство. Доверие. Рецепт культуры безопасности"
@@ -1102,6 +1203,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [resistance]
+    spotify: ~
 
   - id: kropotkin-are-we-good-enough
     title: "Достаточно ли мы хороши"
@@ -1111,6 +1213,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: []
+    spotify: ~
 
   - id: markelov-red-book-antifa
     title: "Красная книга антифа"
@@ -1120,6 +1223,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [history, antifascism]
+    spotify: ~
 
   - id: sakhnin-remember-stas
     title: "Помнить о Стасе"
@@ -1129,6 +1233,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [history, antifascism]
+    spotify: ~
 
   - id: kanavalchik-belarus-anarchism-history
     title: "История анархического движения Беларуси в первые 10 лет после развала СССР (1992-2002 годы)"
@@ -1138,6 +1243,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [history, belarus]
+    spotify: ~
 
   # ── Художественные тексты ────────────────────────────────────────────────────
 
@@ -1148,6 +1254,7 @@ recordings:
     type: art
     status: complete
     topics: []
+    spotify: ~
 
   - id: nefor-manuscripts
     title: "Рукописи из шкатулки"
@@ -1156,6 +1263,7 @@ recordings:
     type: art
     status: complete
     topics: []
+    spotify: ~
 
   - id: george-zapatista-tale
     title: "Сапатистская сказка: история других"
@@ -1164,6 +1272,7 @@ recordings:
     type: art
     status: complete
     topics: []
+    spotify: ~
 
   - id: poetry-two-poems
     title: "Два стихотворения из сборника «Поэзия последнего времени»"
@@ -1172,6 +1281,7 @@ recordings:
     type: art
     status: complete
     topics: []
+    spotify: ~
 
   - id: cortazar-occupied-house
     title: "Захваченный дом"
@@ -1180,6 +1290,7 @@ recordings:
     type: art
     status: complete
     topics: []
+    spotify: ~
 
   - id: gordins-why
     title: "Почему?"
@@ -1188,6 +1299,7 @@ recordings:
     type: art
     status: complete
     topics: []
+    spotify: ~
 
   - id: agamalova-poems
     title: "Избранные стихотворения"
@@ -1196,6 +1308,7 @@ recordings:
     type: art
     status: complete
     topics: [feminism]
+    spotify: ~
 
   - id: lesbian-poetry
     title: "Лесбийская поэзия"
@@ -1204,6 +1317,7 @@ recordings:
     type: art
     status: complete
     topics: [feminism]
+    spotify: ~
 
   - id: poetry-collection
     title: "Поэзия последнего времени. Сборник"
@@ -1212,6 +1326,7 @@ recordings:
     type: art
     status: complete
     topics: []
+    spotify: ~
 
   # ── Исторические источники ───────────────────────────────────────────────────
 
@@ -1222,6 +1337,7 @@ recordings:
     type: history
     status: complete
     topics: [history, makhno]
+    spotify: ~
 
   - id: ivanova-autobiography
     title: "Автобиография"
@@ -1230,6 +1346,7 @@ recordings:
     type: history
     status: complete
     topics: [feminism, history]
+    spotify: ~
 
   - id: ivanova-first-printing
     title: "Первая типография народной воли"
@@ -1238,6 +1355,7 @@ recordings:
     type: history
     status: complete
     topics: [history]
+    spotify: ~
 
   - id: borovoy-anarchist-manifesto
     title: "Анархический манифест"
@@ -1246,3 +1364,4 @@ recordings:
     type: history
     status: complete
     topics: [history]
+    spotify: ~

@@ -360,7 +360,7 @@ details.book-chapters {
       font-size: 0.55em;
       vertical-align: middle;
       transition: transform 0.2s ease;
-      padding-right: $spacing-unit / 4;
+      padding-right: calc($spacing-unit / 4);
     }
   }
 
@@ -380,6 +380,17 @@ details.book-chapters {
 
 .recordings-list {
   list-style: none;
+
+  li {
+    display: flex;
+    align-items: baseline;
+    .spotify-icon-link {
+      flex: 1;
+    }
+    .entry-info {
+      flex: 2;
+    }
+  }
 }
 
 .filter-controls {
@@ -462,4 +473,12 @@ details.book-chapters {
       color: $brand-color;
     }
   }
+}
+
+.spotify-icon-link {
+  max-width: 20px;
+  width: 20px;
+  margin-right: 6px;
+  margin-top: 2px;
+  display: inline-block;
 }
