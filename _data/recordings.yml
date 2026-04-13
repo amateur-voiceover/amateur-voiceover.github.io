@@ -849,7 +849,7 @@ recordings:
     type: article
     source: "Прочие источники"
     status: complete
-    topics: [antimilitarism, history, resistance]
+    topics: [history, resistance]
 
   - id: malatesta-anarchy-order
     title: "Анархия и порядок"
