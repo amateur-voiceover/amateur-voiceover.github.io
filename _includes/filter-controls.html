@@ -1,0 +1,30 @@
+<div class="filter-controls" id="filter-controls">
+  <div class="filter-group">
+    <button class="filter-btn active" data-filter="type" data-value="">Все типы</button>
+    <button class="filter-btn" data-filter="type" data-value="book">Книги</button>
+    <button class="filter-btn" data-filter="type" data-value="book_excerpt">Отрывки</button>
+    <button class="filter-btn" data-filter="type" data-value="article">Статьи</button>
+    <button class="filter-btn" data-filter="type" data-value="art">Художественные</button>
+    <button class="filter-btn" data-filter="type" data-value="history">Исторические</button>
+  </div>
+  <div class="filter-group">
+    <select id="filter-topic" aria-label="Фильтр по теме">
+      <option value="">Все темы</option>
+      {% for topic in site.data.topics.topics %}
+      <option value="{{ topic.id }}">{{ topic.label }}</option>
+      {% endfor %}
+    </select>
+    <select id="filter-source" aria-label="Фильтр по источнику">
+      <option value="">Все источники</option>
+      <option value="Akrateia">Akrateia</option>
+      <option value="Бармалеи/Партизаны">Бармалеи/Партизаны</option>
+      <option value="Crimethinc">Crimethinc</option>
+      <option value="Прочие источники">Прочие источники</option>
+    </select>
+  </div>
+  <div class="filter-group">
+    <input type="search" id="filter-author" placeholder="Поиск по автору…" aria-label="Поиск по автору">
+    <button id="filter-reset">Сбросить</button>
+  </div>
+</div>
+<script src="/assets/js/filter.js"></script>

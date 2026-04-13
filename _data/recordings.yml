@@ -1,0 +1,1247 @@
+recordings:
+
+  # ── Книги целиком ────────────────────────────────────────────────────────────
+
+  - id: gelderlos-nonviolence
+    title: "Как ненасилие защищает государство"
+    author: "Питер Гелдерлоос"
+    url: "https://t.me/dilettante_voiceover/171"
+    type: book
+    status: complete
+    topics: [likbez, resistance]
+
+  - id: anarchy-works
+    title: "Анархия работает. Примеры из истории России"
+    author: ~
+    url: "https://t.me/dilettante_voiceover/3"
+    type: book
+    status: complete
+    topics: [history]
+
+  - id: malatesta-ten-talks
+    title: "Десять бесед об анархизме"
+    author: "Эррико Малатеста"
+    url: "https://t.me/dilettante_voiceover/145"
+    type: book
+    status: complete
+    topics: [likbez]
+
+  - id: gelderlos-prison
+    title: "Тюрьма"
+    author: "Питер Гелдерлоос"
+    url: "https://t.me/dilettante_voiceover/252"
+    type: book
+    status: complete
+    topics: [prison]
+
+  - id: black-abolition-work
+    title: "Упразднение работы"
+    author: "Боб Блэк"
+    url: "https://t.me/dilettante_voiceover/90"
+    type: book
+    status: complete
+    topics: [labor]
+
+  - id: dedok-parallel-world
+    title: "Цвета параллельного мира"
+    author: "Николай Дедок"
+    url: "https://t.me/dilettante_voiceover/346"
+    type: book
+    status: complete
+    topics: [prison]
+
+  - id: ward-anarchism-intro
+    title: "Анархизм: очень краткое введение"
+    author: "Колин Вард"
+    url: "https://t.me/dilettante_voiceover/517"
+    type: book
+    status: complete
+    topics: [likbez]
+
+  - id: pustunya
+    title: "Пустыня"
+    author: "Аноним"
+    type: book
+    status: complete
+    topics: [ecology, anarcho-primitivism]
+    chapters:
+      - title: "1. (Глобального) будущего нет"
+        url: "https://t.me/dilettante_voiceover/475"
+      - title: "2. Всё намного запущеннее, чем мы думали"
+        url: "https://t.me/dilettante_voiceover/476"
+      - title: "3. Бури в пустыне"
+        url: "https://t.me/dilettante_voiceover/478"
+      - title: "4. Африканские пути к анархии"
+        url: "https://t.me/dilettante_voiceover/483"
+      - title: "5. Цивилизация отступает, дикость остается"
+        url: "https://t.me/dilettante_voiceover/485"
+      - title: "6. Возвращение Terror-nullius"
+        url: "https://t.me/dilettante_voiceover/492"
+      - title: "7. Конвергенция и новое городское большинство"
+        url: "https://t.me/dilettante_voiceover/507"
+      - title: "8. Сохранение природы в условиях перемен"
+        url: "https://t.me/dilettante_voiceover/519"
+      - title: "9. Анархисты за стенами"
+        url: "https://t.me/dilettante_voiceover/526"
+      - title: "10. Пустыня"
+        url: "https://t.me/dilettante_voiceover/527"
+
+  - id: golodnaya-step
+    title: "Голодная степь"
+    author: "Сара Камерон"
+    type: book
+    status: complete
+    topics: [history]
+    chapters:
+      - title: "Введение часть 1"
+        url: "https://t.me/dilettante_voiceover/247"
+      - title: "Введение часть 2"
+        url: "https://t.me/dilettante_voiceover/455"
+      - title: "Глава 1"
+        url: "https://t.me/dilettante_voiceover/458"
+      - title: "Глава 2"
+        url: "https://t.me/dilettante_voiceover/471"
+      - title: "Глава 3"
+        url: "https://t.me/dilettante_voiceover/472"
+      - title: "Глава 4"
+        url: "https://t.me/dilettante_voiceover/484"
+      - title: "Глава 5"
+        url: "https://t.me/dilettante_voiceover/498"
+      - title: "Глава 6"
+        url: "https://t.me/dilettante_voiceover/509"
+      - title: "Заключение и эпилог"
+        url: "https://t.me/dilettante_voiceover/510"
+
+  - id: glushakov-belarus
+    title: "Революция умерла! Да здравствует революция!"
+    author: "Юрий Глушаков"
+    type: book
+    status: complete
+    topics: [history, belarus]
+    chapters:
+      - title: "Введение"
+        url: "https://t.me/dilettante_voiceover/264"
+      - title: "Глава 1. Накануне. Возникновение и деятельность анархо-коммунистических групп в 1903—1904 гг."
+        url: "https://t.me/dilettante_voiceover/269"
+      - title: "Глава 2. Первая революция. На гребне волны. 1905—1907 гг."
+        parts:
+          - label: "Глава 2 (1, 2)"
+            url: "https://t.me/dilettante_voiceover/340"
+          - label: "Глава 2 (3)"
+            url: "https://t.me/dilettante_voiceover/342"
+          - label: "Глава 2 (4. Деятельность анархистов за пределами Белостока)"
+            url: "https://t.me/dilettante_voiceover/344"
+          - label: "Глава 2 (5, 6, 7)"
+            url: "https://t.me/dilettante_voiceover/348"
+      - title: "Глава 3. Отступление. 1907—1917 гг."
+        url: "https://t.me/dilettante_voiceover/356"
+      - title: "Глава 4. На переломе эпох. 1917—1921 гг."
+        parts:
+          - label: "Глава 4 (1)"
+            url: "https://t.me/dilettante_voiceover/368"
+          - label: "Глава 4 (2)"
+            url: "https://t.me/dilettante_voiceover/373"
+      - title: "Глава 5. Новое время. Анархизм в советской Беларуси (1921—1927 гг.)"
+        parts:
+          - label: "Глава 5 (1)"
+            url: "https://t.me/dilettante_voiceover/375"
+          - label: "Глава 5 (2)"
+            url: "https://t.me/dilettante_voiceover/379"
+          - label: "Глава 5 (3)"
+            url: "https://t.me/dilettante_voiceover/387"
+          - label: "Глава 5 (4)"
+            url: "https://t.me/dilettante_voiceover/389"
+          - label: "Глава 5 (5)"
+            url: "https://t.me/dilettante_voiceover/390"
+
+  - id: crimethinc-fighting-for-our-lives
+    title: "Борьба за наши жизни"
+    author: "Crimethinc"
+    type: book
+    status: complete
+    topics: [likbez, resistance]
+    chapters:
+      - title: "Часть 1"
+        url: "https://t.me/dilettante_voiceover/250"
+      - title: "Часть 2"
+        url: "https://t.me/dilettante_voiceover/316"
+      - title: "Часть 3"
+        url: "https://t.me/dilettante_voiceover/318"
+      - title: "Часть 4"
+        url: "https://t.me/dilettante_voiceover/333"
+      - title: "Часть 5"
+        url: "https://t.me/dilettante_voiceover/345"
+      - title: "Часть 6"
+        url: "https://t.me/dilettante_voiceover/351"
+
+  # ── Отрывки из книг ──────────────────────────────────────────────────────────
+
+  - id: carson-iron-fist
+    title: "Железный кулак и тупость институций"
+    author: "Кевин Карсон"
+    url: "https://t.me/dilettante_voiceover/477"
+    type: book_excerpt
+    source: "Железный кулак и тупость институций"
+    status: complete
+    topics: [labor, individualist-anarchism]
+
+  - id: gapova-love-revolution
+    title: "Любовь как революция, или «несмотря на Грамши» Полуты Бодуновой"
+    author: "Елена Гапова"
+    url: "https://t.me/dilettante_voiceover/131"
+    type: book_excerpt
+    source: "Классы наций. Феминистская критика нациостроительства"
+    status: complete
+    topics: [feminism, history, belarus]
+
+  - id: gapova-gender-nation
+    title: "О гендере, нации и классе в посткоммунизме"
+    author: "Елена Гапова"
+    url: "https://t.me/dilettante_voiceover/239"
+    type: book_excerpt
+    source: "Классы наций. Феминистская критика нациостроительства"
+    status: complete
+    topics: [feminism, belarus]
+
+  - id: richards-orwell-humanist
+    title: "Оруэлл-гуманист"
+    author: "Вернон Ричардс"
+    url: "https://t.me/dilettante_voiceover/273"
+    type: book_excerpt
+    source: "Оруэлл в семейном кругу и в среде анархистов"
+    status: complete
+    topics: [history]
+
+  - id: kunz-chapter3
+    title: "Глава 3. Союзники в академии. Философия Киттеля"
+    author: "Клаудия Кунц"
+    url: "https://t.me/dilettante_voiceover/67"
+    type: book_excerpt
+    source: "Совесть нацистов"
+    status: complete
+    topics: [history, antifascism]
+
+  # ── Книги в работе ───────────────────────────────────────────────────────────
+
+  - id: borovoy-anarchism
+    title: "Анархизм"
+    author: "Алексей Боровой"
+    type: book
+    status: in_progress
+    topics: [likbez]
+    chapters:
+      - title: "Предисловие"
+        url: "https://t.me/dilettante_voiceover/532"
+      - title: "Глава 1"
+        url: "https://t.me/dilettante_voiceover/535"
+
+  - id: bookchin-future-revolution
+    title: "Будущая Революция"
+    author: "Мюррей Букчин"
+    type: book
+    status: in_progress
+    topics: [ecology, likbez]
+    chapters:
+      - title: "Коммуналистский проект"
+        url: "https://t.me/dilettante_voiceover/531"
+      - title: "Экологический кризис и необходимость переустройства общества"
+        url: "https://t.me/dilettante_voiceover/534"
+
+  - id: scott-art-of-not-being-governed
+    title: "Искусство быть неподвластным"
+    author: "Джеймс Скотт"
+    type: book
+    status: in_progress
+    topics: [history, southeast-asia]
+    chapters:
+      - title: "Предисловие"
+        url: "https://t.me/dilettante_voiceover/511"
+      - title: "Глава 1"
+        url: "https://t.me/dilettante_voiceover/529"
+
+  - id: kosovo-gaskarov
+    title: "Корреспондент Гаскаров в аду и другие истории"
+    author: "Петя Косово"
+    type: book
+    status: in_progress
+    topics: [prison]
+    chapters:
+      - title: "Предисловие"
+        url: "https://t.me/dilettante_voiceover/212"
+      - title: "Каждый имеет право на свои 15 минут силы"
+        url: "https://t.me/dilettante_voiceover/223"
+      - title: "В зазеркалье и в аду"
+        url: "https://t.me/dilettante_voiceover/246"
+      - title: "Вознестись в сиянии (часть 1)"
+        url: "https://t.me/dilettante_voiceover/283"
+      - title: "Вознестись в сиянии (часть 2)"
+        url: "https://t.me/dilettante_voiceover/298"
+      - title: "Вознестись в сиянии (часть 3)"
+        url: "https://t.me/dilettante_voiceover/396"
+      - title: "Оксана Челышева – Воздух несвободы"
+        url: "https://t.me/dilettante_voiceover/386"
+      - title: "Как я в Интерпол ходил"
+        url: "https://t.me/dilettante_voiceover/405"
+      - title: "Петр - Октавио - Барселона"
+        url: "https://t.me/dilettante_voiceover/399"
+      - title: "Ребята, по-другому не бывает"
+        url: "https://t.me/dilettante_voiceover/403"
+      - title: "Центр Экстремизма"
+        url: "https://t.me/dilettante_voiceover/438"
+      - title: "Обезглавлено крыло антифашистов"
+        url: "https://t.me/dilettante_voiceover/438"
+      - title: "Смерть в лимбе"
+        url: "https://t.me/dilettante_voiceover/412"
+      - title: "Прощай, балабол, или кого похоронил openspace.ru"
+        url: "https://t.me/dilettante_voiceover/401"
+      - title: "Фекальная экономика и синьор Пук-Пук"
+        url: "https://t.me/dilettante_voiceover/421"
+      - title: "Анатомия богача"
+        url: "https://t.me/dilettante_voiceover/410"
+      - title: "Фемические суды и грунтовые монстры"
+        url: "https://t.me/dilettante_voiceover/402"
+      - title: "Демократы с травматами"
+        url: "https://t.me/dilettante_voiceover/398"
+      - title: "Не подавать руки"
+        url: "https://t.me/dilettante_voiceover/397"
+
+  - id: torres-making-a-killing
+    title: "Совершая убийство, или Политическая экономия прав животных"
+    author: "Боб Торрес"
+    type: book
+    status: in_progress
+    topics: [animal-rights, labor]
+    chapters:
+      - title: "Глава I"
+        url: "https://t.me/dilettante_voiceover/220"
+      - title: "Глава II"
+        url: "https://t.me/dilettante_voiceover/238"
+
+  - id: astashin-journey
+    title: "Путешествие по местам лишения"
+    author: "Иван Асташин"
+    type: book
+    status: in_progress
+    topics: [prison]
+    chapters:
+      - title: "Глава 1"
+        url: "https://t.me/dilettante_voiceover/266"
+      - title: "Глава 2"
+        url: "https://t.me/dilettante_voiceover/268"
+      - title: "Глава 3"
+        url: "https://t.me/dilettante_voiceover/291"
+      - title: "Глава 4"
+        url: "https://t.me/dilettante_voiceover/293"
+      - title: "Глава 5"
+        url: "https://t.me/dilettante_voiceover/296"
+      - title: "Глава 6"
+        url: "https://t.me/dilettante_voiceover/317"
+      - title: "Глава 7"
+        url: "https://t.me/dilettante_voiceover/353"
+      - title: "Глава 8"
+        url: "https://t.me/dilettante_voiceover/424"
+      - title: "Глава 9"
+        url: "https://t.me/dilettante_voiceover/430"
+
+  - id: moya-oborona
+    title: "Моя оборона. Сексуальное насилие: мифы и факты"
+    author: ~
+    type: book
+    status: in_progress
+    topics: [feminism]
+    chapters:
+      - title: "Предисловие"
+        url: "https://t.me/dilettante_voiceover/427"
+      - title: "Мы делаем вид, будто этого нет. Лиза Меламед"
+        url: "https://t.me/dilettante_voiceover/432"
+      - title: "В полиции говорят: «Подумаешь, ничего же не произошло». Павел Никулин"
+        url: "https://t.me/dilettante_voiceover/433"
+      - title: "Сексуальное насилие: мифы и факты. Мария Мохова"
+        url: "https://t.me/dilettante_voiceover/435"
+      - title: "Моя оборона: как не сесть, защищая себя? Анна Жавнерович, Алиса Хохлова"
+        url: "https://t.me/dilettante_voiceover/441"
+      - title: "Моя история о том, как я справлялась с ПТСР после изнасилования. Елена Ливанова"
+        url: "https://t.me/dilettante_voiceover/443"
+      - title: "О проблеме домашнего и сексуального насилия. Светлана Толстова"
+        url: "https://t.me/dilettante_voiceover/444"
+      - title: "Влияние реакции окружения на развитие посттравматической симптоматики. Марина Миронова"
+        url: "https://t.me/dilettante_voiceover/445"
+      - title: "О центре «Сестры» и приложении «Насилию.нет»"
+        url: "https://t.me/dilettante_voiceover/446"
+
+  - id: falkovski-xinjiang
+    title: "По следам Бурхана Шахиди или Синьцзян 50 лет спустя"
+    author: "Илья Фальковский"
+    type: book
+    status: in_progress
+    topics: [history]
+    chapters:
+      - title: "Часть 1. Эпизод 1"
+        url: "https://t.me/dilettante_voiceover/270"
+      - title: "Часть 1. Эпизод 2"
+        url: "https://t.me/dilettante_voiceover/347"
+
+  - id: bey-taz
+    title: "Временные автономные зоны"
+    author: "Хаким Бей (Питер Лэмборн Уилсон)"
+    type: book
+    status: in_progress
+    topics: [post-anarchism]
+    chapters:
+      - title: "Пиратские утопии"
+        url: "https://t.me/dilettante_voiceover/466"
+      - title: "В ожидании революции"
+        url: "https://t.me/dilettante_voiceover/467"
+      - title: "Музыка как организующий принцип"
+        url: "https://t.me/dilettante_voiceover/489"
+      - title: "Психотопология повседневности"
+        url: "https://t.me/dilettante_voiceover/512"
+      - title: "Ушли на Кроатоан"
+        url: "https://t.me/dilettante_voiceover/513"
+      - title: "Воля к власти как исчезновение"
+        url: "https://t.me/dilettante_voiceover/533"
+
+  # ── Статьи — Akrateia ────────────────────────────────────────────────────────
+
+  - id: dubovyk-makhno-economy
+    title: "Экономика махновщины"
+    author: "Анатолий Дубовик"
+    url: "https://t.me/dilettante_voiceover/130"
+    type: article
+    source: "Akrateia"
+    status: complete
+    topics: [history, makhno]
+
+  - id: dubovyk-makhno-amnesty-thanks
+    title: "«Поблагодарили за борьбу против белых, а потом расстреляли». Конец союза красных и Махно"
+    author: "Анатолий Дубовик"
+    url: "https://t.me/dilettante_voiceover/227"
+    type: article
+    source: "Akrateia"
+    status: complete
+    topics: [history, makhno]
+
+  - id: dubovyk-makhno-amnesty-false
+    title: "Обманчивая амнистия. Как чекисты уничтожали махновцев, добровольно сложивших оружие"
+    author: "Анатолий Дубовик"
+    url: "https://t.me/dilettante_voiceover/237"
+    type: article
+    source: "Akrateia"
+    status: complete
+    topics: [history, makhno]
+
+  - id: leeder-anarchofeminism
+    title: "Анархо-феминизм"
+    author: "Элейн Лиидэр"
+    url: "https://t.me/dilettante_voiceover/179"
+    type: article
+    source: "Akrateia"
+    status: complete
+    topics: [feminism]
+
+  - id: rakhmaninova-weil
+    title: "Апофатический анархизм Симоны Вейль"
+    author: "Мария Рахманинова"
+    url: "https://t.me/dilettante_voiceover/180"
+    type: article
+    source: "Akrateia"
+    status: complete
+    topics: [history]
+
+  - id: eichner-michel-colonialism
+    title: "Язык империализма и язык освобождения: Луиза Мишель и колониальные отношения между французами и канаками"
+    author: "Каролин Дж. Эйхнер"
+    url: "https://t.me/dilettante_voiceover/183"
+    type: article
+    source: "Akrateia"
+    status: complete
+    topics: [feminism, history]
+
+  - id: basf-bangladesh
+    title: "Работницы чайных плантаций в Бангладеш: больше работы, меньше жизни"
+    author: "BASF"
+    url: "https://t.me/dilettante_voiceover/187"
+    type: article
+    source: "Akrateia"
+    status: complete
+    topics: [labor, southeast-asia]
+
+  - id: de-cleyre-paris-commune-akrateia
+    title: "Парижская коммуна (из записей Вольтерины де Клер)"
+    author: "Вольтерина де Клер"
+    url: "https://t.me/dilettante_voiceover/107"
+    type: article
+    source: "Akrateia"
+    status: complete
+    topics: [history]
+
+  - id: gorbunov-zapatistas
+    title: "«Править подчиняясь». Как устроено сапатистское самоуправление?"
+    author: "Валентин Горбунов"
+    url: "https://t.me/dilettante_voiceover/161"
+    type: article
+    source: "Akrateia"
+    status: complete
+    topics: [history]
+
+  - id: dubovyk-nikiforova
+    title: "Мария Никифорова: жизнь и смерть анархистки"
+    author: "Анатолий Дубовик"
+    url: "https://t.me/dilettante_voiceover/265"
+    type: article
+    source: "Akrateia"
+    status: complete
+    topics: [feminism, history, makhno]
+
+  - id: collectivization-catalonia
+    title: "Коллективизация в Каталонии"
+    author: ~
+    url: "https://t.me/dilettante_voiceover/284"
+    type: article
+    source: "Akrateia"
+    status: complete
+    topics: [history, labor]
+
+  - id: dubovyk-directions-anarchism
+    title: "Неактуальная тема: о направлениях анархизма"
+    author: "Анатолий Дубовик"
+    url: "https://t.me/dilettante_voiceover/384"
+    type: article
+    source: "Akrateia"
+    status: complete
+    topics: [likbez]
+
+  # ── Статьи — Бармалеи/Партизаны ─────────────────────────────────────────────
+
+  - id: barmalei-slaughterhouse-excerpt
+    title: "Бойня (отрывок)"
+    author: "Бармалеи/Партизаны"
+    url: "https://t.me/dilettante_voiceover/185"
+    type: article
+    source: "Бармалеи/Партизаны"
+    status: complete
+    topics: [history, antimilitarism]
+
+  - id: barmalei-slaughterhouse-timor
+    title: "Бойня. Тимор: независимость и оккупация"
+    author: "Бармалеи/Партизаны"
+    url: "https://t.me/dilettante_voiceover/193"
+    type: article
+    source: "Бармалеи/Партизаны"
+    status: complete
+    topics: [history, antimilitarism, southeast-asia]
+
+  - id: barmalei-nuremberg
+    title: "Дорога в Нюрнберг"
+    author: "Бармалеи/Партизаны"
+    url: "https://t.me/dilettante_voiceover/188"
+    type: article
+    source: "Бармалеи/Партизаны"
+    status: complete
+    topics: [history, antifascism]
+
+  - id: barmalei-miners
+    title: "Шахтеры и Железная леди: кто сильней?"
+    author: "Бармалеи/Партизаны"
+    url: "https://t.me/dilettante_voiceover/208"
+    type: article
+    source: "Бармалеи/Партизаны"
+    status: complete
+    topics: [labor, history]
+
+  - id: barmalei-africa-coups
+    title: "Эпидемия Африканских переворотов"
+    author: "Бармалеи/Партизаны"
+    url: "https://t.me/dilettante_voiceover/210"
+    type: article
+    source: "Бармалеи/Партизаны"
+    status: complete
+    topics: [history]
+
+  - id: barmalei-alf
+    title: "Animal Liberation Front (ALF)"
+    author: "Бармалеи/Партизаны"
+    url: "https://t.me/dilettante_voiceover/217"
+    type: article
+    source: "Бармалеи/Партизаны"
+    status: complete
+    topics: [animal-rights, resistance]
+
+  - id: barmalei-dictators-die
+    title: "Как умирают диктаторы"
+    author: "Бармалеи/Партизаны"
+    url: "https://t.me/dilettante_voiceover/280"
+    type: article
+    source: "Бармалеи/Партизаны"
+    status: complete
+    topics: [history]
+
+  - id: barmalei-student-resistance
+    title: "Студенческое сопротивление диктатуре в Аргентине и Греции"
+    author: "Бармалеи/Партизаны"
+    url: "https://t.me/dilettante_voiceover/278"
+    type: article
+    source: "Бармалеи/Партизаны"
+    status: complete
+    topics: [history, antimilitarism, resistance]
+
+  # ── Статьи — Crimethinc ──────────────────────────────────────────────────────
+
+  - id: crimethinc-security-culture
+    title: "Что такое культура безопасности"
+    author: "Crimethinc"
+    url: "https://t.me/dilettante_voiceover/479"
+    type: article
+    source: "Crimethinc"
+    status: complete
+    topics: [likbez, resistance]
+
+  - id: fiscella-anarcho-islam
+    title: "Анархо-Ислам"
+    author: "Энтони Т. Фискелла"
+    url: "https://t.me/dilettante_voiceover/229"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: [religious-anarchism]
+
+  - id: snyder-anarcho-buddhism
+    title: "Анархо-буддизм"
+    author: "Гэри Снайдер"
+    url: "https://t.me/dilettante_voiceover/262"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: [religious-anarchism]
+
+  # ── Статьи — Прочие источники ────────────────────────────────────────────────
+
+  - id: myths-che-guevara
+    title: "Мифы и легенды: Че Гевара"
+    author: ~
+    url: "https://t.me/dilettante_voiceover/80"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: [history]
+
+  - id: podshivalov-chicago-martyrs
+    title: "Чикагские мученики"
+    author: "Игорь Подшивалов"
+    url: "https://t.me/dilettante_voiceover/103"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: [labor, history]
+
+  - id: anarchism-japan
+    title: "Анархизм в Японии (о Фумико Канеко, Ито Ноэ, Кано Суга)"
+    author: ~
+    url: "https://t.me/dilettante_voiceover/71"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: [feminism, history, japan]
+
+  - id: kaneko-biography
+    title: "Биография Канеко Фумико"
+    author: ~
+    url: "https://t.me/dilettante_voiceover/186"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: [feminism, history, japan]
+
+  - id: mann-animal-liberation-history
+    title: "История движения за освобождение животных"
+    author: "Кит Манн"
+    url: "https://t.me/dilettante_voiceover/111"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: [animal-rights, history]
+
+  - id: podshivalov-zhanna-darc
+    title: "Жанна д'Арк сибирской контрреволюции"
+    author: "Игорь Подшивалов"
+    url: "https://t.me/dilettante_voiceover/113"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: [history, feminism]
+
+  - id: piper-women-pinochet
+    title: "Женское сопротивление диктатуре Пиночета"
+    author: "Ядвига Пипер"
+    url: "https://t.me/dilettante_voiceover/123"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: [feminism, history, antimilitarism, resistance]
+
+  - id: foer-eating-animals
+    title: "Eating Animals"
+    author: "Джонатан Фоер"
+    url: "https://t.me/dilettante_voiceover/126"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: [animal-rights]
+
+  - id: hugsson-harry-potter-animals
+    title: "Забота о «магических» существах? Моральная оценка литературного тропа «Любитель животных» в Гарри Поттере"
+    author: "Анника Хьюгссон"
+    url: "https://t.me/dilettante_voiceover/141"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: [animal-rights]
+
+  - id: dominick-animal-liberation-revolution
+    title: "Освобождение животных и социальная революция"
+    author: "Брайн А. Доминик"
+    url: "https://t.me/dilettante_voiceover/201"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: [animal-rights]
+
+  - id: khromyi-individualism-socialism
+    title: "Индивидуализм и социализм"
+    author: "Денис Хромый"
+    url: "https://t.me/dilettante_voiceover/191"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: [individualist-anarchism]
+
+  - id: podshivalov-betrayed-revolution
+    title: "Преданная революция"
+    author: "Игорь Подшивалов"
+    url: "https://t.me/dilettante_voiceover/119"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: [history]
+
+  - id: budnitsky-men-women-red-army
+    title: "Мужчины и женщины в Красной армии"
+    author: "Олег Будницкий"
+    url: "https://t.me/dilettante_voiceover/194"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: [feminism, history]
+
+  - id: maltsberger-hostility-suicide
+    title: "Клиническое исследование роли враждебности и пожеланий смерти со стороны семьи и общества при суицидальных попытках"
+    author: "Джон Молтсбергер"
+    url: "https://t.me/dilettante_voiceover/62"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: [prison, suicide]
+
+  - id: maltsberger-suicide-risk
+    title: "Опасность самоубийства: клиническая оценка и принятие решений"
+    author: "Джон Молтсбергер"
+    url: "https://t.me/dilettante_voiceover/206"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: [prison, suicide]
+
+  - id: nechaev-catechism
+    title: "Катехизис революционера"
+    author: "Сергей Нечаев"
+    url: "https://t.me/dilettante_voiceover/218"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: [history]
+
+  - id: memorial-katyn
+    title: "Катынское преступление"
+    author: "Международное общество «Мемориал»"
+    url: "https://t.me/dilettante_voiceover/240"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: [history]
+
+  - id: libertad-recruits
+    title: "Новобранцам"
+    author: "Альбер Либертад"
+    url: "https://t.me/dilettante_voiceover/251"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: [antimilitarism]
+
+  - id: thoreau-civil-disobedience
+    title: "О гражданском неповиновении"
+    author: "Генри Торо"
+    url: "https://t.me/dilettante_voiceover/267"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: [antimilitarism, individualist-anarchism, resistance]
+
+  - id: shypunov-anarchosyndicalism
+    title: "Анархо-синдикалізм як напрям ідейно-інституційної еволюції лівого політичного руху"
+    author: "Геннадій Шипунов"
+    url: "https://t.me/dilettante_voiceover/315"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: [labor]
+
+  - id: dubovyk-makhno-faces
+    title: "Батрак, швец, слесарь, машинист: лица вожаков махновского движения"
+    author: "Анатолий Дубовик"
+    url: "https://t.me/dilettante_voiceover/319"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: [history, makhno]
+
+  - id: labadie-study
+    title: "Учиться? Чего ради?"
+    author: "Лоуренс Лабади"
+    url: "https://t.me/dilettante_voiceover/409"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: [individualist-anarchism, anarchist-pedagogy]
+
+  - id: labadie-war
+    title: "Война, война и ещё раз война"
+    author: "Лоуренс Лабади"
+    url: "https://t.me/dilettante_voiceover/411"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: [antimilitarism, individualist-anarchism]
+
+  - id: zerzan-left-no-thanks
+    title: "Левые? Спасибо, но нет"
+    author: "Джон Зерзан"
+    url: "https://t.me/dilettante_voiceover/408"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: [anarcho-primitivism]
+
+  - id: ryabov-escape-as-revolt
+    title: "Побег как бунт"
+    author: "Петр Рябов"
+    url: "https://t.me/dilettante_voiceover/400"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: [prison, resistance]
+
+  - id: ira-green-book
+    title: "Зеленая книга ИРА"
+    author: ~
+    url: "https://t.me/dilettante_voiceover/393"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: [antimilitarism, history, resistance]
+
+  - id: malatesta-anarchy-order
+    title: "Анархия и порядок"
+    author: "Эррико Малатеста"
+    url: "https://t.me/dilettante_voiceover/383"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: [likbez]
+
+  - id: autonomous-action-durruti
+    title: "Дуррути. Памяти героя"
+    author: "Автономное действие"
+    url: "https://t.me/dilettante_voiceover/372"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: [history]
+
+  - id: graeber-are-you-anarchist
+    title: "Ты Анархист? Ответ может тебя удивить"
+    author: "Дэвид Грэбер"
+    url: "https://t.me/dilettante_voiceover/370"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: [likbez]
+
+  - id: carson-anarchism-without-adjectives
+    title: "Анархизм без прилагательных"
+    author: "Кевин Карсон"
+    url: "https://t.me/dilettante_voiceover/355"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: [individualist-anarchism]
+
+  - id: de-cleyre-paris-commune-other
+    title: "Парижская коммуна"
+    author: "Вольтарина Де Клер"
+    url: "https://t.me/dilettante_voiceover/413"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: [history]
+
+  - id: romanov-anarchy-mother-of-order
+    title: "Анархия — мать порядка"
+    author: "Илья Романов"
+    url: "https://t.me/dilettante_voiceover/343"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: [likbez]
+
+  - id: gerasimov-mystical-anarchists
+    title: "Мистические анархисты"
+    author: "Николай Герасимов"
+    url: "https://t.me/dilettante_voiceover/341"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: [history]
+
+  - id: clastres-society-against-state
+    title: "Общество против государства"
+    author: "Пьер Кластр"
+    url: "https://t.me/dilettante_voiceover/330"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: []
+
+  - id: nettlau-anarchists-war
+    title: "Что должны делать анархисты в случае войны"
+    author: "Макс Неттлау"
+    url: "https://t.me/dilettante_voiceover/463"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: [antimilitarism]
+
+  - id: kropotkin-satisfaction-for-all
+    title: "Довольство для всех"
+    author: "П.А. Кропоткин"
+    url: "https://t.me/dilettante_voiceover/462"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: [labor]
+
+  - id: kropotkin-political-rights
+    title: "Политические права"
+    author: "П.А. Кропоткин"
+    url: "https://t.me/dilettante_voiceover/460"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: []
+
+  - id: kropotkin-antimilitarism
+    title: "Антимилитаризм. Был ли он ясно понят?"
+    author: "П.А. Кропоткин"
+    url: "https://t.me/dilettante_voiceover/454"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: [antimilitarism]
+
+  - id: kropotkin-our-riches
+    title: "Наши богатства"
+    author: "П.А. Кропоткин"
+    url: "https://t.me/dilettante_voiceover/459"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: [labor]
+
+  - id: goldman-child-enemies
+    title: "Ребенок и его враги"
+    author: "Эмма Гольдман"
+    url: "https://t.me/dilettante_voiceover/457"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: [feminism, anarchist-pedagogy]
+
+  - id: volin-red-fascism
+    title: "Красный фашизм"
+    author: "Всеволод Волин"
+    url: "https://t.me/dilettante_voiceover/456"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: [history, antifascism]
+
+  - id: kalinina-never-alone
+    title: "Я никогда не была одна и не буду. Нас миллионы и мы всегда были неугодны обществу"
+    author: "Татьяна Калинина"
+    url: "https://t.me/dilettante_voiceover/452"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: [feminism]
+
+  - id: guillaume-federalism
+    title: "Федерализм"
+    author: "Джеймс Гильом"
+    url: "https://t.me/dilettante_voiceover/442"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: []
+
+  - id: black-grebe-sea
+    title: "От кого мы спасаем море"
+    author: "Черная чомга"
+    url: "https://t.me/dilettante_voiceover/437"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: [ecology]
+
+  - id: carson-corporate-capitalism
+    title: "Почему корпоративный капитализм нежизнеспособен"
+    author: "Кевин Карсон"
+    url: "https://t.me/dilettante_voiceover/436"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: [labor, individualist-anarchism]
+
+  - id: glitterbomb-cooperatives
+    title: "Коммунизация общества при помощи потребительских кооперативов"
+    author: "Логан Мари Глиттербомб"
+    url: "https://t.me/dilettante_voiceover/431"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: [labor]
+
+  - id: watson-civilization-jet
+    title: "Цивилизация подобна реактивному самолёту"
+    author: "Дэвид Уотсон"
+    url: "https://t.me/dilettante_voiceover/423"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: [ecology, anarcho-primitivism]
+
+  - id: gibson-dirty-work
+    title: "Кто будет делать грязную работу?"
+    author: "Тони Гибсон"
+    url: "https://t.me/dilettante_voiceover/420"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: [labor]
+
+  - id: baker-means-ends
+    title: "Средства и цели"
+    author: "Зои Бейкер"
+    url: "https://t.me/dilettante_voiceover/419"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: [post-anarchism]
+
+  - id: wee-market-anarchism
+    title: "В чем разница между рыночным анархизмом и анархо-капитализмом"
+    author: "Келли Ви"
+    url: "https://t.me/dilettante_voiceover/418"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: [individualist-anarchism]
+
+  - id: reclus-homeland-humanity
+    title: "Родина и человечество"
+    author: "Элизе Реклю"
+    url: "https://t.me/dilettante_voiceover/417"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: []
+
+  - id: labadie-what-is-man
+    title: "Что такое человек и весь мир театр"
+    author: "Лоуренс Лабади"
+    url: "https://t.me/dilettante_voiceover/416"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: [individualist-anarchism]
+
+  - id: labadie-infantile-radicalism
+    title: "Инфантильный радикализм"
+    author: "Лоуренс Лабади"
+    url: "https://t.me/dilettante_voiceover/415"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: [individualist-anarchism]
+
+  - id: anon-security-culture-recipe
+    title: "Уверенность. Отвага. Родство. Доверие. Рецепт культуры безопасности"
+    author: "Аноним"
+    url: "https://t.me/dilettante_voiceover/486"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: [resistance]
+
+  - id: kropotkin-are-we-good-enough
+    title: "Достаточно ли мы хороши"
+    author: "Пётр Кропоткин"
+    url: "https://t.me/dilettante_voiceover/496"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: []
+
+  - id: markelov-red-book-antifa
+    title: "Красная книга антифа"
+    author: "Станислав Маркелов"
+    url: "https://t.me/dilettante_voiceover/503"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: [history, antifascism]
+
+  - id: sakhnin-remember-stas
+    title: "Помнить о Стасе"
+    author: "Алексей Сахнин"
+    url: "https://t.me/dilettante_voiceover/505"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: [history, antifascism]
+
+  - id: kanavalchik-belarus-anarchism-history
+    title: "История анархического движения Беларуси в первые 10 лет после развала СССР (1992-2002 годы)"
+    author: "Павлюк Коновальчик"
+    url: "https://t.me/dilettante_voiceover/525"
+    type: article
+    source: "Прочие источники"
+    status: complete
+    topics: [history, belarus]
+
+  # ── Художественные тексты ────────────────────────────────────────────────────
+
+  - id: ukrainka-nadiia
+    title: "Надія"
+    author: "Леся Украинка"
+    url: "https://t.me/dilettante_voiceover/110"
+    type: art
+    status: complete
+    topics: []
+
+  - id: nefor-manuscripts
+    title: "Рукописи из шкатулки"
+    author: "Саша «Нефор»"
+    url: "https://t.me/dilettante_voiceover/139"
+    type: art
+    status: complete
+    topics: []
+
+  - id: george-zapatista-tale
+    title: "Сапатистская сказка: история других"
+    author: "Либертарий Джордж"
+    url: "https://t.me/dilettante_voiceover/167"
+    type: art
+    status: complete
+    topics: []
+
+  - id: poetry-two-poems
+    title: "Два стихотворения из сборника «Поэзия последнего времени»"
+    author: ~
+    url: "https://t.me/dilettante_voiceover/158"
+    type: art
+    status: complete
+    topics: []
+
+  - id: cortazar-occupied-house
+    title: "Захваченный дом"
+    author: "Хулио Кортасар"
+    url: "https://t.me/dilettante_voiceover/203"
+    type: art
+    status: complete
+    topics: []
+
+  - id: gordins-why
+    title: "Почему?"
+    author: "Братья Гордины"
+    url: "https://t.me/dilettante_voiceover/354"
+    type: art
+    status: complete
+    topics: []
+
+  - id: agamalova-poems
+    title: "Избранные стихотворения"
+    author: "Лолита Агамалова"
+    url: "https://t.me/dilettante_voiceover/452"
+    type: art
+    status: complete
+    topics: [feminism]
+
+  - id: lesbian-poetry
+    title: "Лесбийская поэзия"
+    author: "Сапфо, София Парнок, Одри Лорд, Джун Джордан"
+    url: "https://t.me/dilettante_voiceover/448"
+    type: art
+    status: complete
+    topics: [feminism]
+
+  - id: poetry-collection
+    title: "Поэзия последнего времени. Сборник"
+    author: ~
+    url: "https://t.me/dilettante_voiceover/521"
+    type: art
+    status: complete
+    topics: []
+
+  # ── Исторические источники ───────────────────────────────────────────────────
+
+  - id: makhno-first-order
+    title: "Первый приказ Нестора Махно"
+    author: "Нестор Махно"
+    url: "https://t.me/dilettante_voiceover/226"
+    type: history
+    status: complete
+    topics: [history, makhno]
+
+  - id: ivanova-autobiography
+    title: "Автобиография"
+    author: "С.А. Иванова-Борейшо"
+    url: "https://t.me/dilettante_voiceover/376"
+    type: history
+    status: complete
+    topics: [feminism, history]
+
+  - id: ivanova-first-printing
+    title: "Первая типография народной воли"
+    author: "С.А. Иванова-Борейшо"
+    url: "https://t.me/dilettante_voiceover/363"
+    type: history
+    status: complete
+    topics: [history]
+
+  - id: borovoy-anarchist-manifesto
+    title: "Анархический манифест"
+    author: "Алексей Боровой"
+    url: "https://t.me/dilettante_voiceover/337"
+    type: history
+    status: complete
+    topics: [history]

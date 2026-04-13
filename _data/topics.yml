@@ -1,0 +1,41 @@
+topics:
+  - id: anarchist-pedagogy
+    label: "Анархическая педагогика"
+  - id: anarcho-primitivism
+    label: "Анархо-примитивизм"
+  - id: antimilitarism
+    label: "Антимилитаризм"
+  - id: antifascism
+    label: "Антифашизм"
+  - id: belarus
+    label: "Беларусь"
+  - id: individualist-anarchism
+    label: "Индивидуалистический анархизм"
+  - id: history
+    label: "История"
+  - id: likbez
+    label: "Ликбез"
+  - id: makhno
+    label: "Махновщина"
+  - id: post-anarchism
+    label: "Пост-анархизм"
+  - id: animal-rights
+    label: "Права животных"
+  - id: religious-anarchism
+    label: "Религиозный анархизм"
+  - id: resistance
+    label: "Сопротивление"
+  - id: suicide
+    label: "Суицид"
+  - id: labor
+    label: "Труд и экономика"
+  - id: prison
+    label: "Тюрьма и репрессии"
+  - id: feminism
+    label: "Феминизм"
+  - id: ecology
+    label: "Экология"
+  - id: southeast-asia
+    label: "Юго-Восточная Азия"
+  - id: japan
+    label: "Япония"

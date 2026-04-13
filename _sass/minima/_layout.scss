@@ -342,11 +342,6 @@ details {
   }
 }
 
-ul.books-with-chapters {
-  list-style: none;
-  margin-left: calc($spacing-unit / 2) - 2;
-}
-
 details.book-chapters {
   padding: 0;
   margin-bottom: calc($spacing-unit / 4);
@@ -370,10 +365,101 @@ details.book-chapters {
   }
 
   &[open] > summary::before {
-    transform: rotate(90deg);
+    transform: translate(-6px, 0) rotate(90deg)
   }
 
   li > ul {
     margin-bottom: 0;
+  }
+}
+
+.entry-author {
+  color: $grey-color;
+  font-size: $small-font-size;
+}
+
+.recordings-list {
+  list-style: none;
+}
+
+.filter-controls {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: calc($spacing-unit / 4);
+  margin-bottom: $spacing-unit;
+
+  .filter-group {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: calc($spacing-unit / 4);
+
+    &:first-child {
+      flex-basis: 100%;
+    }
+  }
+
+  .filter-btn {
+    background: none;
+    border: 1px solid $grey-color-light;
+    border-radius: 3px;
+    padding: 3px 10px;
+    cursor: pointer;
+    font-size: $small-font-size;
+    color: $text-color;
+
+    &:hover {
+      border-color: $brand-color;
+      color: $brand-color;
+    }
+
+    &.active {
+      background-color: $brand-color;
+      border-color: $brand-color;
+      color: $background-color;
+    }
+  }
+
+  select {
+    border: 1px solid $brand-color;
+    border-radius: 3px;
+    padding: 3px 28px 3px 8px;
+    font-size: $small-font-size;
+    background-color: $background-color;
+    color: $text-color;
+
+    &:focus {
+      outline: none;
+    }
+  }
+
+  input[type="search"] {
+    border: 1px solid $grey-color-light;
+    border-radius: 3px;
+    padding: 3px 8px;
+    font-size: $small-font-size;
+    background-color: $background-color;
+    color: $text-color;
+
+    &:focus {
+      outline: none;
+      border-color: $brand-color;
+    }
+  }
+
+  #filter-reset {
+    background: none;
+    border: 1px solid $grey-color-light;
+    border-radius: 3px;
+    padding: 3px 10px;
+    cursor: pointer;
+    font-size: $small-font-size;
+    color: $grey-color;
+
+    &:hover {
+      border-color: $brand-color;
+      color: $brand-color;
+    }
   }
 }

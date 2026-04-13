@@ -1,0 +1,39 @@
+sections:
+  - id: full_book
+    title: "Книги целиком"
+    type: book
+    status: complete
+
+  - id: book_excerpts
+    title: "Отрывки из книг"
+    type: book_excerpt
+
+  - id: book_in_progress
+    title: "Книги в работе"
+    type: book
+    status: in_progress
+
+  - id: essay
+    title: "Отдельные статьи, эссе"
+    type: article
+    subsections:
+      - id: akrateia
+        title: "Akrateia"
+        source: "Akrateia"
+      - id: barmalei
+        title: "Бармалеи/Партизаны"
+        source: "Бармалеи/Партизаны"
+      - id: crimethinc
+        title: "Сrimethinc"
+        source: "Crimethinc"
+      - id: other
+        title: "Прочие источники"
+        source: "Прочие источники"
+
+  - id: art
+    title: "Художественные тексты"
+    type: art
+
+  - id: history
+    title: "Исторические источники"
+    type: history
