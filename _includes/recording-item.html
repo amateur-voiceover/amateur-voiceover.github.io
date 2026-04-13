@@ -1,6 +1,6 @@
 {% assign entry = include.entry %}
 <li data-type="{{ entry.type }}" data-author="{{ entry.author }}" data-source="{{ entry.source }}" data-status="{{ entry.status }}" data-topics="{{ entry.topics | join: ' ' }}">
-  {% if entry.spotify %}<a href="{{ entry.spotify }}" class="spotify-icon-link" target="_blank" rel="noopener" title="Слушать на Spotify"><img src="{{ '/assets/spotify.png' | relative_url }}" alt="Spotify" class="spotify-icon"></a>{% endif %}{% if entry.chapters %}
+  {% if entry.spotify %}<a href="{{ entry.spotify }}" class="spotify-icon-link" target="_blank" rel="noopener" title="Слушать на Spotify"><img src="{{ '/assets/spotify.svg' | relative_url }}" alt="Spotify" class="spotify-icon"></a>{% endif %}{% if entry.chapters %}
     <details class="book-chapters" id="{{ entry.id }}">
       <summary>{{ entry.title }}{% if entry.author %}<span class="entry-author"> — {{ entry.author }}</span>{% endif %}</summary>
       <ul>

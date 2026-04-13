@@ -80,16 +80,16 @@
       visibility: hidden;
     }
     &.apple {
-      background-image: url("/assets/apple_podcasts.png");
+      background-image: url("/assets/apple-podcasts.svg");
     }
     &.google {
       background-image: url("/assets/google_podcasts.png");
     }
     &.castbox {
-      background-image: url("/assets/castbox.png");
+      background-image: url("/assets/castbox.svg");
     }
     &.spotify {
-      background-image: url("/assets/spotify.png");
+      background-image: url("/assets/spotify.svg");
     }
   }
 }
