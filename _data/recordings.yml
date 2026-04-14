@@ -314,6 +314,23 @@ recordings:
 
   # ── Книги в работе ───────────────────────────────────────────────────────────
 
+  - id: gilligan-snyder-patriarchy
+    title: "Почему патриархат всё ещё существует?"
+    author: "Кэрол Гиллиган, Наоми Снайдер"
+    type: book
+    status: in_progress
+    topics: [feminism]
+    spotify: ~
+    chapters:
+      - title: "Введение"
+        url: "https://t.me/dilettante_voiceover/45"
+      - title: "Глава 1. Загадка"
+        url: "https://t.me/dilettante_voiceover/55"
+      - title: "Первая подсказка: связь с утратой"
+        url: "https://t.me/dilettante_voiceover/58"
+      - title: "Глава 3. Сопротивление (часть 1)"
+        url: "https://t.me/dilettante_voiceover/74"
+
   - id: borovoy-anarchism
     title: "Анархизм"
     author: "Алексей Боровой"
