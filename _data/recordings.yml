@@ -1254,7 +1254,7 @@ recordings:
     type: art
     status: complete
     topics: []
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/3nXtpSosfJ2NgLmqJqbEV7"
 
   - id: nefor-manuscripts
     title: "Рукописи из шкатулки"
@@ -1263,7 +1263,7 @@ recordings:
     type: art
     status: complete
     topics: []
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/7oQwAETVMcaR9fB8GB5p6A"
 
   - id: george-zapatista-tale
     title: "Сапатистская сказка: история других"
@@ -1272,16 +1272,7 @@ recordings:
     type: art
     status: complete
     topics: []
-    spotify: ~
-
-  - id: poetry-two-poems
-    title: "Два стихотворения из сборника «Поэзия последнего времени»"
-    author: ~
-    url: "https://t.me/dilettante_voiceover/158"
-    type: art
-    status: complete
-    topics: []
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/0Ph9cMGOI0fVOYSTtRIeQM"
 
   - id: cortazar-occupied-house
     title: "Захваченный дом"
@@ -1290,7 +1281,7 @@ recordings:
     type: art
     status: complete
     topics: []
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/0mjKe1cTij9XmwpFICtE3u"
 
   - id: gordins-why
     title: "Почему?"
@@ -1299,7 +1290,7 @@ recordings:
     type: art
     status: complete
     topics: []
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/3OkHx0ZJpurUHcGpZboB3G"
 
   - id: agamalova-poems
     title: "Избранные стихотворения"
@@ -1308,7 +1299,7 @@ recordings:
     type: art
     status: complete
     topics: [feminism]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/6Oc2T5RRzIFJVMBk5zlcDf"
 
   - id: lesbian-poetry
     title: "Лесбийская поэзия"
@@ -1317,16 +1308,20 @@ recordings:
     type: art
     status: complete
     topics: [feminism]
-    spotify: ~
+    spotify: "https://open.spotify.com/playlist/2ctRRzWQ9Owt7SaWKWq0q7"
 
   - id: poetry-collection
     title: "Поэзия последнего времени. Сборник"
     author: ~
-    url: "https://t.me/dilettante_voiceover/521"
     type: art
     status: complete
-    topics: []
-    spotify: ~
+    topics: [antimilitarism]
+    spotify: "https://open.spotify.com/playlist/2zfKSqyj4d7sypg5JP32O2"
+    chapters:
+        - title: Котёнок, Мир и два стихотворения без названия
+          url: "https://t.me/dilettante_voiceover/521"
+        - title: Ещё два стихотворения
+          url: "https://t.me/dilettante_voiceover/158"
 
   # ── Исторические источники ───────────────────────────────────────────────────
 

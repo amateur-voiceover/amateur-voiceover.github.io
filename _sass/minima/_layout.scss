@@ -379,9 +379,9 @@ details.book-chapters {
 }
 
 .recordings-list {
-  list-style: none;
+  margin-left: 0;
 
-  li {
+  & > li {
     display: flex;
     align-items: baseline;
     .spotify-icon-link {
@@ -389,6 +389,7 @@ details.book-chapters {
     }
     .entry-info {
       flex: 2;
+      margin-bottom: calc($spacing-unit / 4);
     }
   }
 }
