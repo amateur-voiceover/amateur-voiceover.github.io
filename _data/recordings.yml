@@ -186,6 +186,80 @@ recordings:
       - title: "Часть 6"
         url: "https://t.me/dilettante_voiceover/351"
 
+  - id: kosovo-gaskarov
+    title: "Корреспондент Гаскаров в аду и другие истории"
+    author: "Петя Косово"
+    type: book
+    status: complete
+    topics: [prison]
+    spotify: ~
+    chapters:
+      - title: "Предисловие"
+        url: "https://t.me/dilettante_voiceover/212"
+      - title: "Каждый имеет право на свои 15 минут силы"
+        url: "https://t.me/dilettante_voiceover/223"
+      - title: "В зазеркалье и в аду"
+        url: "https://t.me/dilettante_voiceover/246"
+      - title: "Вознестись в сиянии (часть 1)"
+        url: "https://t.me/dilettante_voiceover/283"
+      - title: "Вознестись в сиянии (часть 2)"
+        url: "https://t.me/dilettante_voiceover/298"
+      - title: "Вознестись в сиянии (часть 3)"
+        url: "https://t.me/dilettante_voiceover/396"
+      - title: "Оксана Челышева – Воздух несвободы"
+        url: "https://t.me/dilettante_voiceover/386"
+      - title: "Как я в Интерпол ходил"
+        url: "https://t.me/dilettante_voiceover/405"
+      - title: "Петр - Октавио - Барселона"
+        url: "https://t.me/dilettante_voiceover/399"
+      - title: "Ребята, по-другому не бывает"
+        url: "https://t.me/dilettante_voiceover/403"
+      - title: "Центр Экстремизма"
+        url: "https://t.me/dilettante_voiceover/438"
+      - title: "Обезглавлено крыло антифашистов"
+        url: "https://t.me/dilettante_voiceover/438"
+      - title: "Смерть в лимбе"
+        url: "https://t.me/dilettante_voiceover/412"
+      - title: "Прощай, балабол, или кого похоронил openspace.ru"
+        url: "https://t.me/dilettante_voiceover/401"
+      - title: "Фекальная экономика и синьор Пук-Пук"
+        url: "https://t.me/dilettante_voiceover/421"
+      - title: "Анатомия богача"
+        url: "https://t.me/dilettante_voiceover/410"
+      - title: "Фемические суды и грунтовые монстры"
+        url: "https://t.me/dilettante_voiceover/402"
+      - title: "Демократы с травматами"
+        url: "https://t.me/dilettante_voiceover/398"
+      - title: "Не подавать руки"
+        url: "https://t.me/dilettante_voiceover/397"
+
+  - id: moya-oborona
+    title: "Моя оборона. Сексуальное насилие: мифы и факты"
+    author: ~
+    type: book
+    status: complete
+    topics: [feminism]
+    spotify: ~
+    chapters:
+      - title: "Предисловие"
+        url: "https://t.me/dilettante_voiceover/427"
+      - title: "Мы делаем вид, будто этого нет. Лиза Меламед"
+        url: "https://t.me/dilettante_voiceover/432"
+      - title: "В полиции говорят: «Подумаешь, ничего же не произошло». Павел Никулин"
+        url: "https://t.me/dilettante_voiceover/433"
+      - title: "Сексуальное насилие: мифы и факты. Мария Мохова"
+        url: "https://t.me/dilettante_voiceover/435"
+      - title: "Моя оборона: как не сесть, защищая себя? Анна Жавнерович, Алиса Хохлова"
+        url: "https://t.me/dilettante_voiceover/441"
+      - title: "Моя история о том, как я справлялась с ПТСР после изнасилования. Елена Ливанова"
+        url: "https://t.me/dilettante_voiceover/443"
+      - title: "О проблеме домашнего и сексуального насилия. Светлана Толстова"
+        url: "https://t.me/dilettante_voiceover/444"
+      - title: "Влияние реакции окружения на развитие посттравматической симптоматики. Марина Миронова"
+        url: "https://t.me/dilettante_voiceover/445"
+      - title: "О центре «Сестры» и приложении «Насилию.нет»"
+        url: "https://t.me/dilettante_voiceover/446"
+
   # ── Отрывки из книг ──────────────────────────────────────────────────────────
 
   - id: carson-iron-fist
@@ -279,53 +353,6 @@ recordings:
       - title: "Глава 1"
         url: "https://t.me/dilettante_voiceover/529"
 
-  - id: kosovo-gaskarov
-    title: "Корреспондент Гаскаров в аду и другие истории"
-    author: "Петя Косово"
-    type: book
-    status: complete
-    topics: [prison]
-    spotify: ~
-    chapters:
-      - title: "Предисловие"
-        url: "https://t.me/dilettante_voiceover/212"
-      - title: "Каждый имеет право на свои 15 минут силы"
-        url: "https://t.me/dilettante_voiceover/223"
-      - title: "В зазеркалье и в аду"
-        url: "https://t.me/dilettante_voiceover/246"
-      - title: "Вознестись в сиянии (часть 1)"
-        url: "https://t.me/dilettante_voiceover/283"
-      - title: "Вознестись в сиянии (часть 2)"
-        url: "https://t.me/dilettante_voiceover/298"
-      - title: "Вознестись в сиянии (часть 3)"
-        url: "https://t.me/dilettante_voiceover/396"
-      - title: "Оксана Челышева – Воздух несвободы"
-        url: "https://t.me/dilettante_voiceover/386"
-      - title: "Как я в Интерпол ходил"
-        url: "https://t.me/dilettante_voiceover/405"
-      - title: "Петр - Октавио - Барселона"
-        url: "https://t.me/dilettante_voiceover/399"
-      - title: "Ребята, по-другому не бывает"
-        url: "https://t.me/dilettante_voiceover/403"
-      - title: "Центр Экстремизма"
-        url: "https://t.me/dilettante_voiceover/438"
-      - title: "Обезглавлено крыло антифашистов"
-        url: "https://t.me/dilettante_voiceover/438"
-      - title: "Смерть в лимбе"
-        url: "https://t.me/dilettante_voiceover/412"
-      - title: "Прощай, балабол, или кого похоронил openspace.ru"
-        url: "https://t.me/dilettante_voiceover/401"
-      - title: "Фекальная экономика и синьор Пук-Пук"
-        url: "https://t.me/dilettante_voiceover/421"
-      - title: "Анатомия богача"
-        url: "https://t.me/dilettante_voiceover/410"
-      - title: "Фемические суды и грунтовые монстры"
-        url: "https://t.me/dilettante_voiceover/402"
-      - title: "Демократы с травматами"
-        url: "https://t.me/dilettante_voiceover/398"
-      - title: "Не подавать руки"
-        url: "https://t.me/dilettante_voiceover/397"
-
   - id: torres-making-a-killing
     title: "Совершая убийство, или Политическая экономия прав животных"
     author: "Боб Торрес"
@@ -365,33 +392,6 @@ recordings:
         url: "https://t.me/dilettante_voiceover/424"
       - title: "Глава 9"
         url: "https://t.me/dilettante_voiceover/430"
-
-  - id: moya-oborona
-    title: "Моя оборона. Сексуальное насилие: мифы и факты"
-    author: ~
-    type: book
-    status: complete
-    topics: [feminism]
-    spotify: ~
-    chapters:
-      - title: "Предисловие"
-        url: "https://t.me/dilettante_voiceover/427"
-      - title: "Мы делаем вид, будто этого нет. Лиза Меламед"
-        url: "https://t.me/dilettante_voiceover/432"
-      - title: "В полиции говорят: «Подумаешь, ничего же не произошло». Павел Никулин"
-        url: "https://t.me/dilettante_voiceover/433"
-      - title: "Сексуальное насилие: мифы и факты. Мария Мохова"
-        url: "https://t.me/dilettante_voiceover/435"
-      - title: "Моя оборона: как не сесть, защищая себя? Анна Жавнерович, Алиса Хохлова"
-        url: "https://t.me/dilettante_voiceover/441"
-      - title: "Моя история о том, как я справлялась с ПТСР после изнасилования. Елена Ливанова"
-        url: "https://t.me/dilettante_voiceover/443"
-      - title: "О проблеме домашнего и сексуального насилия. Светлана Толстова"
-        url: "https://t.me/dilettante_voiceover/444"
-      - title: "Влияние реакции окружения на развитие посттравматической симптоматики. Марина Миронова"
-        url: "https://t.me/dilettante_voiceover/445"
-      - title: "О центре «Сестры» и приложении «Насилию.нет»"
-        url: "https://t.me/dilettante_voiceover/446"
 
   - id: falkovski-xinjiang
     title: "По следам Бурхана Шахиди или Синьцзян 50 лет спустя"
