@@ -630,11 +630,6 @@ recordings:
     status: complete
     topics: [history, antimilitarism, resistance]
     spotify: "https://open.spotify.com/playlist/2FrAiFEahfptrkcjXU3CXv"
-    chapters:
-        - title: "Тукуманосо"
-          spotify: "https://open.spotify.com/episode/0Z5tSomll0toOtmAXUKjWS"
-        - title: "Восстание в Политехнионе"
-          spotify: "https://open.spotify.com/episode/30uFVxhn2E0EmSwBTOchVb"
 
   # ── Статьи — Crimethinc ──────────────────────────────────────────────────────
 
