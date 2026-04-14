@@ -219,7 +219,7 @@ recordings:
     spotify: ~
 
   - id: richards-orwell-humanist
-    title: "Оруэлл-гуманист"
+    title: "Оруэлл в семейном кругу и в среде анархистов. Оруэлл-гуманист"
     author: "Вернон Ричардс"
     url: "https://t.me/dilettante_voiceover/273"
     type: book_excerpt
@@ -229,7 +229,7 @@ recordings:
     spotify: ~
 
   - id: kunz-chapter3
-    title: "Глава 3. Союзники в академии. Философия Киттеля"
+    title: "Совесть нацистов. Глава 3. Союзники в академии. Философия Киттеля"
     author: "Клаудия Кунц"
     url: "https://t.me/dilettante_voiceover/67"
     type: book_excerpt
@@ -283,7 +283,7 @@ recordings:
     title: "Корреспондент Гаскаров в аду и другие истории"
     author: "Петя Косово"
     type: book
-    status: in_progress
+    status: complete
     topics: [prison]
     spotify: ~
     chapters:
@@ -370,7 +370,7 @@ recordings:
     title: "Моя оборона. Сексуальное насилие: мифы и факты"
     author: ~
     type: book
-    status: in_progress
+    status: complete
     topics: [feminism]
     spotify: ~
     chapters:
@@ -559,7 +559,7 @@ recordings:
     source: "Бармалеи/Партизаны"
     status: complete
     topics: [history, antimilitarism]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/0wACsR1pCRrijddBb2erM2"
 
   - id: barmalei-slaughterhouse-timor
     title: "Бойня. Тимор: независимость и оккупация"
@@ -569,7 +569,7 @@ recordings:
     source: "Бармалеи/Партизаны"
     status: complete
     topics: [history, antimilitarism, southeast-asia]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/7Hfam4cXxHQjGNWhC8Holk"
 
   - id: barmalei-nuremberg
     title: "Дорога в Нюрнберг"
@@ -579,7 +579,7 @@ recordings:
     source: "Бармалеи/Партизаны"
     status: complete
     topics: [history, antifascism]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/4Ru9MqUIC6ITI2m57YA1PH"
 
   - id: barmalei-miners
     title: "Шахтеры и Железная леди: кто сильней?"
@@ -589,7 +589,7 @@ recordings:
     source: "Бармалеи/Партизаны"
     status: complete
     topics: [labor, history]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/42AoZT4d4u52B7lcY4TWGu"
 
   - id: barmalei-africa-coups
     title: "Эпидемия Африканских переворотов"
@@ -599,7 +599,7 @@ recordings:
     source: "Бармалеи/Партизаны"
     status: complete
     topics: [history]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/6N9Kg37Hm0QUyNtLzT4wqK"
 
   - id: barmalei-alf
     title: "Animal Liberation Front (ALF)"
@@ -609,7 +609,7 @@ recordings:
     source: "Бармалеи/Партизаны"
     status: complete
     topics: [animal-rights, resistance]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/4oMTdQtoYsatzMEjvV7gbc"
 
   - id: barmalei-dictators-die
     title: "Как умирают диктаторы"
@@ -619,7 +619,7 @@ recordings:
     source: "Бармалеи/Партизаны"
     status: complete
     topics: [history]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/2Y5lPZrEj0NVg5fGZDUlXS"
 
   - id: barmalei-student-resistance
     title: "Студенческое сопротивление диктатуре в Аргентине и Греции"
@@ -629,7 +629,12 @@ recordings:
     source: "Бармалеи/Партизаны"
     status: complete
     topics: [history, antimilitarism, resistance]
-    spotify: ~
+    spotify: "https://open.spotify.com/playlist/2FrAiFEahfptrkcjXU3CXv"
+    chapters:
+        - title: "Тукуманосо"
+          spotify: "https://open.spotify.com/episode/0Z5tSomll0toOtmAXUKjWS"
+        - title: "Восстание в Политехнионе"
+          spotify: "https://open.spotify.com/episode/30uFVxhn2E0EmSwBTOchVb"
 
   # ── Статьи — Crimethinc ──────────────────────────────────────────────────────
 
@@ -643,6 +648,9 @@ recordings:
     topics: [likbez, resistance]
     spotify: ~
 
+
+  # ── Статьи — Прочие источники ────────────────────────────────────────────────
+
   - id: fiscella-anarcho-islam
     title: "Анархо-Ислам"
     author: "Энтони Т. Фискелла"
@@ -650,7 +658,7 @@ recordings:
     type: article
     source: "Прочие источники"
     status: complete
-    topics: [religious-anarchism]
+    topics: [ religious-anarchism ]
     spotify: ~
 
   - id: snyder-anarcho-buddhism
@@ -660,10 +668,8 @@ recordings:
     type: article
     source: "Прочие источники"
     status: complete
-    topics: [religious-anarchism]
+    topics: [ religious-anarchism ]
     spotify: ~
-
-  # ── Статьи — Прочие источники ────────────────────────────────────────────────
 
   - id: myths-che-guevara
     title: "Мифы и легенды: Че Гевара"
@@ -727,13 +733,13 @@ recordings:
 
   - id: piper-women-pinochet
     title: "Женское сопротивление диктатуре Пиночета"
-    author: "Ядвига Пипер"
+    author: "Ядвига Пипер-Муни"
     url: "https://t.me/dilettante_voiceover/123"
     type: article
     source: "Прочие источники"
     status: complete
     topics: [feminism, history, antimilitarism, resistance]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/0DoCVvjG3jVl4HOF3FYFDq"
 
   - id: foer-eating-animals
     title: "Eating Animals"
@@ -1332,7 +1338,7 @@ recordings:
     type: history
     status: complete
     topics: [history, makhno]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/6RX1yZfqgOm8LwHmqQmA0C"
 
   - id: ivanova-autobiography
     title: "Автобиография"
@@ -1341,7 +1347,7 @@ recordings:
     type: history
     status: complete
     topics: [feminism, history]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/60myYkUYW5rV2FT6AIQb6L"
 
   - id: ivanova-first-printing
     title: "Первая типография народной воли"
@@ -1350,7 +1356,7 @@ recordings:
     type: history
     status: complete
     topics: [history]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/5ONmIyHFvLG1fFyNYwtk2U"
 
   - id: borovoy-anarchist-manifesto
     title: "Анархический манифест"
@@ -1359,4 +1365,4 @@ recordings:
     type: history
     status: complete
     topics: [history]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/0DtnDsWV07FDh7Zg38sIMa"
