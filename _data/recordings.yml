@@ -270,7 +270,7 @@ recordings:
     source: "Железный кулак и тупость институций"
     status: complete
     topics: [labor, individualist-anarchism]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/5VBCIFR67sinElzkgUhz00"
 
   - id: gapova-love-revolution
     title: "Любовь как революция, или «несмотря на Грамши» Полуты Бодуновой"
@@ -280,7 +280,7 @@ recordings:
     source: "Классы наций. Феминистская критика нациостроительства"
     status: complete
     topics: [feminism, history, belarus]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/3HFgSIDydv3ScwRqcysDFI"
 
   - id: gapova-gender-nation
     title: "О гендере, нации и классе в посткоммунизме"
@@ -290,7 +290,7 @@ recordings:
     source: "Классы наций. Феминистская критика нациостроительства"
     status: complete
     topics: [feminism, belarus]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/3HLZ6x6jE5iw1j3Wu6yZjw"
 
   - id: richards-orwell-humanist
     title: "Оруэлл в семейном кругу и в среде анархистов. Оруэлл-гуманист"
@@ -300,7 +300,7 @@ recordings:
     source: "Оруэлл в семейном кругу и в среде анархистов"
     status: complete
     topics: [history]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/2Ossx15VMbZ7nYXK6rKrhF"
 
   - id: kunz-chapter3
     title: "Совесть нацистов. Глава 3. Союзники в академии. Философия Киттеля"
@@ -310,17 +310,15 @@ recordings:
     source: "Совесть нацистов"
     status: complete
     topics: [history, antifascism]
-    spotify: ~
-
-  # ── Книги в работе ───────────────────────────────────────────────────────────
+    spotify: "https://open.spotify.com/episode/5WelU8LC9Y4rctLuabL7Ry"
 
   - id: gilligan-snyder-patriarchy
     title: "Почему патриархат всё ещё существует?"
     author: "Кэрол Гиллиган, Наоми Снайдер"
-    type: book
-    status: in_progress
+    type: book_excerpt
+    status: complete
     topics: [feminism]
-    spotify: ~
+    spotify: "https://open.spotify.com/playlist/62KRm786FVlgvv93zhprXf"
     chapters:
       - title: "Введение"
         url: "https://t.me/dilettante_voiceover/45"
@@ -330,6 +328,8 @@ recordings:
         url: "https://t.me/dilettante_voiceover/58"
       - title: "Глава 3. Сопротивление (часть 1)"
         url: "https://t.me/dilettante_voiceover/74"
+
+  # ── Книги в работе ───────────────────────────────────────────────────────────
 
   - id: borovoy-anarchism
     title: "Анархизм"

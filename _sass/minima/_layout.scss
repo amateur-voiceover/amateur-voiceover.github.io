@@ -345,6 +345,7 @@ details {
 details.book-chapters {
   padding: 0;
   margin-bottom: calc($spacing-unit / 4);
+  flex: 1;
 
   summary {
     cursor: pointer;
