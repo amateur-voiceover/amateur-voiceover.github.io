@@ -671,7 +671,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [ religious-anarchism ]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/69UNHCtbg8TAmz0x6LJold"
 
   - id: snyder-anarcho-buddhism
     title: "Анархо-буддизм"
@@ -681,7 +681,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [ religious-anarchism ]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/0Hboy6PfXOdZ4cof1Gv79N"
 
   - id: myths-che-guevara
     title: "Мифы и легенды: Че Гевара"
@@ -721,7 +721,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [feminism, history, japan]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/49OVN0LTHpOIdg6fucr1Dj"
 
   - id: mann-animal-liberation-history
     title: "История движения за освобождение животных"
@@ -731,7 +731,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [animal-rights, history]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/13K0r9ZHo3OeHSuW0FJl39"
 
   - id: podshivalov-zhanna-darc
     title: "Жанна д'Арк сибирской контрреволюции"
@@ -741,7 +741,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [history, feminism]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/182710ZxPdmTghv1R5KCQk"
 
   - id: piper-women-pinochet
     title: "Женское сопротивление диктатуре Пиночета"
@@ -761,7 +761,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [animal-rights]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/5LJfonPU4lcpjm4hhYqRn2"
 
   - id: hugsson-harry-potter-animals
     title: "Забота о «магических» существах? Моральная оценка литературного тропа «Любитель животных» в Гарри Поттере"
@@ -771,7 +771,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [animal-rights]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/4Bw2TxCzfcZnonScqIovMc"
 
   - id: dominick-animal-liberation-revolution
     title: "Освобождение животных и социальная революция"
@@ -781,7 +781,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [animal-rights]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/5sOeH8Uc4M270NB0JaJzHs"
 
   - id: khromyi-individualism-socialism
     title: "Индивидуализм и социализм"
@@ -791,7 +791,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [individualist-anarchism]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/0orj2Rusp5ku7KxPMVh9k2"
 
   - id: podshivalov-betrayed-revolution
     title: "Преданная революция"
@@ -801,7 +801,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [history]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/5mEY4wvv1uFDYDKvbVjzn3"
 
   - id: budnitsky-men-women-red-army
     title: "Мужчины и женщины в Красной армии"
@@ -811,7 +811,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [feminism, history]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/2hqiLaEiJCjXKxHfUKnwQN"
 
   - id: maltsberger-hostility-suicide
     title: "Клиническое исследование роли враждебности и пожеланий смерти со стороны семьи и общества при суицидальных попытках"
@@ -821,7 +821,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [prison, suicide]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/2nvQ13VyJPhQSLcqHK1zzc"
 
   - id: maltsberger-suicide-risk
     title: "Опасность самоубийства: клиническая оценка и принятие решений"
@@ -831,7 +831,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [prison, suicide]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/0tJV6Bcfs1ovZ0ik7PAgvP"
 
   - id: nechaev-catechism
     title: "Катехизис революционера"
@@ -851,7 +851,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [history]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/3G6PJXQWA8mHLydes7qSHY"
 
   - id: libertad-recruits
     title: "Новобранцам"
@@ -861,7 +861,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [antimilitarism]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/2AC3wCRrSgHw9dStxmqBdV"
 
   - id: thoreau-civil-disobedience
     title: "О гражданском неповиновении"
@@ -871,7 +871,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [antimilitarism, individualist-anarchism, resistance]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/47XZaKwSxm7oyWwywZ1EVr"
 
   - id: shypunov-anarchosyndicalism
     title: "Анархо-синдикалізм як напрям ідейно-інституційної еволюції лівого політичного руху"
@@ -881,7 +881,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [labor]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/6V5c3783mSjXJwVnatKEzt"
 
   - id: dubovyk-makhno-faces
     title: "Батрак, швец, слесарь, машинист: лица вожаков махновского движения"
@@ -891,7 +891,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [history, makhno]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/7i5Tys9vOEMLuWbaAhezMc"
 
   - id: labadie-study
     title: "Учиться? Чего ради?"
@@ -901,7 +901,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [individualist-anarchism, anarchist-pedagogy]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/18Gy7AN9Qe48F4vA3A1akY"
 
   - id: labadie-war
     title: "Война, война и ещё раз война"
@@ -911,7 +911,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [antimilitarism, individualist-anarchism]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/60ZlFyyrKanHp5BP6VDDSP"
 
   - id: zerzan-left-no-thanks
     title: "Левые? Спасибо, но нет"
@@ -921,7 +921,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [anarcho-primitivism]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/4fHKwDMBnuuLjqKo2oqjJr"
 
   - id: ryabov-escape-as-revolt
     title: "Побег как бунт"
@@ -931,7 +931,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [prison, resistance]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/0WkBUwq9sIRXHAYjKEZAtf"
 
   - id: ira-green-book
     title: "Зеленая книга ИРА"
