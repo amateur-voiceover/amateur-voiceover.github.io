@@ -239,7 +239,7 @@ recordings:
     type: book
     status: complete
     topics: [feminism]
-    spotify: ~
+    spotify: "https://open.spotify.com/playlist/4riumxevA439G1Rqf3Eypd"
     chapters:
       - title: "Предисловие"
         url: "https://t.me/dilettante_voiceover/427"
@@ -667,7 +667,7 @@ recordings:
     source: "Crimethinc"
     status: complete
     topics: [likbez, resistance]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/0lREJa7SEqw92eSijaJ5km"
 
 
   # ── Статьи — Прочие источники ────────────────────────────────────────────────
@@ -950,7 +950,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [history, resistance]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/4FZOC3CpdqT4dW5PVmHmBg"
 
   - id: malatesta-anarchy-order
     title: "Анархия и порядок"
@@ -960,7 +960,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [likbez]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/1aPPSzCT0VIKss9lzT4wxR"
 
   - id: autonomous-action-durruti
     title: "Дуррути. Памяти героя"
@@ -970,7 +970,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [history]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/4ksc6PJzyq7Jl8v8eyKATl"
 
   - id: graeber-are-you-anarchist
     title: "Ты Анархист? Ответ может тебя удивить"
@@ -980,7 +980,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [likbez]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/1QNVHdbFoaALNGOct9AJxr"
 
   - id: carson-anarchism-without-adjectives
     title: "Анархизм без прилагательных"
@@ -1000,7 +1000,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [history]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/2Cp3MVXqXh7wsSl0nd06C4"
 
   - id: romanov-anarchy-mother-of-order
     title: "Анархия — мать порядка"
@@ -1010,7 +1010,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [likbez]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/6kLNn2Nbt558xl4HiSLMW9"
 
   - id: gerasimov-mystical-anarchists
     title: "Мистические анархисты"
@@ -1020,7 +1020,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [history]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/5VCrbSmmbtoUUjZeilJDry"
 
   - id: clastres-society-against-state
     title: "Общество против государства"
@@ -1030,7 +1030,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: []
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/104Hud0NK7DtYGTiQo4kbN"
 
   - id: nettlau-anarchists-war
     title: "Что должны делать анархисты в случае войны"
