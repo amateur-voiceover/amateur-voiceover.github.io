@@ -691,7 +691,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [history]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/3SrvM1M954inNPxvaoIdHk"
 
   - id: podshivalov-chicago-martyrs
     title: "Чикагские мученики"
@@ -1031,7 +1031,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [antimilitarism]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/3U85DZUccaDBoYW0Yj047g"
 
   - id: kropotkin-satisfaction-for-all
     title: "Довольство для всех"
@@ -1041,7 +1041,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [labor]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/3p5NZjRjlmbC3x8XhMH4Xe"
 
   - id: kropotkin-political-rights
     title: "Политические права"
@@ -1051,7 +1051,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: []
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/4lNNgvb8Ij02knG5Je0rAi"
 
   - id: kropotkin-antimilitarism
     title: "Антимилитаризм. Был ли он ясно понят?"
@@ -1061,7 +1061,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [antimilitarism]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/3HqmTqYTeIxgRWHUp2DdBX"
 
   - id: kropotkin-our-riches
     title: "Наши богатства"
@@ -1071,7 +1071,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [labor]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/4EOqFm852MXXpbYS9fnh8d"
 
   - id: goldman-child-enemies
     title: "Ребенок и его враги"
