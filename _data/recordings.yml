@@ -710,7 +710,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [labor, history]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/5ILeQDEOcSD3HLuE3ss3zA"
 
   - id: anarchism-japan
     title: "Анархизм в Японии (о Фумико Канеко, Ито Ноэ, Кано Суга)"
@@ -720,7 +720,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [feminism, history, japan]
-    spotify: ~
+    spotify: "https://open.spotify.com/playlist/2PdGasmwoaHoETxfKbrQ2e"
 
   - id: kaneko-biography
     title: "Биография Канеко Фумико"
@@ -850,7 +850,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [history]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/6V6oz1fIVXVjPj4DPquUe8"
 
   - id: memorial-katyn
     title: "Катынское преступление"
