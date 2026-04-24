@@ -1192,7 +1192,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [individualist-anarchism]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/6ip3vvHxPuGDnWgSNpNJtz"
 
   - id: reclus-homeland-humanity
     title: "Родина и человечество"
@@ -1202,7 +1202,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: []
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/23dLtHwH5Lgykc21ZNk3I8"
 
   - id: labadie-what-is-man
     title: "Что такое человек и весь мир театр"
@@ -1212,7 +1212,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [individualist-anarchism]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/3yQkaZy4yAxJwCmX93eZWJ"
 
   - id: labadie-infantile-radicalism
     title: "Инфантильный радикализм"
@@ -1222,7 +1222,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [individualist-anarchism]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/0qQbpPKvKGPCNIDWTrX9jx"
 
   - id: anon-security-culture-recipe
     title: "Уверенность. Отвага. Родство. Доверие. Рецепт культуры безопасности"
@@ -1232,7 +1232,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [resistance]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/0G2wrWPtKnhsJLPBCR1qZU"
 
   - id: kropotkin-are-we-good-enough
     title: "Достаточно ли мы хороши"
@@ -1242,7 +1242,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: []
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/26nMiZas0GRyWhtBtmQncy"
 
   - id: markelov-red-book-antifa
     title: "Красная книга антифа"
@@ -1252,7 +1252,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [history, antifascism]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/1c95KK6x7QfMbRCiNUtC2W"
 
   - id: sakhnin-remember-stas
     title: "Помнить о Стасе"
@@ -1262,7 +1262,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [history, antifascism]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/1NLgkFbTSNfQsZI6G0MVKC"
 
   - id: kanavalchik-belarus-anarchism-history
     title: "История анархического движения Беларуси в первые 10 лет после развала СССР (1992-2002 годы)"
@@ -1272,7 +1272,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [history, belarus]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/4gEGdArIp7l9Zy2z1duJXt"
 
   # ── Художественные тексты ────────────────────────────────────────────────────
 
