@@ -1089,10 +1089,10 @@ recordings:
     author: "Эмма Гольдман"
     url: "https://t.me/dilettante_voiceover/457"
     type: article
-    source: "Прочие источники"
+    source: "Akrateia"
     status: complete
     topics: [feminism, anarchist-pedagogy]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/72jyjqLo61MVIwztWwVsQv"
 
   - id: volin-red-fascism
     title: "Красный фашизм"
@@ -1102,7 +1102,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [history, antifascism]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/4amlMIDCBxAim4zPCYiLU5"
 
   - id: kalinina-never-alone
     title: "Я никогда не была одна и не буду. Нас миллионы и мы всегда были неугодны обществу"
@@ -1112,7 +1112,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [feminism]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/55J7ArN4OMojnmKXsrLpOo"
 
   - id: guillaume-federalism
     title: "Федерализм"
@@ -1122,7 +1122,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: []
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/2YPwHsD8E3VxftvZTEwpgC"
 
   - id: black-grebe-sea
     title: "От кого мы спасаем море"
@@ -1132,7 +1132,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [ecology]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/1ryuL456vy8ba2LL4plDuN"
 
   - id: carson-corporate-capitalism
     title: "Почему корпоративный капитализм нежизнеспособен"
@@ -1142,7 +1142,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [labor, individualist-anarchism]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/6uNCeuHKdypU745vEtZCua"
 
   - id: glitterbomb-cooperatives
     title: "Коммунизация общества при помощи потребительских кооперативов"
@@ -1152,7 +1152,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [labor]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/4uSarazNjWzOAbrPFS6eDL"
 
   - id: watson-civilization-jet
     title: "Цивилизация подобна реактивному самолёту"
@@ -1162,7 +1162,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [ecology, anarcho-primitivism]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/6JqHNcJnXvF7V3bXmB5bND"
 
   - id: gibson-dirty-work
     title: "Кто будет делать грязную работу?"
@@ -1172,7 +1172,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [labor]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/5VsZEPYaP9gUogdtEC1ok9"
 
   - id: baker-means-ends
     title: "Средства и цели"
@@ -1182,7 +1182,7 @@ recordings:
     source: "Прочие источники"
     status: complete
     topics: [post-anarchism]
-    spotify: ~
+    spotify: "https://open.spotify.com/episode/0mCXhklJSRZcN4n7OtOrYR"
 
   - id: wee-market-anarchism
     title: "В чем разница между рыночным анархизмом и анархо-капитализмом"
