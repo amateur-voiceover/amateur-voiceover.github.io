@@ -1,0 +1,93 @@
+---
+layout: default
+---
+{% assign entry = site.data.recordings.recordings | where: "id", page.recording_id | first %}
+{% assign author = site.data.authors.authors | where: "id", entry.author_id | first %}
+
+<article class="book-page">
+
+  <header class="book-header">
+    {% if entry.cover %}
+    <img class="book-cover" src="{{ entry.cover }}" alt="{{ entry.title | escape }}">
+    {% endif %}
+    <div class="book-header-info">
+      <h1 class="book-title">{{ entry.title }}</h1>
+      {% if entry.author %}
+      <p class="book-author-name">{{ entry.author }}</p>
+      {% endif %}
+      <div class="book-links">
+        {% if entry.spotify %}
+        <a href="{{ entry.spotify }}" class="platform-link spotify-link" target="_blank" rel="noopener">
+          <img src="{{ '/assets/spotify.svg' | relative_url }}" alt="Spotify"> Слушать на Spotify
+        </a>
+        {% endif %}
+        {% if entry.castbox %}
+        <a href="{{ entry.castbox }}" class="platform-link castbox-link" target="_blank" rel="noopener">
+          <img src="{{ '/assets/castbox.svg' | relative_url }}" alt="CastBox"> CastBox
+        </a>
+        {% endif %}
+        {% if entry.apple_podcasts %}
+        <a href="{{ entry.apple_podcasts }}" class="platform-link apple-link" target="_blank" rel="noopener">
+          <img src="{{ '/assets/apple_podcasts.svg' | relative_url }}" alt="Apple Podcasts"> Apple Podcasts
+        </a>
+        {% endif %}
+        {% if entry.url %}
+        <a href="{{ entry.url }}" class="platform-link telegram-link" target="_blank" rel="noopener">
+          <img src="{{ '/assets/telegram.svg' | relative_url }}" alt="Пост в Telegram"> Пост в Telegram
+        </a>
+        {% endif %}
+      </div>
+    </div>
+  </header>
+
+  {% if entry.ia_id %}
+  <section class="book-player">
+    <iframe
+      src="https://archive.org/embed/{{ entry.ia_id }}?playlist=1&list_height=200"
+      width="100%"
+      height="420"
+      webkitallowfullscreen="true"
+      mozallowfullscreen="true"
+      allowfullscreen>
+    </iframe>
+  </section>
+  {% endif %}
+
+  {% if entry.chapters %}
+  <section class="book-chapters-section">
+    <h2>Главы на канале</h2>
+    <ul class="chapters-list">
+      {% for chapter in entry.chapters %}
+      <li>
+        {% if chapter.parts %}
+        <span class="chapter-title">{{ chapter.title }}</span>
+        <ul class="chapter-parts">
+          {% for part in chapter.parts %}
+          <li><a href="{{ part.url }}" target="_blank" rel="noopener">{{ part.label }}</a></li>
+          {% endfor %}
+        </ul>
+        {% elsif chapter.url %}
+        <a href="{{ chapter.url }}" target="_blank" rel="noopener">{{ chapter.title }}</a>
+        {% else %}
+        <span class="chapter-title">{{ chapter.title }}</span>
+        {% endif %}
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+
+  {% if author %}
+  <section class="book-author-section">
+    <h2>Об авторе</h2>
+    {% include author-card.html author_id=entry.author_id %}
+  </section>
+  {% endif %}
+
+  {% if page.content and page.content != "" %}
+  <section class="book-notes">
+    {{ content }}
+  </section>
+  {% endif %}
+
+</article>

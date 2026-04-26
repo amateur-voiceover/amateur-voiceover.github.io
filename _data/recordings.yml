@@ -5,73 +5,97 @@ recordings:
   - id: gelderlos-nonviolence
     title: "Как ненасилие защищает государство"
     author: "Питер Гелдерлоос"
+    author_id: gelderloos
     url: "https://t.me/dilettante_voiceover/171"
     type: book
     status: complete
     topics: [likbez, resistance]
     spotify: "https://open.spotify.com/playlist/6YHafcm6EsmF1KTN1pK0Yg"
+    ia_id: dv-gelderlos-nonviolence
+    cover: ~
 
   - id: anarchy-works-russian-history
     title: "Анархия работает. Примеры из истории России"
     author: ~
+    author_id: ~
     url: "https://t.me/dilettante_voiceover/3"
     type: book
     status: complete
     topics: [history]
     spotify: "https://open.spotify.com/playlist/4MJxrrvtpXlre13E6BItMB"
+    ia_id: dv-anarchy-works-russian-history
+    cover: ~
 
   - id: malatesta-ten-talks
     title: "Десять бесед об анархизме"
     author: "Эррико Малатеста"
+    author_id: malatesta
     url: "https://t.me/dilettante_voiceover/145"
     type: book
     status: complete
     topics: [likbez]
     spotify: "https://open.spotify.com/episode/50RBA8rrxY3Y9sBkrBrSfm"
+    ia_id: dv-malatesta-ten-talks
+    cover: ~
 
   - id: gelderlos-prison
     title: "Тюрьма"
     author: "Питер Гелдерлоос"
+    author_id: gelderloos
     url: "https://t.me/dilettante_voiceover/252"
     type: book
     status: complete
     topics: [prison]
     spotify: "https://open.spotify.com/playlist/49XXP1htvEFrYKvmGRggXu"
+    ia_id: dv-gelderlos-prison
+    cover: ~
 
   - id: black-abolition-work
     title: "Упразднение работы"
     author: "Боб Блэк"
+    author_id: black
     url: "https://t.me/dilettante_voiceover/90"
     type: book
     status: complete
     topics: [labor]
     spotify: "https://open.spotify.com/episode/1e2DP77WqmA8LlIA4vbPUJ"
+    ia_id: dv-black-abolition-work
+    cover: ~
 
   - id: dedok-parallel-world
     title: "Цвета параллельного мира"
     author: "Николай Дедок"
+    author_id: dedok
     url: "https://t.me/dilettante_voiceover/346"
     type: book
     status: complete
     topics: [prison]
     spotify: "https://open.spotify.com/episode/59vBsacltv60fOgHYTwSdX"
+    ia_id: dv-dedok-parallel-world
+    cover: ~
 
   - id: ward-anarchism-intro
     title: "Анархизм: очень краткое введение"
     author: "Колин Вард"
+    author_id: ward
     url: "https://t.me/dilettante_voiceover/517"
     type: book
     status: complete
     topics: [likbez]
     spotify: "https://open.spotify.com/episode/2dlOd9RHi3dnNVQhA2tEa3"
+    ia_id: dv-ward-anarchism-intro
+    cover: ~
 
   - id: pustunya
     title: "Пустыня"
     author: "Аноним"
+    author_id: ~
     type: book
     status: complete
     topics: [ecology, anarcho-primitivism]
     spotify: "https://open.spotify.com/playlist/5e7bCzUjt7DK8JWXomKmW2"
+    ia_id: dv-pustunya
+    cover: ~
     chapters:
       - title: "1. (Глобального) будущего нет"
         url: "https://t.me/dilettante_voiceover/475"
@@ -97,10 +121,13 @@ recordings:
   - id: golodnaya-step
     title: "Голодная степь"
     author: "Сара Камерон"
+    author_id: cameron
     type: book
     status: complete
     topics: [history]
     spotify: "https://open.spotify.com/playlist/6wIGYax83Fsr280lNr1aXB"
+    ia_id: dv-golodnaya-step
+    cover: "https://ia800401.us.archive.org/4/items/dv-golodnaya-step/81G06v5DZkL._UF1000%2C1000_QL80_.jpg"
     chapters:
       - title: "Введение часть 1"
         url: "https://t.me/dilettante_voiceover/247"
@@ -124,10 +151,13 @@ recordings:
   - id: glushakov-revolution-is-dead
     title: "Революция умерла! Да здравствует революция!"
     author: "Юрий Глушаков"
+    author_id: glushakov
     type: book
     status: complete
     topics: [history, belarus]
     spotify: "https://open.spotify.com/playlist/4gSBjACmA2C4Jjg3NPg7al"
+    ia_id: dv-glushakov-revolution-is-dead
+    cover: ~
     chapters:
       - title: "Введение"
         url: "https://t.me/dilettante_voiceover/264"
@@ -167,11 +197,14 @@ recordings:
   - id: crimethinc-fighting-for-our-lives
     title: "Борьба за наши жизни"
     author: "Crimethinc"
+    author_id: crimethinc
     type: book
     status: complete
     source: "Crimethinc"
     topics: [likbez, resistance]
     spotify: "https://open.spotify.com/playlist/1ez1xRzdPq7VV7uM4QwB0g"
+    ia_id: dv-crimethinc-fighting-for-our-lives
+    cover: ~
     chapters:
       - title: "Часть 1"
         url: "https://t.me/dilettante_voiceover/250"
@@ -189,10 +222,13 @@ recordings:
   - id: kosovo-gaskarov
     title: "Корреспондент Гаскаров в аду и другие истории"
     author: "Петя Косово"
+    author_id: kosovo
     type: book
     status: complete
     topics: [prison]
     spotify: "https://open.spotify.com/playlist/3GQV5R3ESL9e3p7gGDQFNV"
+    ia_id: dv-kosovo-gaskarov
+    cover: ~
     chapters:
       - title: "Предисловие"
         url: "https://t.me/dilettante_voiceover/212"
@@ -236,10 +272,13 @@ recordings:
   - id: moya-oborona
     title: "Моя оборона. Сексуальное насилие: мифы и факты"
     author: ~
+    author_id: ~
     type: book
     status: complete
     topics: [feminism]
     spotify: "https://open.spotify.com/playlist/4riumxevA439G1Rqf3Eypd"
+    ia_id: dv-moya-oborona
+    cover: ~
     chapters:
       - title: "Предисловие"
         url: "https://t.me/dilettante_voiceover/427"

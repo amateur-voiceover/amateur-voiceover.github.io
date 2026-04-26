@@ -1,4 +1,5 @@
 @use "variables" as *;
+@use "sass:color";
 @import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&display=swap');
 
 /**
@@ -82,14 +83,14 @@
     &.apple {
       background-image: url("/assets/apple-podcasts.svg");
     }
-    &.google {
-      background-image: url("/assets/google_podcasts.png");
-    }
     &.castbox {
       background-image: url("/assets/castbox.svg");
     }
     &.spotify {
       background-image: url("/assets/spotify.svg");
+    }
+    &.telegram {
+      background-image: url("/assets/telegram.svg");
     }
   }
 }
@@ -384,13 +385,22 @@ details.book-chapters {
 
   & > li {
     display: flex;
-    align-items: baseline;
-    .spotify-icon-link {
-      flex: 1;
+    align-items: flex-start;
+    gap: 8px;
+    margin-bottom: calc($spacing-unit / 4);
+
+    .entry-icons {
+      flex-shrink: 0;
+      width: 44px;
+      display: flex;
+      align-items: center;
+      gap: 4px;
+      padding-top: 2px;
     }
-    .entry-info {
-      flex: 2;
-      margin-bottom: calc($spacing-unit / 4);
+
+    .entry-info,
+    .book-chapters {
+      flex: 1;
     }
   }
 }
@@ -477,10 +487,206 @@ details.book-chapters {
   }
 }
 
+.entry-icons {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.icon-link {
+  display: flex;
+  align-items: center;
+  opacity: 0.85;
+  transition: opacity 0.15s ease;
+
+  &:hover { opacity: 1; }
+}
+
+.entry-icon {
+  width: 18px;
+  height: 18px;
+  display: block;
+}
+
+/* keep old class working in case it's referenced elsewhere */
 .spotify-icon-link {
-  max-width: 20px;
-  width: 20px;
-  margin-right: 6px;
-  margin-top: 2px;
-  display: inline-block;
+  @extend .icon-link;
+}
+
+.spotify-icon {
+  @extend .entry-icon;
+}
+
+
+/**
+ * Book page
+ */
+.book-page {
+  max-width: $content-width;
+  margin: 0 auto;
+}
+
+.book-header {
+  display: flex;
+  gap: $spacing-unit;
+  align-items: flex-start;
+  margin-bottom: $spacing-unit * 1.5;
+
+  @include media-query($on-palm) {
+    flex-direction: column;
+  }
+}
+
+.book-cover {
+  width: 160px;
+  min-width: 160px;
+  border-radius: 4px;
+  box-shadow: 2px 4px 12px rgba(0, 0, 0, 0.2);
+
+  @include media-query($on-palm) {
+    width: 120px;
+    min-width: 120px;
+  }
+}
+
+.book-header-info {
+  flex: 1;
+
+  .book-title {
+    font-family: 'Amatic SC', cursive;
+    font-size: $base-font-size * 3;
+    font-weight: 700;
+    color: $brand-color;
+    line-height: 1.15;
+    margin: 0 0 calc($spacing-unit / 4) 0;
+  }
+
+  .book-author-name {
+    @include relative-font-size(1.1);
+    color: $grey-color;
+    margin: 0 0 calc($spacing-unit / 2) 0;
+    font-style: italic;
+  }
+}
+
+.book-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: calc($spacing-unit / 3);
+  margin-top: calc($spacing-unit / 2);
+
+  .platform-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 6px 14px;
+    border-radius: 20px;
+    font-size: $small-font-size;
+    font-weight: 500;
+    text-decoration: none;
+    transition: opacity 0.15s ease;
+    border: 1px solid $grey-color-dark;
+
+    img {
+      width: 18px;
+      height: 18px;
+      object-fit: contain;
+    }
+  }
+}
+
+.book-player {
+  margin-bottom: $spacing-unit * 1.5;
+  border-radius: 6px;
+  overflow: hidden;
+  border: 1px solid $grey-color-light;
+
+  iframe {
+    display: block;
+  }
+}
+
+.book-chapters-section,
+.book-author-section,
+.book-notes {
+  margin-bottom: $spacing-unit * 1.5;
+  padding-top: $spacing-unit;
+  border-top: 1px solid $grey-color-light;
+
+  h2 {
+    font-family: 'Amatic SC', cursive;
+    font-size: $base-font-size * 2.2;
+    font-weight: 700;
+    color: $brand-color;
+    margin-bottom: calc($spacing-unit / 2);
+  }
+}
+
+.chapters-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+
+  li {
+    margin-bottom: calc($spacing-unit / 4);
+    line-height: 1.5;
+  }
+
+  .chapter-title {
+    color: $grey-color-dark;
+  }
+
+  .chapter-parts {
+    list-style: none;
+    padding-left: $spacing-unit;
+    margin-top: 4px;
+
+    li { margin-bottom: 2px; }
+  }
+}
+
+.author-card {
+  display: flex;
+  gap: $spacing-unit;
+  align-items: flex-start;
+  padding: $spacing-unit;
+  background: #e2dfdf;
+  border-radius: 6px;
+  border-left: 3px solid $brand-color;
+
+  @include media-query($on-palm) {
+    flex-direction: column;
+  }
+}
+
+.author-portrait {
+  width: 80px;
+  min-width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid $brand-color;
+}
+
+.author-info {
+  flex: 1;
+
+  .author-name {
+    font-weight: 600;
+    margin: 0 0 6px 0;
+    @include relative-font-size(1.05);
+
+    .author-name-en {
+      font-weight: 400;
+      color: $grey-color;
+      font-size: $small-font-size;
+    }
+  }
+
+  .author-bio {
+    margin: 0;
+    color: color.adjust($text-color, $lightness: 15%);
+    line-height: 1.6;
+    font-size: $small-font-size;
+  }
 }
