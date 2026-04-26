@@ -11,7 +11,7 @@ recordings:
     topics: [likbez, resistance]
     spotify: "https://open.spotify.com/playlist/6YHafcm6EsmF1KTN1pK0Yg"
 
-  - id: anarchy-works
+  - id: anarchy-works-russian-history
     title: "Анархия работает. Примеры из истории России"
     author: ~
     url: "https://t.me/dilettante_voiceover/3"
@@ -121,7 +121,7 @@ recordings:
       - title: "Заключение и эпилог"
         url: "https://t.me/dilettante_voiceover/510"
 
-  - id: glushakov-belarus
+  - id: glushakov-revolution-is-dead
     title: "Революция умерла! Да здравствует революция!"
     author: "Юрий Глушаков"
     type: book
@@ -192,7 +192,7 @@ recordings:
     type: book
     status: complete
     topics: [prison]
-    spotify: ~
+    spotify: "https://open.spotify.com/playlist/3GQV5R3ESL9e3p7gGDQFNV"
     chapters:
       - title: "Предисловие"
         url: "https://t.me/dilettante_voiceover/212"
@@ -1346,11 +1346,6 @@ recordings:
     status: complete
     topics: [antimilitarism]
     spotify: "https://open.spotify.com/playlist/2zfKSqyj4d7sypg5JP32O2"
-    chapters:
-        - title: Котёнок, Мир и два стихотворения без названия
-          url: "https://t.me/dilettante_voiceover/521"
-        - title: Ещё два стихотворения
-          url: "https://t.me/dilettante_voiceover/158"
 
   # ── Исторические источники ───────────────────────────────────────────────────
 
