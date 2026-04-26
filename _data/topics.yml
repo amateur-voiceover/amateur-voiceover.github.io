@@ -35,6 +35,8 @@ topics:
     label: "Феминизм"
   - id: ecology
     label: "Экология"
+  - id: economy
+    label: "Экономика"
   - id: southeast-asia
     label: "Юго-Восточная Азия"
   - id: japan

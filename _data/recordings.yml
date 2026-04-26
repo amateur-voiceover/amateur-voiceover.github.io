@@ -271,6 +271,24 @@ recordings:
 
   # ── Отрывки из книг ──────────────────────────────────────────────────────────
 
+  - id: gelderlos-anarchy-works
+    title: "Анархия Работает"
+    author: "Питер Гелдерлоос"
+    type: book_excerpt
+    source: "Анархия Работает"
+    status: complete
+    topics: [ economy ]
+    spotify: "https://open.spotify.com/playlist/1FbTAyBprXb7F4B763iRIk"
+    chapters:
+      - title: "Экономика. Часть 1"
+        url: "https://t.me/dilettante_voiceover/219"
+      - title: "Экономика. Часть 2"
+        url: "https://t.me/dilettante_voiceover/222"
+      - title: "Экономика. Часть 3"
+        url: "https://t.me/dilettante_voiceover/230"
+      - title: "Экономика. Часть 4"
+        url: "https://t.me/dilettante_voiceover/236"
+
   - id: carson-iron-fist
     title: "Железный кулак и тупость институций"
     author: "Кевин Карсон"
