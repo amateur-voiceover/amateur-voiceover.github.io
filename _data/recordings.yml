@@ -299,25 +299,19 @@ recordings:
     topics: [labor, individualist-anarchism]
     spotify: "https://open.spotify.com/episode/5VBCIFR67sinElzkgUhz00"
 
-  - id: gapova-love-revolution
-    title: "Любовь как революция, или «несмотря на Грамши» Полуты Бодуновой"
+  - id: gapova--nations-classes
+    title: "Классы наций. Феминистская критика нациостроительства"
     author: "Елена Гапова"
-    url: "https://t.me/dilettante_voiceover/131"
     type: book_excerpt
     source: "Классы наций. Феминистская критика нациостроительства"
     status: complete
-    topics: [feminism, history, belarus]
-    spotify: "https://open.spotify.com/episode/3HFgSIDydv3ScwRqcysDFI"
-
-  - id: gapova-gender-nation
-    title: "О гендере, нации и классе в посткоммунизме"
-    author: "Елена Гапова"
-    url: "https://t.me/dilettante_voiceover/239"
-    type: book_excerpt
-    source: "Классы наций. Феминистская критика нациостроительства"
-    status: complete
-    topics: [feminism, belarus]
-    spotify: "https://open.spotify.com/episode/3HLZ6x6jE5iw1j3Wu6yZjw"
+    spotify: "https://open.spotify.com/playlist/2x9LVAVwVlZ5ssUJmYho9p"
+    topics: [ feminism, history, belarus ]
+    chapters:
+      - title: "Любовь как революция, или «несмотря на Грамши» Полуты Бодуновой"
+        url: "https://t.me/dilettante_voiceover/131"
+      - title: "О гендере, нации и классе в посткоммунизме"
+        url: "https://t.me/dilettante_voiceover/239"
 
   - id: richards-orwell-humanist
     title: "Оруэлл в семейном кругу и в среде анархистов. Оруэлл-гуманист"
