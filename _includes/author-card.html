@@ -1,0 +1,18 @@
+{% assign author = site.data.authors.authors | where: "id", include.author_id | first %}
+
+{% if author %}
+<div class="author-card">
+  {% if author.portrait %}
+  <img class="author-portrait" src="{{ author.portrait }}" alt="{{ author.name }}">
+  {% endif %}
+  <div class="author-info">
+    <p class="author-name">
+      {{ author.name }}
+      {% if author.name_en %}<span class="author-name-en">({{ author.name_en }})</span>{% endif %}
+    </p>
+    {% if author.bio %}
+    <p class="author-bio">{{ author.bio }}</p>
+    {% endif %}
+  </div>
+</div>
+{% endif %}
