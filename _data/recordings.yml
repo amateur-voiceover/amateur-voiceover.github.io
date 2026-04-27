@@ -6,6 +6,7 @@ recordings:
   url: https://t.me/dilettante_voiceover/171
   type: book
   status: complete
+  hasChapters: true
   topics:
   - likbez
   - resistance
