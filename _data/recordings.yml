@@ -1,1437 +1,1690 @@
 recordings:
-
-  # ── Книги целиком ────────────────────────────────────────────────────────────
-
-  - id: gelderlos-nonviolence
-    title: "Как ненасилие защищает государство"
-    author: "Питер Гелдерлоос"
-    author_id: gelderloos
-    url: "https://t.me/dilettante_voiceover/171"
-    type: book
-    status: complete
-    topics: [likbez, resistance]
-    spotify: "https://open.spotify.com/playlist/6YHafcm6EsmF1KTN1pK0Yg"
-    ia_id: dv-gelderlos-nonviolence
-    cover: ~
-
-  - id: anarchy-works-russian-history
-    title: "Анархия работает. Примеры из истории России"
-    author: ~
-    author_id: ~
-    url: "https://t.me/dilettante_voiceover/3"
-    type: book
-    status: complete
-    topics: [history]
-    spotify: "https://open.spotify.com/playlist/4MJxrrvtpXlre13E6BItMB"
-    ia_id: dv-anarchy-works-russian-history
-    cover: ~
-
-  - id: malatesta-ten-talks
-    title: "Десять бесед об анархизме"
-    author: "Эррико Малатеста"
-    author_id: malatesta
-    url: "https://t.me/dilettante_voiceover/145"
-    type: book
-    status: complete
-    topics: [likbez]
-    spotify: "https://open.spotify.com/episode/50RBA8rrxY3Y9sBkrBrSfm"
-    ia_id: dv-malatesta-ten-talks
-    cover: ~
-
-  - id: gelderlos-prison
-    title: "Тюрьма"
-    author: "Питер Гелдерлоос"
-    author_id: gelderloos
-    url: "https://t.me/dilettante_voiceover/252"
-    type: book
-    status: complete
-    topics: [prison]
-    spotify: "https://open.spotify.com/playlist/49XXP1htvEFrYKvmGRggXu"
-    ia_id: dv-gelderlos-prison
-    cover: ~
-
-  - id: black-abolition-work
-    title: "Упразднение работы"
-    author: "Боб Блэк"
-    author_id: black
-    url: "https://t.me/dilettante_voiceover/90"
-    type: book
-    status: complete
-    topics: [labor]
-    spotify: "https://open.spotify.com/episode/1e2DP77WqmA8LlIA4vbPUJ"
-    ia_id: dv-black-abolition-work
-    cover: ~
-
-  - id: dedok-parallel-world
-    title: "Цвета параллельного мира"
-    author: "Николай Дедок"
-    author_id: dedok
-    url: "https://t.me/dilettante_voiceover/346"
-    type: book
-    status: complete
-    topics: [prison]
-    spotify: "https://open.spotify.com/episode/59vBsacltv60fOgHYTwSdX"
-    ia_id: dv-dedok-parallel-world
-    cover: ~
-
-  - id: ward-anarchism-intro
-    title: "Анархизм: очень краткое введение"
-    author: "Колин Вард"
-    author_id: ward
-    url: "https://t.me/dilettante_voiceover/517"
-    type: book
-    status: complete
-    topics: [likbez]
-    spotify: "https://open.spotify.com/episode/2dlOd9RHi3dnNVQhA2tEa3"
-    ia_id: dv-ward-anarchism-intro
-    cover: ~
-
-  - id: pustunya
-    title: "Пустыня"
-    author: "Аноним"
-    author_id: ~
-    type: book
-    status: complete
-    topics: [ecology, anarcho-primitivism]
-    spotify: "https://open.spotify.com/playlist/5e7bCzUjt7DK8JWXomKmW2"
-    ia_id: dv-pustunya
-    cover: ~
-    chapters:
-      - title: "1. (Глобального) будущего нет"
-        url: "https://t.me/dilettante_voiceover/475"
-      - title: "2. Всё намного запущеннее, чем мы думали"
-        url: "https://t.me/dilettante_voiceover/476"
-      - title: "3. Бури в пустыне"
-        url: "https://t.me/dilettante_voiceover/478"
-      - title: "4. Африканские пути к анархии"
-        url: "https://t.me/dilettante_voiceover/483"
-      - title: "5. Цивилизация отступает, дикость остается"
-        url: "https://t.me/dilettante_voiceover/485"
-      - title: "6. Возвращение Terror-nullius"
-        url: "https://t.me/dilettante_voiceover/492"
-      - title: "7. Конвергенция и новое городское большинство"
-        url: "https://t.me/dilettante_voiceover/507"
-      - title: "8. Сохранение природы в условиях перемен"
-        url: "https://t.me/dilettante_voiceover/519"
-      - title: "9. Анархисты за стенами"
-        url: "https://t.me/dilettante_voiceover/526"
-      - title: "10. Пустыня"
-        url: "https://t.me/dilettante_voiceover/527"
-
-  - id: golodnaya-step
-    title: "Голодная степь"
-    author: "Сара Камерон"
-    author_id: cameron
-    type: book
-    status: complete
-    topics: [history]
-    spotify: "https://open.spotify.com/playlist/6wIGYax83Fsr280lNr1aXB"
-    ia_id: dv-golodnaya-step
-    cover: "https://ia800401.us.archive.org/4/items/dv-golodnaya-step/81G06v5DZkL._UF1000%2C1000_QL80_.jpg"
-    chapters:
-      - title: "Введение часть 1"
-        url: "https://t.me/dilettante_voiceover/247"
-      - title: "Введение часть 2"
-        url: "https://t.me/dilettante_voiceover/455"
-      - title: "Глава 1"
-        url: "https://t.me/dilettante_voiceover/458"
-      - title: "Глава 2"
-        url: "https://t.me/dilettante_voiceover/471"
-      - title: "Глава 3"
-        url: "https://t.me/dilettante_voiceover/472"
-      - title: "Глава 4"
-        url: "https://t.me/dilettante_voiceover/484"
-      - title: "Глава 5"
-        url: "https://t.me/dilettante_voiceover/498"
-      - title: "Глава 6"
-        url: "https://t.me/dilettante_voiceover/509"
-      - title: "Заключение и эпилог"
-        url: "https://t.me/dilettante_voiceover/510"
-
-  - id: glushakov-revolution-is-dead
-    title: "Революция умерла! Да здравствует революция!"
-    author: "Юрий Глушаков"
-    author_id: glushakov
-    type: book
-    status: complete
-    topics: [history, belarus]
-    spotify: "https://open.spotify.com/playlist/4gSBjACmA2C4Jjg3NPg7al"
-    ia_id: dv-glushakov-revolution-is-dead
-    cover: ~
-    chapters:
-      - title: "Введение"
-        url: "https://t.me/dilettante_voiceover/264"
-      - title: "Глава 1. Накануне. Возникновение и деятельность анархо-коммунистических групп в 1903—1904 гг."
-        url: "https://t.me/dilettante_voiceover/269"
-      - title: "Глава 2. Первая революция. На гребне волны. 1905—1907 гг."
-        parts:
-          - label: "Глава 2 (1, 2)"
-            url: "https://t.me/dilettante_voiceover/340"
-          - label: "Глава 2 (3)"
-            url: "https://t.me/dilettante_voiceover/342"
-          - label: "Глава 2 (4. Деятельность анархистов за пределами Белостока)"
-            url: "https://t.me/dilettante_voiceover/344"
-          - label: "Глава 2 (5, 6, 7)"
-            url: "https://t.me/dilettante_voiceover/348"
-      - title: "Глава 3. Отступление. 1907—1917 гг."
-        url: "https://t.me/dilettante_voiceover/356"
-      - title: "Глава 4. На переломе эпох. 1917—1921 гг."
-        parts:
-          - label: "Глава 4 (1)"
-            url: "https://t.me/dilettante_voiceover/368"
-          - label: "Глава 4 (2)"
-            url: "https://t.me/dilettante_voiceover/373"
-      - title: "Глава 5. Новое время. Анархизм в советской Беларуси (1921—1927 гг.)"
-        parts:
-          - label: "Глава 5 (1)"
-            url: "https://t.me/dilettante_voiceover/375"
-          - label: "Глава 5 (2)"
-            url: "https://t.me/dilettante_voiceover/379"
-          - label: "Глава 5 (3)"
-            url: "https://t.me/dilettante_voiceover/387"
-          - label: "Глава 5 (4)"
-            url: "https://t.me/dilettante_voiceover/389"
-          - label: "Глава 5 (5)"
-            url: "https://t.me/dilettante_voiceover/390"
-
-  - id: crimethinc-fighting-for-our-lives
-    title: "Борьба за наши жизни"
-    author: "Crimethinc"
-    author_id: crimethinc
-    type: book
-    status: complete
-    source: "Crimethinc"
-    topics: [likbez, resistance]
-    spotify: "https://open.spotify.com/playlist/1ez1xRzdPq7VV7uM4QwB0g"
-    ia_id: dv-crimethinc-fighting-for-our-lives
-    cover: ~
-    chapters:
-      - title: "Часть 1"
-        url: "https://t.me/dilettante_voiceover/250"
-      - title: "Часть 2"
-        url: "https://t.me/dilettante_voiceover/316"
-      - title: "Часть 3"
-        url: "https://t.me/dilettante_voiceover/318"
-      - title: "Часть 4"
-        url: "https://t.me/dilettante_voiceover/333"
-      - title: "Часть 5"
-        url: "https://t.me/dilettante_voiceover/345"
-      - title: "Часть 6"
-        url: "https://t.me/dilettante_voiceover/351"
-
-  - id: kosovo-gaskarov
-    title: "Корреспондент Гаскаров в аду и другие истории"
-    author: "Петя Косово"
-    author_id: kosovo
-    type: book
-    status: complete
-    topics: [prison]
-    spotify: "https://open.spotify.com/playlist/3GQV5R3ESL9e3p7gGDQFNV"
-    ia_id: dv-kosovo-gaskarov
-    cover: ~
-    chapters:
-      - title: "Предисловие"
-        url: "https://t.me/dilettante_voiceover/212"
-      - title: "Каждый имеет право на свои 15 минут силы"
-        url: "https://t.me/dilettante_voiceover/223"
-      - title: "В зазеркалье и в аду"
-        url: "https://t.me/dilettante_voiceover/246"
-      - title: "Вознестись в сиянии (часть 1)"
-        url: "https://t.me/dilettante_voiceover/283"
-      - title: "Вознестись в сиянии (часть 2)"
-        url: "https://t.me/dilettante_voiceover/298"
-      - title: "Вознестись в сиянии (часть 3)"
-        url: "https://t.me/dilettante_voiceover/396"
-      - title: "Оксана Челышева – Воздух несвободы"
-        url: "https://t.me/dilettante_voiceover/386"
-      - title: "Как я в Интерпол ходил"
-        url: "https://t.me/dilettante_voiceover/405"
-      - title: "Петр - Октавио - Барселона"
-        url: "https://t.me/dilettante_voiceover/399"
-      - title: "Ребята, по-другому не бывает"
-        url: "https://t.me/dilettante_voiceover/403"
-      - title: "Центр Экстремизма"
-        url: "https://t.me/dilettante_voiceover/438"
-      - title: "Обезглавлено крыло антифашистов"
-        url: "https://t.me/dilettante_voiceover/438"
-      - title: "Смерть в лимбе"
-        url: "https://t.me/dilettante_voiceover/412"
-      - title: "Прощай, балабол, или кого похоронил openspace.ru"
-        url: "https://t.me/dilettante_voiceover/401"
-      - title: "Фекальная экономика и синьор Пук-Пук"
-        url: "https://t.me/dilettante_voiceover/421"
-      - title: "Анатомия богача"
-        url: "https://t.me/dilettante_voiceover/410"
-      - title: "Фемические суды и грунтовые монстры"
-        url: "https://t.me/dilettante_voiceover/402"
-      - title: "Демократы с травматами"
-        url: "https://t.me/dilettante_voiceover/398"
-      - title: "Не подавать руки"
-        url: "https://t.me/dilettante_voiceover/397"
-
-  - id: moya-oborona
-    title: "Моя оборона. Сексуальное насилие: мифы и факты"
-    author: ~
-    author_id: ~
-    type: book
-    status: complete
-    topics: [feminism]
-    spotify: "https://open.spotify.com/playlist/4riumxevA439G1Rqf3Eypd"
-    ia_id: dv-moya-oborona
-    cover: ~
-    chapters:
-      - title: "Предисловие"
-        url: "https://t.me/dilettante_voiceover/427"
-        spotify: "https://open.spotify.com/episode/3zy1cYJkypqXceVNHxszo4"
-      - title: "Мы делаем вид, будто этого нет. Лиза Меламед"
-        url: "https://t.me/dilettante_voiceover/432"
-        spotify: "https://open.spotify.com/episode/15mjmMUrqgHB8RhsJUy20S"
-      - title: "В полиции говорят: «Подумаешь, ничего же не произошло». Павел Никулин"
-        url: "https://t.me/dilettante_voiceover/433"
-        spotify: "https://open.spotify.com/episode/5AWdQBnDvNaH98LIeaRKo3"
-      - title: "Сексуальное насилие: мифы и факты. Мария Мохова"
-        url: "https://t.me/dilettante_voiceover/435"
-        spotify: "https://open.spotify.com/episode/4yLZN9Fgx4wAiZz9iSED7J"
-      - title: "Моя оборона: как не сесть, защищая себя? Анна Жавнерович, Алиса Хохлова"
-        url: "https://t.me/dilettante_voiceover/441"
-        spotify: "https://open.spotify.com/episode/2zDvND8U2soMUTeGCDhXZS"
-      - title: "Моя история о том, как я справлялась с ПТСР после изнасилования. Елена Ливанова"
-        url: "https://t.me/dilettante_voiceover/443"
-        spotify: "https://open.spotify.com/episode/5QeDNlCy8rkD7CJHZ32UgB"
-      - title: "О проблеме домашнего и сексуального насилия. Светлана Толстова"
-        url: "https://t.me/dilettante_voiceover/444"
-        spotify: "https://open.spotify.com/episode/7kVuMoI7qi9rMxaZdO7ojU"
-      - title: "Влияние реакции окружения на развитие посттравматической симптоматики. Марина Миронова"
-        url: "https://t.me/dilettante_voiceover/445"
-        spotify: "https://open.spotify.com/episode/0RVz24x2R0LXMRAcGaV8nE"
-      - title: "О центре «Сестры» и приложении «Насилию.нет»"
-        url: "https://t.me/dilettante_voiceover/446"
-        spotify: "https://open.spotify.com/episode/43SiL92SttclMzv8ul0ec7"
-
-  # ── Отрывки из книг ──────────────────────────────────────────────────────────
-
-  - id: gelderlos-anarchy-works
-    title: "Анархия Работает"
-    author: "Питер Гелдерлоос"
-    type: book_excerpt
-    source: "Анархия Работает"
-    status: complete
-    topics: [ economy ]
-    spotify: "https://open.spotify.com/playlist/1FbTAyBprXb7F4B763iRIk"
-    chapters:
-      - title: "Экономика. Часть 1"
-        url: "https://t.me/dilettante_voiceover/219"
-      - title: "Экономика. Часть 2"
-        url: "https://t.me/dilettante_voiceover/222"
-      - title: "Экономика. Часть 3"
-        url: "https://t.me/dilettante_voiceover/230"
-      - title: "Экономика. Часть 4"
-        url: "https://t.me/dilettante_voiceover/236"
-
-  - id: carson-iron-fist
-    title: "Железный кулак и тупость институций"
-    author: "Кевин Карсон"
-    url: "https://t.me/dilettante_voiceover/477"
-    type: book_excerpt
-    source: "Железный кулак и тупость институций"
-    status: complete
-    topics: [labor, individualist-anarchism]
-    spotify: "https://open.spotify.com/episode/5VBCIFR67sinElzkgUhz00"
-
-  - id: gapova--nations-classes
-    title: "Классы наций. Феминистская критика нациостроительства"
-    author: "Елена Гапова"
-    type: book_excerpt
-    source: "Классы наций. Феминистская критика нациостроительства"
-    status: complete
-    spotify: "https://open.spotify.com/playlist/2x9LVAVwVlZ5ssUJmYho9p"
-    topics: [ feminism, history, belarus ]
-    chapters:
-      - title: "Любовь как революция, или «несмотря на Грамши» Полуты Бодуновой"
-        url: "https://t.me/dilettante_voiceover/131"
-      - title: "О гендере, нации и классе в посткоммунизме"
-        url: "https://t.me/dilettante_voiceover/239"
-
-  - id: richards-orwell-humanist
-    title: "Оруэлл в семейном кругу и в среде анархистов. Оруэлл-гуманист"
-    author: "Вернон Ричардс"
-    url: "https://t.me/dilettante_voiceover/273"
-    type: book_excerpt
-    source: "Оруэлл в семейном кругу и в среде анархистов"
-    status: complete
-    topics: [history]
-    spotify: "https://open.spotify.com/episode/2Ossx15VMbZ7nYXK6rKrhF"
-
-  - id: kunz-chapter3
-    title: "Совесть нацистов. Глава 3. Союзники в академии. Философия Киттеля"
-    author: "Клаудия Кунц"
-    url: "https://t.me/dilettante_voiceover/67"
-    type: book_excerpt
-    source: "Совесть нацистов"
-    status: complete
-    topics: [history, antifascism]
-    spotify: "https://open.spotify.com/episode/5WelU8LC9Y4rctLuabL7Ry"
-
-  - id: gilligan-snyder-patriarchy
-    title: "Почему патриархат всё ещё существует?"
-    author: "Кэрол Гиллиган, Наоми Снайдер"
-    type: book_excerpt
-    status: complete
-    topics: [feminism]
-    spotify: "https://open.spotify.com/playlist/62KRm786FVlgvv93zhprXf"
-    chapters:
-      - title: "Введение"
-        url: "https://t.me/dilettante_voiceover/45"
-      - title: "Глава 1. Загадка"
-        url: "https://t.me/dilettante_voiceover/55"
-      - title: "Первая подсказка: связь с утратой"
-        url: "https://t.me/dilettante_voiceover/58"
-      - title: "Глава 3. Сопротивление (часть 1)"
-        url: "https://t.me/dilettante_voiceover/74"
-
-  # ── Книги в работе ───────────────────────────────────────────────────────────
-
-  - id: borovoy-anarchism
-    title: "Анархизм"
-    author: "Алексей Боровой"
-    type: book
-    status: in_progress
-    topics: [likbez]
-    spotify: ~
-    chapters:
-      - title: "Предисловие"
-        url: "https://t.me/dilettante_voiceover/532"
-      - title: "Глава 1"
-        url: "https://t.me/dilettante_voiceover/535"
-
-  - id: bookchin-future-revolution
-    title: "Будущая Революция"
-    author: "Мюррей Букчин"
-    type: book
-    status: in_progress
-    topics: [ecology, likbez]
-    spotify: ~
-    chapters:
-      - title: "Коммуналистский проект"
-        url: "https://t.me/dilettante_voiceover/531"
-      - title: "Экологический кризис и необходимость переустройства общества"
-        url: "https://t.me/dilettante_voiceover/534"
-
-  - id: scott-art-of-not-being-governed
-    title: "Искусство быть неподвластным"
-    author: "Джеймс Скотт"
-    type: book
-    status: in_progress
-    topics: [history, southeast-asia]
-    spotify: ~
-    chapters:
-      - title: "Предисловие"
-        url: "https://t.me/dilettante_voiceover/511"
-      - title: "Глава 1"
-        url: "https://t.me/dilettante_voiceover/529"
-      - title: "Глава 2"
-        url: "https://t.me/dilettante_voiceover/537"
-
-  - id: torres-making-a-killing
-    title: "Совершая убийство, или Политическая экономия прав животных"
-    author: "Боб Торрес"
-    type: book
-    status: in_progress
-    topics: [animal-rights, labor]
-    spotify: ~
-    chapters:
-      - title: "Глава I"
-        url: "https://t.me/dilettante_voiceover/220"
-      - title: "Глава II"
-        url: "https://t.me/dilettante_voiceover/238"
-
-  - id: astashin-journey
-    title: "Путешествие по местам лишения"
-    author: "Иван Асташин"
-    type: book
-    status: in_progress
-    topics: [prison]
-    spotify: ~
-    chapters:
-      - title: "Глава 1"
-        url: "https://t.me/dilettante_voiceover/266"
-      - title: "Глава 2"
-        url: "https://t.me/dilettante_voiceover/268"
-      - title: "Глава 3"
-        url: "https://t.me/dilettante_voiceover/291"
-      - title: "Глава 4"
-        url: "https://t.me/dilettante_voiceover/293"
-      - title: "Глава 5"
-        url: "https://t.me/dilettante_voiceover/296"
-      - title: "Глава 6"
-        url: "https://t.me/dilettante_voiceover/317"
-      - title: "Глава 7"
-        url: "https://t.me/dilettante_voiceover/353"
-      - title: "Глава 8"
-        url: "https://t.me/dilettante_voiceover/424"
-      - title: "Глава 9"
-        url: "https://t.me/dilettante_voiceover/430"
-
-  - id: falkovski-xinjiang
-    title: "По следам Бурхана Шахиди или Синьцзян 50 лет спустя"
-    author: "Илья Фальковский"
-    type: book
-    status: in_progress
-    topics: [history]
-    spotify: ~
-    chapters:
-      - title: "Часть 1. Эпизод 1"
-        url: "https://t.me/dilettante_voiceover/270"
-      - title: "Часть 1. Эпизод 2"
-        url: "https://t.me/dilettante_voiceover/347"
-
-  - id: bey-taz
-    title: "Временные автономные зоны"
-    author: "Хаким Бей (Питер Лэмборн Уилсон)"
-    type: book
-    status: in_progress
-    topics: [post-anarchism]
-    spotify: ~
-    chapters:
-      - title: "Пиратские утопии"
-        url: "https://t.me/dilettante_voiceover/466"
-      - title: "В ожидании революции"
-        url: "https://t.me/dilettante_voiceover/467"
-      - title: "Музыка как организующий принцип"
-        url: "https://t.me/dilettante_voiceover/489"
-      - title: "Психотопология повседневности"
-        url: "https://t.me/dilettante_voiceover/512"
-      - title: "Ушли на Кроатоан"
-        url: "https://t.me/dilettante_voiceover/513"
-      - title: "Воля к власти как исчезновение"
-        url: "https://t.me/dilettante_voiceover/533"
-
-  # ── Статьи — Akrateia ────────────────────────────────────────────────────────
-
-  - id: dubovyk-makhno-economy
-    title: "Экономика махновщины"
-    author: "Анатолий Дубовик"
-    url: "https://t.me/dilettante_voiceover/130"
-    type: article
-    source: "Akrateia"
-    status: complete
-    topics: [history, makhno]
-    spotify: "https://open.spotify.com/episode/78Z1dO7F9EBGT7g9WIIGQa"
-
-  - id: dubovyk-makhno-amnesty-thanks
-    title: "«Поблагодарили за борьбу против белых, а потом расстреляли». Конец союза красных и Махно"
-    author: "Анатолий Дубовик"
-    url: "https://t.me/dilettante_voiceover/227"
-    type: article
-    source: "Akrateia"
-    status: complete
-    topics: [history, makhno]
-    spotify: "https://open.spotify.com/episode/3ZGwpf9SfTjvmDj7io4ZVs"
-
-  - id: dubovyk-makhno-amnesty-false
-    title: "Обманчивая амнистия. Как чекисты уничтожали махновцев, добровольно сложивших оружие"
-    author: "Анатолий Дубовик"
-    url: "https://t.me/dilettante_voiceover/237"
-    type: article
-    source: "Akrateia"
-    status: complete
-    topics: [history, makhno]
-    spotify: "https://open.spotify.com/episode/3CgURy293aQ3e8kTX3IicF"
-
-  - id: leeder-anarchofeminism
-    title: "Анархо-феминизм"
-    author: "Элейн Лиидэр"
-    url: "https://t.me/dilettante_voiceover/179"
-    type: article
-    source: "Akrateia"
-    status: complete
-    topics: [feminism]
-    spotify: "https://open.spotify.com/episode/3kratiHUBlDTeQn6sTthEY"
-
-  - id: rakhmaninova-weil
-    title: "Апофатический анархизм Симоны Вейль"
-    author: "Мария Рахманинова"
-    url: "https://t.me/dilettante_voiceover/180"
-    type: article
-    source: "Akrateia"
-    status: complete
-    topics: [history]
-    spotify: "https://open.spotify.com/episode/1TEG3B4mPMSAk8OjKQdrcd"
-
-  - id: eichner-michel-colonialism
-    title: "Язык империализма и язык освобождения: Луиза Мишель и колониальные отношения между французами и канаками"
-    author: "Каролин Дж. Эйхнер"
-    url: "https://t.me/dilettante_voiceover/183"
-    type: article
-    source: "Akrateia"
-    status: complete
-    topics: [feminism, history]
-    spotify: "https://open.spotify.com/episode/0xjvMMI4BadDZJ9znKgbDT"
-
-  - id: basf-bangladesh
-    title: "Работницы чайных плантаций в Бангладеш: больше работы, меньше жизни"
-    author: "BASF"
-    url: "https://t.me/dilettante_voiceover/187"
-    type: article
-    source: "Akrateia"
-    status: complete
-    topics: [labor, southeast-asia]
-    spotify: "https://open.spotify.com/episode/4ZerTuxVmSPKKRolh45q7x"
-
-  - id: de-cleyre-paris-commune-akrateia
-    title: "Парижская коммуна (из записей Вольтерины де Клер)"
-    author: "Вольтерина де Клер"
-    url: "https://t.me/dilettante_voiceover/107"
-    type: article
-    source: "Akrateia"
-    status: complete
-    topics: [history]
-    spotify: "https://open.spotify.com/episode/1g1Z7TEM7Wx530yjDMwE38"
-
-  - id: gorbunov-zapatistas
-    title: "«Править подчиняясь». Как устроено сапатистское самоуправление?"
-    author: "Валентин Горбунов"
-    url: "https://t.me/dilettante_voiceover/161"
-    type: article
-    source: "Akrateia"
-    status: complete
-    topics: [history]
-    spotify: "https://open.spotify.com/episode/1ZXKzI3NxTCXntmhGJuidd"
-
-  - id: dubovyk-nikiforova
-    title: "Мария Никифорова: жизнь и смерть анархистки"
-    author: "Анатолий Дубовик"
-    url: "https://t.me/dilettante_voiceover/265"
-    type: article
-    source: "Akrateia"
-    status: complete
-    topics: [feminism, history, makhno]
-    spotify: "https://open.spotify.com/episode/7D3FeoYtWuQ6NyioZbvxEd"
-
-  - id: collectivization-catalonia
-    title: "Коллективизация в Каталонии"
-    author: ~
-    url: "https://t.me/dilettante_voiceover/284"
-    type: article
-    source: "Akrateia"
-    status: complete
-    topics: [history, labor]
-    spotify: "https://open.spotify.com/episode/5JeRVuEn8AbDA7hCjiTY8j"
-
-  - id: dubovyk-directions-anarchism
-    title: "Неактуальная тема: о направлениях анархизма"
-    author: "Анатолий Дубовик"
-    url: "https://t.me/dilettante_voiceover/384"
-    type: article
-    source: "Akrateia"
-    status: complete
-    topics: [likbez]
-    spotify: "https://open.spotify.com/episode/3lbFxLiD3uEkTbM8PqyvxF"
-
-  # ── Статьи — Бармалеи/Партизаны ─────────────────────────────────────────────
-
-  - id: barmalei-slaughterhouse-excerpt
-    title: "Бойня (отрывок)"
-    author: "Бармалеи/Партизаны"
-    url: "https://t.me/dilettante_voiceover/185"
-    type: article
-    source: "Бармалеи/Партизаны"
-    status: complete
-    topics: [history, antimilitarism]
-    spotify: "https://open.spotify.com/episode/0wACsR1pCRrijddBb2erM2"
-
-  - id: barmalei-slaughterhouse-timor
-    title: "Бойня. Тимор: независимость и оккупация"
-    author: "Бармалеи/Партизаны"
-    url: "https://t.me/dilettante_voiceover/193"
-    type: article
-    source: "Бармалеи/Партизаны"
-    status: complete
-    topics: [history, antimilitarism, southeast-asia]
-    spotify: "https://open.spotify.com/episode/7Hfam4cXxHQjGNWhC8Holk"
-
-  - id: barmalei-nuremberg
-    title: "Дорога в Нюрнберг"
-    author: "Бармалеи/Партизаны"
-    url: "https://t.me/dilettante_voiceover/188"
-    type: article
-    source: "Бармалеи/Партизаны"
-    status: complete
-    topics: [history, antifascism]
-    spotify: "https://open.spotify.com/episode/4Ru9MqUIC6ITI2m57YA1PH"
-
-  - id: barmalei-miners
-    title: "Шахтеры и Железная леди: кто сильней?"
-    author: "Бармалеи/Партизаны"
-    url: "https://t.me/dilettante_voiceover/208"
-    type: article
-    source: "Бармалеи/Партизаны"
-    status: complete
-    topics: [labor, history]
-    spotify: "https://open.spotify.com/episode/42AoZT4d4u52B7lcY4TWGu"
-
-  - id: barmalei-africa-coups
-    title: "Эпидемия Африканских переворотов"
-    author: "Бармалеи/Партизаны"
-    url: "https://t.me/dilettante_voiceover/210"
-    type: article
-    source: "Бармалеи/Партизаны"
-    status: complete
-    topics: [history]
-    spotify: "https://open.spotify.com/episode/6N9Kg37Hm0QUyNtLzT4wqK"
-
-  - id: barmalei-alf
-    title: "Animal Liberation Front (ALF)"
-    author: "Бармалеи/Партизаны"
-    url: "https://t.me/dilettante_voiceover/217"
-    type: article
-    source: "Бармалеи/Партизаны"
-    status: complete
-    topics: [animal-rights, resistance]
-    spotify: "https://open.spotify.com/episode/4oMTdQtoYsatzMEjvV7gbc"
-
-  - id: barmalei-dictators-die
-    title: "Как умирают диктаторы"
-    author: "Бармалеи/Партизаны"
-    url: "https://t.me/dilettante_voiceover/280"
-    type: article
-    source: "Бармалеи/Партизаны"
-    status: complete
-    topics: [history]
-    spotify: "https://open.spotify.com/episode/2Y5lPZrEj0NVg5fGZDUlXS"
-
-  - id: barmalei-student-resistance
-    title: "Студенческое сопротивление диктатуре в Аргентине и Греции"
-    author: "Бармалеи/Партизаны"
-    url: "https://t.me/dilettante_voiceover/278"
-    type: article
-    source: "Бармалеи/Партизаны"
-    status: complete
-    topics: [history, antimilitarism, resistance]
-    spotify: "https://open.spotify.com/playlist/2FrAiFEahfptrkcjXU3CXv"
-
-  # ── Статьи — Crimethinc ──────────────────────────────────────────────────────
-
-  - id: crimethinc-security-culture
-    title: "Что такое культура безопасности"
-    author: "Crimethinc"
-    url: "https://t.me/dilettante_voiceover/479"
-    type: article
-    source: "Crimethinc"
-    status: complete
-    topics: [likbez, resistance]
-    spotify: "https://open.spotify.com/episode/0lREJa7SEqw92eSijaJ5km"
-
-
-  # ── Статьи — Прочие источники ────────────────────────────────────────────────
-
-  - id: fiscella-anarcho-islam
-    title: "Анархо-Ислам"
-    author: "Энтони Т. Фискелла"
-    url: "https://t.me/dilettante_voiceover/229"
-    type: article
-    source: "Прочие источники"
-    status: complete
-    topics: [ religious-anarchism ]
-    spotify: "https://open.spotify.com/episode/69UNHCtbg8TAmz0x6LJold"
-
-  - id: snyder-anarcho-buddhism
-    title: "Анархо-буддизм"
-    author: "Гэри Снайдер"
-    url: "https://t.me/dilettante_voiceover/262"
-    type: article
-    source: "Прочие источники"
-    status: complete
-    topics: [ religious-anarchism ]
-    spotify: "https://open.spotify.com/episode/0Hboy6PfXOdZ4cof1Gv79N"
-
-  - id: myths-che-guevara
-    title: "Мифы и легенды: Че Гевара"
-    author: ~
-    url: "https://t.me/dilettante_voiceover/80"
-    type: article
-    source: "Прочие источники"
-    status: complete
-    topics: [history]
-    spotify: "https://open.spotify.com/episode/3SrvM1M954inNPxvaoIdHk"
-
-  - id: podshivalov-chicago-martyrs
-    title: "Чикагские мученики"
-    author: "Игорь Подшивалов"
-    url: "https://t.me/dilettante_voiceover/103"
-    type: article
-    source: "Прочие источники"
-    status: complete
-    topics: [labor, history]
-    spotify: "https://open.spotify.com/episode/5ILeQDEOcSD3HLuE3ss3zA"
-
-  - id: anarchism-japan
-    title: "Анархизм в Японии (о Фумико Канеко, Ито Ноэ, Кано Суга)"
-    author: ~
-    url: "https://t.me/dilettante_voiceover/71"
-    type: article
-    source: "Прочие источники"
-    status: complete
-    topics: [feminism, history, japan]
-    spotify: "https://open.spotify.com/playlist/2PdGasmwoaHoETxfKbrQ2e"
-
-  - id: kaneko-biography
-    title: "Биография Канеко Фумико"
-    author: ~
-    url: "https://t.me/dilettante_voiceover/186"
-    type: article
-    source: "Прочие источники"
-    status: complete
-    topics: [feminism, history, japan]
-    spotify: "https://open.spotify.com/episode/49OVN0LTHpOIdg6fucr1Dj"
-
-  - id: mann-animal-liberation-history
-    title: "История движения за освобождение животных"
-    author: "Кит Манн"
-    url: "https://t.me/dilettante_voiceover/111"
-    type: article
-    source: "Прочие источники"
-    status: complete
-    topics: [animal-rights, history]
-    spotify: "https://open.spotify.com/episode/13K0r9ZHo3OeHSuW0FJl39"
-
-  - id: podshivalov-zhanna-darc
-    title: "Жанна д'Арк сибирской контрреволюции"
-    author: "Игорь Подшивалов"
-    url: "https://t.me/dilettante_voiceover/113"
-    type: article
-    source: "Прочие источники"
-    status: complete
-    topics: [history, feminism]
-    spotify: "https://open.spotify.com/episode/182710ZxPdmTghv1R5KCQk"
-
-  - id: piper-women-pinochet
-    title: "Женское сопротивление диктатуре Пиночета"
-    author: "Ядвига Пипер-Муни"
-    url: "https://t.me/dilettante_voiceover/123"
-    type: article
-    source: "Прочие источники"
-    status: complete
-    topics: [feminism, history, antimilitarism, resistance]
-    spotify: "https://open.spotify.com/episode/0DoCVvjG3jVl4HOF3FYFDq"
-
-  - id: foer-eating-animals
-    title: "Eating Animals"
-    author: "Джонатан Фоер"
-    url: "https://t.me/dilettante_voiceover/126"
-    type: article
-    source: "Прочие источники"
-    status: complete
-    topics: [animal-rights]
-    spotify: "https://open.spotify.com/episode/5LJfonPU4lcpjm4hhYqRn2"
-
-  - id: hugsson-harry-potter-animals
-    title: "Забота о «магических» существах? Моральная оценка литературного тропа «Любитель животных» в Гарри Поттере"
-    author: "Анника Хьюгссон"
-    url: "https://t.me/dilettante_voiceover/141"
-    type: article
-    source: "Прочие источники"
-    status: complete
-    topics: [animal-rights]
-    spotify: "https://open.spotify.com/episode/4Bw2TxCzfcZnonScqIovMc"
-
-  - id: dominick-animal-liberation-revolution
-    title: "Освобождение животных и социальная революция"
-    author: "Брайн А. Доминик"
-    url: "https://t.me/dilettante_voiceover/201"
-    type: article
-    source: "Прочие источники"
-    status: complete
-    topics: [animal-rights]
-    spotify: "https://open.spotify.com/episode/5sOeH8Uc4M270NB0JaJzHs"
-
-  - id: khromyi-individualism-socialism
-    title: "Индивидуализм и социализм"
-    author: "Денис Хромый"
-    url: "https://t.me/dilettante_voiceover/191"
-    type: article
-    source: "Прочие источники"
-    status: complete
-    topics: [individualist-anarchism]
-    spotify: "https://open.spotify.com/episode/0orj2Rusp5ku7KxPMVh9k2"
-
-  - id: podshivalov-betrayed-revolution
-    title: "Преданная революция"
-    author: "Игорь Подшивалов"
-    url: "https://t.me/dilettante_voiceover/119"
-    type: article
-    source: "Прочие источники"
-    status: complete
-    topics: [history]
-    spotify: "https://open.spotify.com/episode/5mEY4wvv1uFDYDKvbVjzn3"
-
-  - id: budnitsky-men-women-red-army
-    title: "Мужчины и женщины в Красной армии"
-    author: "Олег Будницкий"
-    url: "https://t.me/dilettante_voiceover/194"
-    type: article
-    source: "Прочие источники"
-    status: complete
-    topics: [feminism, history]
-    spotify: "https://open.spotify.com/episode/2hqiLaEiJCjXKxHfUKnwQN"
-
-  - id: maltsberger-hostility-suicide
-    title: "Клиническое исследование роли враждебности и пожеланий смерти со стороны семьи и общества при суицидальных попытках"
-    author: "Джон Молтсбергер"
-    url: "https://t.me/dilettante_voiceover/62"
-    type: article
-    source: "Прочие источники"
-    status: complete
-    topics: [prison, suicide]
-    spotify: "https://open.spotify.com/episode/2nvQ13VyJPhQSLcqHK1zzc"
-
-  - id: maltsberger-suicide-risk
-    title: "Опасность самоубийства: клиническая оценка и принятие решений"
-    author: "Джон Молтсбергер"
-    url: "https://t.me/dilettante_voiceover/206"
-    type: article
-    source: "Прочие источники"
-    status: complete
-    topics: [prison, suicide]
-    spotify: "https://open.spotify.com/episode/0tJV6Bcfs1ovZ0ik7PAgvP"
-
-  - id: nechaev-catechism
-    title: "Катехизис революционера"
-    author: "Сергей Нечаев"
-    url: "https://t.me/dilettante_voiceover/218"
-    type: article
-    source: "Прочие источники"
-    status: complete
-    topics: [history]
-    spotify: "https://open.spotify.com/episode/6V6oz1fIVXVjPj4DPquUe8"
-
-  - id: memorial-katyn
-    title: "Катынское преступление"
-    author: "Международное общество «Мемориал»"
-    url: "https://t.me/dilettante_voiceover/240"
-    type: article
-    source: "Прочие источники"
-    status: complete
-    topics: [history]
-    spotify: "https://open.spotify.com/episode/3G6PJXQWA8mHLydes7qSHY"
-
-  - id: libertad-recruits
-    title: "Новобранцам"
-    author: "Альбер Либертад"
-    url: "https://t.me/dilettante_voiceover/251"
-    type: article
-    source: "Прочие источники"
-    status: complete
-    topics: [antimilitarism]
-    spotify: "https://open.spotify.com/episode/2AC3wCRrSgHw9dStxmqBdV"
-
-  - id: thoreau-civil-disobedience
-    title: "О гражданском неповиновении"
-    author: "Генри Торо"
-    url: "https://t.me/dilettante_voiceover/267"
-    type: article
-    source: "Прочие источники"
-    status: complete
-    topics: [antimilitarism, individualist-anarchism, resistance]
-    spotify: "https://open.spotify.com/episode/47XZaKwSxm7oyWwywZ1EVr"
-
-  - id: shypunov-anarchosyndicalism
-    title: "Анархо-синдикалізм як напрям ідейно-інституційної еволюції лівого політичного руху"
-    author: "Геннадій Шипунов"
-    url: "https://t.me/dilettante_voiceover/315"
-    type: article
-    source: "Прочие источники"
-    status: complete
-    topics: [labor]
-    spotify: "https://open.spotify.com/episode/6V5c3783mSjXJwVnatKEzt"
-
-  - id: dubovyk-makhno-faces
-    title: "Батрак, швец, слесарь, машинист: лица вожаков махновского движения"
-    author: "Анатолий Дубовик"
-    url: "https://t.me/dilettante_voiceover/319"
-    type: article
-    source: "Прочие источники"
-    status: complete
-    topics: [history, makhno]
-    spotify: "https://open.spotify.com/episode/7i5Tys9vOEMLuWbaAhezMc"
-
-  - id: labadie-study
-    title: "Учиться? Чего ради?"
-    author: "Лоуренс Лабади"
-    url: "https://t.me/dilettante_voiceover/409"
-    type: article
-    source: "Прочие источники"
-    status: complete
-    topics: [individualist-anarchism, anarchist-pedagogy]
-    spotify: "https://open.spotify.com/episode/18Gy7AN9Qe48F4vA3A1akY"
-
-  - id: labadie-war
-    title: "Война, война и ещё раз война"
-    author: "Лоуренс Лабади"
-    url: "https://t.me/dilettante_voiceover/411"
-    type: article
-    source: "Прочие источники"
-    status: complete
-    topics: [antimilitarism, individualist-anarchism]
-    spotify: "https://open.spotify.com/episode/60ZlFyyrKanHp5BP6VDDSP"
-
-  - id: zerzan-left-no-thanks
-    title: "Левые? Спасибо, но нет"
-    author: "Джон Зерзан"
-    url: "https://t.me/dilettante_voiceover/408"
-    type: article
-    source: "Прочие источники"
-    status: complete
-    topics: [anarcho-primitivism]
-    spotify: "https://open.spotify.com/episode/4fHKwDMBnuuLjqKo2oqjJr"
-
-  - id: ryabov-escape-as-revolt
-    title: "Побег как бунт"
-    author: "Петр Рябов"
-    url: "https://t.me/dilettante_voiceover/400"
-    type: article
-    source: "Прочие источники"
-    status: complete
-    topics: [prison, resistance]
-    spotify: "https://open.spotify.com/episode/0WkBUwq9sIRXHAYjKEZAtf"
-
-  - id: ira-green-book
-    title: "Зеленая книга ИРА"
-    author: ~
-    url: "https://t.me/dilettante_voiceover/393"
-    type: article
-    source: "Прочие источники"
-    status: complete
-    topics: [history, resistance]
-    spotify: "https://open.spotify.com/episode/4FZOC3CpdqT4dW5PVmHmBg"
-
-  - id: malatesta-anarchy-order
-    title: "Анархия и порядок"
-    author: "Эррико Малатеста"
-    url: "https://t.me/dilettante_voiceover/383"
-    type: article
-    source: "Прочие источники"
-    status: complete
-    topics: [likbez]
-    spotify: "https://open.spotify.com/episode/1aPPSzCT0VIKss9lzT4wxR"
-
-  - id: autonomous-action-durruti
-    title: "Дуррути. Памяти героя"
-    author: "Автономное действие"
-    url: "https://t.me/dilettante_voiceover/372"
-    type: article
-    source: "Прочие источники"
-    status: complete
-    topics: [history]
-    spotify: "https://open.spotify.com/episode/4ksc6PJzyq7Jl8v8eyKATl"
-
-  - id: graeber-are-you-anarchist
-    title: "Ты Анархист? Ответ может тебя удивить"
-    author: "Дэвид Грэбер"
-    url: "https://t.me/dilettante_voiceover/370"
-    type: article
-    source: "Прочие источники"
-    status: complete
-    topics: [likbez]
-    spotify: "https://open.spotify.com/episode/1QNVHdbFoaALNGOct9AJxr"
-
-  - id: carson-anarchism-without-adjectives
-    title: "Анархизм без прилагательных"
-    author: "Кевин Карсон"
-    url: "https://t.me/dilettante_voiceover/355"
-    type: article
-    source: "Прочие источники"
-    status: complete
-    topics: [individualist-anarchism]
-    spotify: ~
-
-  - id: de-cleyre-paris-commune-other
-    title: "Парижская коммуна"
-    author: "Вольтарина Де Клер"
-    url: "https://t.me/dilettante_voiceover/413"
-    type: article
-    source: "Прочие источники"
-    status: complete
-    topics: [history]
-    spotify: "https://open.spotify.com/episode/2Cp3MVXqXh7wsSl0nd06C4"
-
-  - id: romanov-anarchy-mother-of-order
-    title: "Анархия — мать порядка"
-    author: "Илья Романов"
-    url: "https://t.me/dilettante_voiceover/343"
-    type: article
-    source: "Прочие источники"
-    status: complete
-    topics: [likbez]
-    spotify: "https://open.spotify.com/episode/6kLNn2Nbt558xl4HiSLMW9"
-
-  - id: gerasimov-mystical-anarchists
-    title: "Мистические анархисты"
-    author: "Николай Герасимов"
-    url: "https://t.me/dilettante_voiceover/341"
-    type: article
-    source: "Прочие источники"
-    status: complete
-    topics: [history]
-    spotify: "https://open.spotify.com/episode/5VCrbSmmbtoUUjZeilJDry"
-
-  - id: clastres-society-against-state
-    title: "Общество против государства"
-    author: "Пьер Кластр"
-    url: "https://t.me/dilettante_voiceover/330"
-    type: article
-    source: "Прочие источники"
-    status: complete
-    topics: []
-    spotify: "https://open.spotify.com/episode/104Hud0NK7DtYGTiQo4kbN"
-
-  - id: nettlau-anarchists-war
-    title: "Что должны делать анархисты в случае войны"
-    author: "Макс Неттлау"
-    url: "https://t.me/dilettante_voiceover/463"
-    type: article
-    source: "Прочие источники"
-    status: complete
-    topics: [antimilitarism]
-    spotify: "https://open.spotify.com/episode/3U85DZUccaDBoYW0Yj047g"
-
-  - id: kropotkin-satisfaction-for-all
-    title: "Довольство для всех"
-    author: "П.А. Кропоткин"
-    url: "https://t.me/dilettante_voiceover/462"
-    type: article
-    source: "Прочие источники"
-    status: complete
-    topics: [labor]
-    spotify: "https://open.spotify.com/episode/3p5NZjRjlmbC3x8XhMH4Xe"
-
-  - id: kropotkin-political-rights
-    title: "Политические права"
-    author: "П.А. Кропоткин"
-    url: "https://t.me/dilettante_voiceover/460"
-    type: article
-    source: "Прочие источники"
-    status: complete
-    topics: []
-    spotify: "https://open.spotify.com/episode/4lNNgvb8Ij02knG5Je0rAi"
-
-  - id: kropotkin-antimilitarism
-    title: "Антимилитаризм. Был ли он ясно понят?"
-    author: "П.А. Кропоткин"
-    url: "https://t.me/dilettante_voiceover/454"
-    type: article
-    source: "Прочие источники"
-    status: complete
-    topics: [antimilitarism]
-    spotify: "https://open.spotify.com/episode/3HqmTqYTeIxgRWHUp2DdBX"
-
-  - id: kropotkin-our-riches
-    title: "Наши богатства"
-    author: "П.А. Кропоткин"
-    url: "https://t.me/dilettante_voiceover/459"
-    type: article
-    source: "Прочие источники"
-    status: complete
-    topics: [labor]
-    spotify: "https://open.spotify.com/episode/4EOqFm852MXXpbYS9fnh8d"
-
-  - id: goldman-child-enemies
-    title: "Ребенок и его враги"
-    author: "Эмма Гольдман"
-    url: "https://t.me/dilettante_voiceover/457"
-    type: article
-    source: "Akrateia"
-    status: complete
-    topics: [feminism, anarchist-pedagogy]
-    spotify: "https://open.spotify.com/episode/72jyjqLo61MVIwztWwVsQv"
-
-  - id: volin-red-fascism
-    title: "Красный фашизм"
-    author: "Всеволод Волин"
-    url: "https://t.me/dilettante_voiceover/456"
-    type: article
-    source: "Прочие источники"
-    status: complete
-    topics: [history, antifascism]
-    spotify: "https://open.spotify.com/episode/4amlMIDCBxAim4zPCYiLU5"
-
-  - id: kalinina-never-alone
-    title: "Я никогда не была одна и не буду. Нас миллионы и мы всегда были неугодны обществу"
-    author: "Татьяна Калинина"
-    url: "https://t.me/dilettante_voiceover/452"
-    type: article
-    source: "Прочие источники"
-    status: complete
-    topics: [feminism]
-    spotify: "https://open.spotify.com/episode/55J7ArN4OMojnmKXsrLpOo"
-
-  - id: guillaume-federalism
-    title: "Федерализм"
-    author: "Джеймс Гильом"
-    url: "https://t.me/dilettante_voiceover/442"
-    type: article
-    source: "Прочие источники"
-    status: complete
-    topics: []
-    spotify: "https://open.spotify.com/episode/2YPwHsD8E3VxftvZTEwpgC"
-
-  - id: black-grebe-sea
-    title: "От кого мы спасаем море"
-    author: "Черная чомга"
-    url: "https://t.me/dilettante_voiceover/437"
-    type: article
-    source: "Прочие источники"
-    status: complete
-    topics: [ecology]
-    spotify: "https://open.spotify.com/episode/1ryuL456vy8ba2LL4plDuN"
-
-  - id: carson-corporate-capitalism
-    title: "Почему корпоративный капитализм нежизнеспособен"
-    author: "Кевин Карсон"
-    url: "https://t.me/dilettante_voiceover/436"
-    type: article
-    source: "Прочие источники"
-    status: complete
-    topics: [labor, individualist-anarchism]
-    spotify: "https://open.spotify.com/episode/6uNCeuHKdypU745vEtZCua"
-
-  - id: glitterbomb-cooperatives
-    title: "Коммунизация общества при помощи потребительских кооперативов"
-    author: "Логан Мари Глиттербомб"
-    url: "https://t.me/dilettante_voiceover/431"
-    type: article
-    source: "Прочие источники"
-    status: complete
-    topics: [labor]
-    spotify: "https://open.spotify.com/episode/4uSarazNjWzOAbrPFS6eDL"
-
-  - id: watson-civilization-jet
-    title: "Цивилизация подобна реактивному самолёту"
-    author: "Дэвид Уотсон"
-    url: "https://t.me/dilettante_voiceover/423"
-    type: article
-    source: "Прочие источники"
-    status: complete
-    topics: [ecology, anarcho-primitivism]
-    spotify: "https://open.spotify.com/episode/6JqHNcJnXvF7V3bXmB5bND"
-
-  - id: gibson-dirty-work
-    title: "Кто будет делать грязную работу?"
-    author: "Тони Гибсон"
-    url: "https://t.me/dilettante_voiceover/420"
-    type: article
-    source: "Прочие источники"
-    status: complete
-    topics: [labor]
-    spotify: "https://open.spotify.com/episode/5VsZEPYaP9gUogdtEC1ok9"
-
-  - id: baker-means-ends
-    title: "Средства и цели"
-    author: "Зои Бейкер"
-    url: "https://t.me/dilettante_voiceover/419"
-    type: article
-    source: "Прочие источники"
-    status: complete
-    topics: [post-anarchism]
-    spotify: "https://open.spotify.com/episode/0mCXhklJSRZcN4n7OtOrYR"
-
-  - id: wee-market-anarchism
-    title: "В чем разница между рыночным анархизмом и анархо-капитализмом"
-    author: "Келли Ви"
-    url: "https://t.me/dilettante_voiceover/418"
-    type: article
-    source: "Прочие источники"
-    status: complete
-    topics: [individualist-anarchism]
-    spotify: "https://open.spotify.com/episode/6ip3vvHxPuGDnWgSNpNJtz"
-
-  - id: reclus-homeland-humanity
-    title: "Родина и человечество"
-    author: "Элизе Реклю"
-    url: "https://t.me/dilettante_voiceover/417"
-    type: article
-    source: "Прочие источники"
-    status: complete
-    topics: []
-    spotify: "https://open.spotify.com/episode/23dLtHwH5Lgykc21ZNk3I8"
-
-  - id: labadie-what-is-man
-    title: "Что такое человек и весь мир театр"
-    author: "Лоуренс Лабади"
-    url: "https://t.me/dilettante_voiceover/416"
-    type: article
-    source: "Прочие источники"
-    status: complete
-    topics: [individualist-anarchism]
-    spotify: "https://open.spotify.com/episode/3yQkaZy4yAxJwCmX93eZWJ"
-
-  - id: labadie-infantile-radicalism
-    title: "Инфантильный радикализм"
-    author: "Лоуренс Лабади"
-    url: "https://t.me/dilettante_voiceover/415"
-    type: article
-    source: "Прочие источники"
-    status: complete
-    topics: [individualist-anarchism]
-    spotify: "https://open.spotify.com/episode/0qQbpPKvKGPCNIDWTrX9jx"
-
-  - id: anon-security-culture-recipe
-    title: "Уверенность. Отвага. Родство. Доверие. Рецепт культуры безопасности"
-    author: "Аноним"
-    url: "https://t.me/dilettante_voiceover/486"
-    type: article
-    source: "Прочие источники"
-    status: complete
-    topics: [resistance]
-    spotify: "https://open.spotify.com/episode/0G2wrWPtKnhsJLPBCR1qZU"
-
-  - id: kropotkin-are-we-good-enough
-    title: "Достаточно ли мы хороши"
-    author: "Пётр Кропоткин"
-    url: "https://t.me/dilettante_voiceover/496"
-    type: article
-    source: "Прочие источники"
-    status: complete
-    topics: []
-    spotify: "https://open.spotify.com/episode/26nMiZas0GRyWhtBtmQncy"
-
-  - id: markelov-red-book-antifa
-    title: "Красная книга антифа"
-    author: "Станислав Маркелов"
-    url: "https://t.me/dilettante_voiceover/503"
-    type: article
-    source: "Прочие источники"
-    status: complete
-    topics: [history, antifascism]
-    spotify: "https://open.spotify.com/episode/1c95KK6x7QfMbRCiNUtC2W"
-
-  - id: sakhnin-remember-stas
-    title: "Помнить о Стасе"
-    author: "Алексей Сахнин"
-    url: "https://t.me/dilettante_voiceover/505"
-    type: article
-    source: "Прочие источники"
-    status: complete
-    topics: [history, antifascism]
-    spotify: "https://open.spotify.com/episode/1NLgkFbTSNfQsZI6G0MVKC"
-
-  - id: kanavalchik-belarus-anarchism-history
-    title: "История анархического движения Беларуси в первые 10 лет после развала СССР (1992-2002 годы)"
-    author: "Павлюк Коновальчик"
-    url: "https://t.me/dilettante_voiceover/525"
-    type: article
-    source: "Прочие источники"
-    status: complete
-    topics: [history, belarus]
-    spotify: "https://open.spotify.com/episode/4gEGdArIp7l9Zy2z1duJXt"
-
-  # ── Художественные тексты ────────────────────────────────────────────────────
-
-  - id: ukrainka-nadiia
-    title: "Надія"
-    author: "Леся Украинка"
-    url: "https://t.me/dilettante_voiceover/110"
-    type: art
-    status: complete
-    topics: []
-    spotify: "https://open.spotify.com/episode/3nXtpSosfJ2NgLmqJqbEV7"
-
-  - id: nefor-manuscripts
-    title: "Рукописи из шкатулки"
-    author: "Саша «Нефор»"
-    url: "https://t.me/dilettante_voiceover/139"
-    type: art
-    status: complete
-    topics: []
-    spotify: "https://open.spotify.com/episode/7oQwAETVMcaR9fB8GB5p6A"
-
-  - id: george-zapatista-tale
-    title: "Сапатистская сказка: история других"
-    author: "Либертарий Джордж"
-    url: "https://t.me/dilettante_voiceover/167"
-    type: art
-    status: complete
-    topics: []
-    spotify: "https://open.spotify.com/episode/0Ph9cMGOI0fVOYSTtRIeQM"
-
-  - id: cortazar-occupied-house
-    title: "Захваченный дом"
-    author: "Хулио Кортасар"
-    url: "https://t.me/dilettante_voiceover/203"
-    type: art
-    status: complete
-    topics: []
-    spotify: "https://open.spotify.com/episode/0mjKe1cTij9XmwpFICtE3u"
-
-  - id: gordins-why
-    title: "Почему?"
-    author: "Братья Гордины"
-    url: "https://t.me/dilettante_voiceover/354"
-    type: art
-    status: complete
-    topics: []
-    spotify: "https://open.spotify.com/episode/3OkHx0ZJpurUHcGpZboB3G"
-
-  - id: agamalova-poems
-    title: "Избранные стихотворения"
-    author: "Лолита Агамалова"
-    url: "https://t.me/dilettante_voiceover/452"
-    type: art
-    status: complete
-    topics: [feminism]
-    spotify: "https://open.spotify.com/episode/6Oc2T5RRzIFJVMBk5zlcDf"
-
-  - id: lesbian-poetry
-    title: "Лесбийская поэзия"
-    author: "Сапфо, София Парнок, Одри Лорд, Джун Джордан"
-    url: "https://t.me/dilettante_voiceover/448"
-    type: art
-    status: complete
-    topics: [feminism]
-    spotify: "https://open.spotify.com/playlist/2ctRRzWQ9Owt7SaWKWq0q7"
-
-  - id: poetry-collection
-    title: "Поэзия последнего времени. Сборник"
-    author: ~
-    type: art
-    status: complete
-    topics: [antimilitarism]
-    spotify: "https://open.spotify.com/playlist/2zfKSqyj4d7sypg5JP32O2"
-
-  # ── Исторические источники ───────────────────────────────────────────────────
-
-  - id: makhno-first-order
-    title: "Первый приказ Нестора Махно"
-    author: "Нестор Махно"
-    url: "https://t.me/dilettante_voiceover/226"
-    type: history
-    status: complete
-    topics: [history, makhno]
-    spotify: "https://open.spotify.com/episode/6RX1yZfqgOm8LwHmqQmA0C"
-
-  - id: ivanova-autobiography
-    title: "Автобиография"
-    author: "С.А. Иванова-Борейшо"
-    url: "https://t.me/dilettante_voiceover/376"
-    type: history
-    status: complete
-    topics: [feminism, history]
-    spotify: "https://open.spotify.com/episode/60myYkUYW5rV2FT6AIQb6L"
-
-  - id: ivanova-first-printing
-    title: "Первая типография народной воли"
-    author: "С.А. Иванова-Борейшо"
-    url: "https://t.me/dilettante_voiceover/363"
-    type: history
-    status: complete
-    topics: [history]
-    spotify: "https://open.spotify.com/episode/5ONmIyHFvLG1fFyNYwtk2U"
-
-  - id: borovoy-anarchist-manifesto
-    title: "Анархический манифест"
-    author: "Алексей Боровой"
-    url: "https://t.me/dilettante_voiceover/337"
-    type: history
-    status: complete
-    topics: [history]
-    spotify: "https://open.spotify.com/episode/0DtnDsWV07FDh7Zg38sIMa"
+- id: gelderlos-nonviolence
+  title: Как ненасилие защищает государство
+  author: Питер Гелдерлоос
+  author_id: gelderloos
+  url: https://t.me/dilettante_voiceover/171
+  type: book
+  status: complete
+  topics:
+  - likbez
+  - resistance
+  spotify: https://open.spotify.com/playlist/6YHafcm6EsmF1KTN1pK0Yg
+  ia_id: dv-gelderlos-nonviolence
+  cover: https://ia600705.us.archive.org/15/items/dv-gelderlos-nonviolence/p-g-piter-gelderloos-kak-nenasilie-zaschischaet-go-1.jpg
+- id: anarchy-works-russian-history
+  title: Анархия работает. Примеры из истории России
+  author: null
+  author_id: null
+  url: https://t.me/dilettante_voiceover/3
+  type: book
+  status: complete
+  topics:
+  - history
+  spotify: https://open.spotify.com/playlist/4MJxrrvtpXlre13E6BItMB
+  ia_id: dv-anarchy-works
+  cover: null
+- id: malatesta-ten-talks
+  title: Десять бесед об анархизме
+  author: Эррико Малатеста
+  author_id: malatesta
+  url: https://t.me/dilettante_voiceover/145
+  type: book
+  status: complete
+  topics:
+  - likbez
+  spotify: https://open.spotify.com/episode/50RBA8rrxY3Y9sBkrBrSfm
+  ia_id: dv-malatesta-ten-talks
+  cover: null
+- id: gelderlos-prison
+  title: Тюрьма
+  author: Питер Гелдерлоос
+  author_id: gelderloos
+  url: https://t.me/dilettante_voiceover/252
+  type: book
+  status: complete
+  topics:
+  - prison
+  spotify: https://open.spotify.com/playlist/49XXP1htvEFrYKvmGRggXu
+  ia_id: dv-gelderlos-prison
+  cover: null
+- id: black-abolition-work
+  title: Упразднение работы
+  author: Боб Блэк
+  author_id: black
+  url: https://t.me/dilettante_voiceover/90
+  type: book
+  status: complete
+  topics:
+  - labor
+  spotify: https://open.spotify.com/episode/1e2DP77WqmA8LlIA4vbPUJ
+  ia_id: dv-black-abolition-work
+  cover: null
+- id: dedok-parallel-world
+  title: Цвета параллельного мира
+  author: Николай Дедок
+  author_id: dedok
+  url: https://t.me/dilettante_voiceover/346
+  type: book
+  status: complete
+  topics:
+  - prison
+  spotify: https://open.spotify.com/episode/59vBsacltv60fOgHYTwSdX
+  ia_id: dv-dedok-parallel-world
+  cover: null
+- id: ward-anarchism-intro
+  title: 'Анархизм: очень краткое введение'
+  author: Колин Вард
+  author_id: ward
+  url: https://t.me/dilettante_voiceover/517
+  type: book
+  status: complete
+  topics:
+  - likbez
+  spotify: https://open.spotify.com/episode/2dlOd9RHi3dnNVQhA2tEa3
+  ia_id: dv-ward-anarchism-intro
+  cover: null
+- id: pustunya
+  title: Пустыня
+  author: Аноним
+  author_id: null
+  type: book
+  status: complete
+  topics:
+  - ecology
+  - anarcho-primitivism
+  spotify: https://open.spotify.com/playlist/5e7bCzUjt7DK8JWXomKmW2
+  ia_id: dv-pustunya
+  cover: null
+  chapters:
+  - title: 1. (Глобального) будущего нет
+    url: https://t.me/dilettante_voiceover/475
+  - title: 2. Всё намного запущеннее, чем мы думали
+    url: https://t.me/dilettante_voiceover/476
+  - title: 3. Бури в пустыне
+    url: https://t.me/dilettante_voiceover/478
+  - title: 4. Африканские пути к анархии
+    url: https://t.me/dilettante_voiceover/483
+  - title: 5. Цивилизация отступает, дикость остается
+    url: https://t.me/dilettante_voiceover/485
+  - title: 6. Возвращение Terror-nullius
+    url: https://t.me/dilettante_voiceover/492
+  - title: 7. Конвергенция и новое городское большинство
+    url: https://t.me/dilettante_voiceover/507
+  - title: 8. Сохранение природы в условиях перемен
+    url: https://t.me/dilettante_voiceover/519
+  - title: 9. Анархисты за стенами
+    url: https://t.me/dilettante_voiceover/526
+  - title: 10. Пустыня
+    url: https://t.me/dilettante_voiceover/527
+- id: golodnaya-step
+  title: Голодная степь
+  author: Сара Камерон
+  author_id: cameron
+  type: book
+  status: complete
+  topics:
+  - history
+  spotify: https://open.spotify.com/playlist/6wIGYax83Fsr280lNr1aXB
+  ia_id: dv-golodnaya-step
+  cover: https://ia800401.us.archive.org/4/items/dv-golodnaya-step/81G06v5DZkL._UF1000%2C1000_QL80_.jpg
+  chapters:
+  - title: Введение часть 1
+    url: https://t.me/dilettante_voiceover/247
+  - title: Введение часть 2
+    url: https://t.me/dilettante_voiceover/455
+  - title: Глава 1
+    url: https://t.me/dilettante_voiceover/458
+  - title: Глава 2
+    url: https://t.me/dilettante_voiceover/471
+  - title: Глава 3
+    url: https://t.me/dilettante_voiceover/472
+  - title: Глава 4
+    url: https://t.me/dilettante_voiceover/484
+  - title: Глава 5
+    url: https://t.me/dilettante_voiceover/498
+  - title: Глава 6
+    url: https://t.me/dilettante_voiceover/509
+  - title: Заключение и эпилог
+    url: https://t.me/dilettante_voiceover/510
+- id: glushakov-revolution-is-dead
+  title: Революция умерла! Да здравствует революция!
+  author: Юрий Глушаков
+  author_id: glushakov
+  type: book
+  status: complete
+  topics:
+  - history
+  - belarus
+  spotify: https://open.spotify.com/playlist/4gSBjACmA2C4Jjg3NPg7al
+  ia_id: dv-glushakov-belarus
+  cover: null
+  chapters:
+  - title: Введение
+    url: https://t.me/dilettante_voiceover/264
+  - title: Глава 1. Накануне. Возникновение и деятельность анархо-коммунистических
+      групп в 1903—1904 гг.
+    url: https://t.me/dilettante_voiceover/269
+  - title: Глава 2. Первая революция. На гребне волны. 1905—1907 гг.
+    parts:
+    - label: Глава 2 (1, 2)
+      url: https://t.me/dilettante_voiceover/340
+    - label: Глава 2 (3)
+      url: https://t.me/dilettante_voiceover/342
+    - label: Глава 2 (4. Деятельность анархистов за пределами Белостока)
+      url: https://t.me/dilettante_voiceover/344
+    - label: Глава 2 (5, 6, 7)
+      url: https://t.me/dilettante_voiceover/348
+  - title: Глава 3. Отступление. 1907—1917 гг.
+    url: https://t.me/dilettante_voiceover/356
+  - title: Глава 4. На переломе эпох. 1917—1921 гг.
+    parts:
+    - label: Глава 4 (1)
+      url: https://t.me/dilettante_voiceover/368
+    - label: Глава 4 (2)
+      url: https://t.me/dilettante_voiceover/373
+  - title: Глава 5. Новое время. Анархизм в советской Беларуси (1921—1927 гг.)
+    parts:
+    - label: Глава 5 (1)
+      url: https://t.me/dilettante_voiceover/375
+    - label: Глава 5 (2)
+      url: https://t.me/dilettante_voiceover/379
+    - label: Глава 5 (3)
+      url: https://t.me/dilettante_voiceover/387
+    - label: Глава 5 (4)
+      url: https://t.me/dilettante_voiceover/389
+    - label: Глава 5 (5)
+      url: https://t.me/dilettante_voiceover/390
+- id: crimethinc-fighting-for-our-lives
+  title: Борьба за наши жизни
+  author: Crimethinc
+  author_id: crimethinc
+  type: book
+  status: complete
+  source: Crimethinc
+  topics:
+  - likbez
+  - resistance
+  spotify: https://open.spotify.com/playlist/1ez1xRzdPq7VV7uM4QwB0g
+  ia_id: dv-crimethinc-fighting-for-our-lives
+  cover: null
+  chapters:
+  - title: Часть 1
+    url: https://t.me/dilettante_voiceover/250
+  - title: Часть 2
+    url: https://t.me/dilettante_voiceover/316
+  - title: Часть 3
+    url: https://t.me/dilettante_voiceover/318
+  - title: Часть 4
+    url: https://t.me/dilettante_voiceover/333
+  - title: Часть 5
+    url: https://t.me/dilettante_voiceover/345
+  - title: Часть 6
+    url: https://t.me/dilettante_voiceover/351
+- id: kosovo-gaskarov
+  title: Корреспондент Гаскаров в аду и другие истории
+  author: Петя Косово
+  author_id: kosovo
+  type: book
+  status: complete
+  topics:
+  - prison
+  spotify: https://open.spotify.com/playlist/3GQV5R3ESL9e3p7gGDQFNV
+  ia_id: dv-kosovo-gaskarov
+  cover: null
+  chapters:
+  - title: Предисловие
+    url: https://t.me/dilettante_voiceover/212
+  - title: Каждый имеет право на свои 15 минут силы
+    url: https://t.me/dilettante_voiceover/223
+  - title: В зазеркалье и в аду
+    url: https://t.me/dilettante_voiceover/246
+  - title: Вознестись в сиянии (часть 1)
+    url: https://t.me/dilettante_voiceover/283
+  - title: Вознестись в сиянии (часть 2)
+    url: https://t.me/dilettante_voiceover/298
+  - title: Вознестись в сиянии (часть 3)
+    url: https://t.me/dilettante_voiceover/396
+  - title: Оксана Челышева – Воздух несвободы
+    url: https://t.me/dilettante_voiceover/386
+  - title: Как я в Интерпол ходил
+    url: https://t.me/dilettante_voiceover/405
+  - title: Петр - Октавио - Барселона
+    url: https://t.me/dilettante_voiceover/399
+  - title: Ребята, по-другому не бывает
+    url: https://t.me/dilettante_voiceover/403
+  - title: Центр Экстремизма
+    url: https://t.me/dilettante_voiceover/438
+  - title: Обезглавлено крыло антифашистов
+    url: https://t.me/dilettante_voiceover/438
+  - title: Смерть в лимбе
+    url: https://t.me/dilettante_voiceover/412
+  - title: Прощай, балабол, или кого похоронил openspace.ru
+    url: https://t.me/dilettante_voiceover/401
+  - title: Фекальная экономика и синьор Пук-Пук
+    url: https://t.me/dilettante_voiceover/421
+  - title: Анатомия богача
+    url: https://t.me/dilettante_voiceover/410
+  - title: Фемические суды и грунтовые монстры
+    url: https://t.me/dilettante_voiceover/402
+  - title: Демократы с травматами
+    url: https://t.me/dilettante_voiceover/398
+  - title: Не подавать руки
+    url: https://t.me/dilettante_voiceover/397
+- id: moya-oborona
+  title: 'Моя оборона. Сексуальное насилие: мифы и факты'
+  author: null
+  author_id: null
+  type: book
+  status: complete
+  topics:
+  - feminism
+  spotify: https://open.spotify.com/playlist/4riumxevA439G1Rqf3Eypd
+  ia_id: dv-moya-oborona
+  cover: null
+  chapters:
+  - title: Предисловие
+    url: https://t.me/dilettante_voiceover/427
+    spotify: https://open.spotify.com/episode/3zy1cYJkypqXceVNHxszo4
+  - title: Мы делаем вид, будто этого нет. Лиза Меламед
+    url: https://t.me/dilettante_voiceover/432
+    spotify: https://open.spotify.com/episode/15mjmMUrqgHB8RhsJUy20S
+  - title: 'В полиции говорят: «Подумаешь, ничего же не произошло». Павел Никулин'
+    url: https://t.me/dilettante_voiceover/433
+    spotify: https://open.spotify.com/episode/5AWdQBnDvNaH98LIeaRKo3
+  - title: 'Сексуальное насилие: мифы и факты. Мария Мохова'
+    url: https://t.me/dilettante_voiceover/435
+    spotify: https://open.spotify.com/episode/4yLZN9Fgx4wAiZz9iSED7J
+  - title: 'Моя оборона: как не сесть, защищая себя? Анна Жавнерович, Алиса Хохлова'
+    url: https://t.me/dilettante_voiceover/441
+    spotify: https://open.spotify.com/episode/2zDvND8U2soMUTeGCDhXZS
+  - title: Моя история о том, как я справлялась с ПТСР после изнасилования. Елена
+      Ливанова
+    url: https://t.me/dilettante_voiceover/443
+    spotify: https://open.spotify.com/episode/5QeDNlCy8rkD7CJHZ32UgB
+  - title: О проблеме домашнего и сексуального насилия. Светлана Толстова
+    url: https://t.me/dilettante_voiceover/444
+    spotify: https://open.spotify.com/episode/7kVuMoI7qi9rMxaZdO7ojU
+  - title: Влияние реакции окружения на развитие посттравматической симптоматики.
+      Марина Миронова
+    url: https://t.me/dilettante_voiceover/445
+    spotify: https://open.spotify.com/episode/0RVz24x2R0LXMRAcGaV8nE
+  - title: О центре «Сестры» и приложении «Насилию.нет»
+    url: https://t.me/dilettante_voiceover/446
+    spotify: https://open.spotify.com/episode/43SiL92SttclMzv8ul0ec7
+- id: gelderlos-anarchy-works
+  ia_id: dv-gelderlos-anarchy-works
+  title: Анархия Работает
+  author: Питер Гелдерлоос
+  author_id: gelderloos
+  type: book_excerpt
+  source: Анархия Работает
+  status: complete
+  topics:
+  - economy
+  spotify: https://open.spotify.com/playlist/1FbTAyBprXb7F4B763iRIk
+  chapters:
+  - title: Экономика. Часть 1
+    url: https://t.me/dilettante_voiceover/219
+  - title: Экономика. Часть 2
+    url: https://t.me/dilettante_voiceover/222
+  - title: Экономика. Часть 3
+    url: https://t.me/dilettante_voiceover/230
+  - title: Экономика. Часть 4
+    url: https://t.me/dilettante_voiceover/236
+- id: carson-iron-fist
+  ia_id: dv-carson-iron-fist
+  title: Железный кулак и тупость институций
+  author: Кевин Карсон
+  author_id: carson
+  url: https://t.me/dilettante_voiceover/477
+  type: book_excerpt
+  source: Железный кулак и тупость институций
+  status: complete
+  topics:
+  - labor
+  - individualist-anarchism
+  spotify: https://open.spotify.com/episode/5VBCIFR67sinElzkgUhz00
+- id: gapova--nations-classes
+  ia_id: dv-gapova-gender-nation
+  title: Классы наций. Феминистская критика нациостроительства
+  author: Елена Гапова
+  author_id: gapova
+  type: book_excerpt
+  source: Классы наций. Феминистская критика нациостроительства
+  status: complete
+  hasChapters: true
+  spotify: https://open.spotify.com/playlist/2x9LVAVwVlZ5ssUJmYho9p
+  topics:
+  - feminism
+  - history
+  - belarus
+  chapters:
+  - title: Любовь как революция, или «несмотря на Грамши» Полуты Бодуновой
+    url: https://t.me/dilettante_voiceover/131
+  - title: О гендере, нации и классе в посткоммунизме
+    url: https://t.me/dilettante_voiceover/239
+- id: richards-orwell-humanist
+  ia_id: dv-richards-orwell-humanist
+  title: Оруэлл в семейном кругу и в среде анархистов. Оруэлл-гуманист
+  author: Вернон Ричардс
+  author_id: richards
+  url: https://t.me/dilettante_voiceover/273
+  type: book_excerpt
+  source: Оруэлл в семейном кругу и в среде анархистов
+  status: complete
+  topics:
+  - history
+  spotify: https://open.spotify.com/episode/2Ossx15VMbZ7nYXK6rKrhF
+- id: kunz-chapter3
+  ia_id: dv-kunz-chapter3
+  title: Совесть нацистов. Глава 3. Союзники в академии. Философия Киттеля
+  author: Клаудия Кунц
+  author_id: kunz
+  url: https://t.me/dilettante_voiceover/67
+  type: book_excerpt
+  source: Совесть нацистов
+  status: complete
+  topics:
+  - history
+  - antifascism
+  spotify: https://open.spotify.com/episode/5WelU8LC9Y4rctLuabL7Ry
+- id: gilligan-snyder-patriarchy
+  ia_id: dv-gilligan-snyder-patriarchy
+  title: Почему патриархат всё ещё существует?
+  author: Кэрол Гиллиган, Наоми Снайдер
+  author_id:
+  - gilligan
+  - snyder-n
+  type: book_excerpt
+  status: complete
+  topics:
+  - feminism
+  spotify: https://open.spotify.com/playlist/62KRm786FVlgvv93zhprXf
+  chapters:
+  - title: Введение
+    url: https://t.me/dilettante_voiceover/45
+  - title: Глава 1. Загадка
+    url: https://t.me/dilettante_voiceover/55
+  - title: 'Первая подсказка: связь с утратой'
+    url: https://t.me/dilettante_voiceover/58
+  - title: Глава 3. Сопротивление (часть 1)
+    url: https://t.me/dilettante_voiceover/74
+- id: borovoy-anarchism
+  ia_id: dv-borovoy-anarchism
+  title: Анархизм
+  author: Алексей Боровой
+  author_id: borovoy
+  type: book
+  status: in_progress
+  topics:
+  - likbez
+  spotify: null
+  chapters:
+  - title: Предисловие
+    url: https://t.me/dilettante_voiceover/532
+  - title: Глава 1
+    url: https://t.me/dilettante_voiceover/535
+- id: bookchin-future-revolution
+  ia_id: dv-bookchin-future-revolution
+  title: Будущая Революция
+  author: Мюррей Букчин
+  author_id: bookchin
+  type: book
+  status: in_progress
+  topics:
+  - ecology
+  - likbez
+  spotify: null
+  chapters:
+  - title: Коммуналистский проект
+    url: https://t.me/dilettante_voiceover/531
+  - title: Экологический кризис и необходимость переустройства общества
+    url: https://t.me/dilettante_voiceover/534
+- id: scott-art-of-not-being-governed
+  ia_id: dv-scott-art-of-not-being-governed
+  title: Искусство быть неподвластным
+  author: Джеймс Скотт
+  author_id: scott
+  type: book
+  status: in_progress
+  topics:
+  - history
+  - southeast-asia
+  spotify: null
+  chapters:
+  - title: Предисловие
+    url: https://t.me/dilettante_voiceover/511
+  - title: Глава 1
+    url: https://t.me/dilettante_voiceover/529
+  - title: Глава 2
+    url: https://t.me/dilettante_voiceover/537
+- id: torres-making-a-killing
+  ia_id: dv-torres-making-a-killing
+  title: Совершая убийство, или Политическая экономия прав животных
+  author: Боб Торрес
+  author_id: torres
+  type: book
+  status: in_progress
+  topics:
+  - animal-rights
+  - labor
+  spotify: null
+  chapters:
+  - title: Глава I
+    url: https://t.me/dilettante_voiceover/220
+  - title: Глава II
+    url: https://t.me/dilettante_voiceover/238
+- id: astashin-journey
+  ia_id: dv-astashin-journey
+  title: Путешествие по местам лишения
+  author: Иван Асташин
+  author_id: astashin
+  type: book
+  status: in_progress
+  topics:
+  - prison
+  spotify: null
+  chapters:
+  - title: Глава 1
+    url: https://t.me/dilettante_voiceover/266
+  - title: Глава 2
+    url: https://t.me/dilettante_voiceover/268
+  - title: Глава 3
+    url: https://t.me/dilettante_voiceover/291
+  - title: Глава 4
+    url: https://t.me/dilettante_voiceover/293
+  - title: Глава 5
+    url: https://t.me/dilettante_voiceover/296
+  - title: Глава 6
+    url: https://t.me/dilettante_voiceover/317
+  - title: Глава 7
+    url: https://t.me/dilettante_voiceover/353
+  - title: Глава 8
+    url: https://t.me/dilettante_voiceover/424
+  - title: Глава 9
+    url: https://t.me/dilettante_voiceover/430
+- id: falkovski-xinjiang
+  ia_id: dv-falkovski-xinjiang
+  title: По следам Бурхана Шахиди или Синьцзян 50 лет спустя
+  author: Илья Фальковский
+  author_id: falkovsky
+  type: book
+  status: in_progress
+  topics:
+  - history
+  spotify: null
+  chapters:
+  - title: Часть 1. Эпизод 1
+    url: https://t.me/dilettante_voiceover/270
+  - title: Часть 1. Эпизод 2
+    url: https://t.me/dilettante_voiceover/347
+- id: bey-taz
+  ia_id: dv-bey-taz
+  title: Временные автономные зоны
+  author: Хаким Бей (Питер Лэмборн Уилсон)
+  author_id: hakim-bey
+  type: book
+  status: in_progress
+  topics:
+  - post-anarchism
+  spotify: null
+  chapters:
+  - title: Пиратские утопии
+    url: https://t.me/dilettante_voiceover/466
+  - title: В ожидании революции
+    url: https://t.me/dilettante_voiceover/467
+  - title: Музыка как организующий принцип
+    url: https://t.me/dilettante_voiceover/489
+  - title: Психотопология повседневности
+    url: https://t.me/dilettante_voiceover/512
+  - title: Ушли на Кроатоан
+    url: https://t.me/dilettante_voiceover/513
+  - title: Воля к власти как исчезновение
+    url: https://t.me/dilettante_voiceover/533
+- id: dubovyk-makhno-economy
+  ia_id: dv-dubovyk-makhno-economy
+  title: Экономика махновщины
+  author: Анатолий Дубовик
+  author_id: dubovyk
+  url: https://t.me/dilettante_voiceover/130
+  type: article
+  source: Akrateia
+  status: complete
+  topics:
+  - history
+  - makhno
+  spotify: https://open.spotify.com/episode/78Z1dO7F9EBGT7g9WIIGQa
+- id: dubovyk-makhno-amnesty-thanks
+  ia_id: dv-dubovyk-makhno-amnesty-thanks
+  title: «Поблагодарили за борьбу против белых, а потом расстреляли». Конец союза
+    красных и Махно
+  author: Анатолий Дубовик
+  author_id: dubovyk
+  url: https://t.me/dilettante_voiceover/227
+  type: article
+  source: Akrateia
+  status: complete
+  topics:
+  - history
+  - makhno
+  spotify: https://open.spotify.com/episode/3ZGwpf9SfTjvmDj7io4ZVs
+- id: dubovyk-makhno-amnesty-false
+  ia_id: dv-dubovyk-makhno-amnesty-false
+  title: Обманчивая амнистия. Как чекисты уничтожали махновцев, добровольно сложивших
+    оружие
+  author: Анатолий Дубовик
+  author_id: dubovyk
+  url: https://t.me/dilettante_voiceover/237
+  type: article
+  source: Akrateia
+  status: complete
+  topics:
+  - history
+  - makhno
+  spotify: https://open.spotify.com/episode/3CgURy293aQ3e8kTX3IicF
+- id: leeder-anarchofeminism
+  ia_id: dv-leeder-anarchofeminism
+  title: Анархо-феминизм
+  author: Элейн Лиидэр
+  author_id: liider
+  url: https://t.me/dilettante_voiceover/179
+  type: article
+  source: Akrateia
+  status: complete
+  topics:
+  - feminism
+  spotify: https://open.spotify.com/episode/3kratiHUBlDTeQn6sTthEY
+- id: rakhmaninova-weil
+  ia_id: dv-rakhmaninova-weil
+  title: Апофатический анархизм Симоны Вейль
+  author: Мария Рахманинова
+  author_id: rakhmaninova
+  url: https://t.me/dilettante_voiceover/180
+  type: article
+  source: Akrateia
+  status: complete
+  topics:
+  - history
+  spotify: https://open.spotify.com/episode/1TEG3B4mPMSAk8OjKQdrcd
+- id: eichner-michel-colonialism
+  ia_id: dv-eichner-michel-colonialism
+  title: 'Язык империализма и язык освобождения: Луиза Мишель и колониальные отношения
+    между французами и канаками'
+  author: Каролин Дж. Эйхнер
+  author_id: eichner
+  url: https://t.me/dilettante_voiceover/183
+  type: article
+  source: Akrateia
+  status: complete
+  topics:
+  - feminism
+  - history
+  spotify: https://open.spotify.com/episode/0xjvMMI4BadDZJ9znKgbDT
+- id: basf-bangladesh
+  ia_id: dv-basf-bangladesh
+  title: 'Работницы чайных плантаций в Бангладеш: больше работы, меньше жизни'
+  author: BASF
+  author_id: basf
+  url: https://t.me/dilettante_voiceover/187
+  type: article
+  source: Akrateia
+  status: complete
+  topics:
+  - labor
+  - southeast-asia
+  spotify: https://open.spotify.com/episode/4ZerTuxVmSPKKRolh45q7x
+- id: de-cleyre-paris-commune-akrateia
+  ia_id: dv-de-cleyre-paris-commune-akrateia
+  title: Парижская коммуна (из записей Вольтерины де Клер)
+  author: Вольтерина де Клер
+  author_id: de-cleyre
+  url: https://t.me/dilettante_voiceover/107
+  type: article
+  source: Akrateia
+  status: complete
+  topics:
+  - history
+  spotify: https://open.spotify.com/episode/1g1Z7TEM7Wx530yjDMwE38
+- id: gorbunov-zapatistas
+  ia_id: dv-gorbunov-zapatistas
+  title: «Править подчиняясь». Как устроено сапатистское самоуправление?
+  author: Валентин Горбунов
+  author_id: gorbunov-v
+  url: https://t.me/dilettante_voiceover/161
+  type: article
+  source: Akrateia
+  status: complete
+  topics:
+  - history
+  spotify: https://open.spotify.com/episode/1ZXKzI3NxTCXntmhGJuidd
+- id: dubovyk-nikiforova
+  ia_id: dv-dubovyk-nikiforova
+  title: 'Мария Никифорова: жизнь и смерть анархистки'
+  author: Анатолий Дубовик
+  author_id: dubovyk
+  url: https://t.me/dilettante_voiceover/265
+  type: article
+  source: Akrateia
+  status: complete
+  topics:
+  - feminism
+  - history
+  - makhno
+  spotify: https://open.spotify.com/episode/7D3FeoYtWuQ6NyioZbvxEd
+- id: collectivization-catalonia
+  ia_id: dv-collectivization-catalonia
+  title: Коллективизация в Каталонии
+  author: null
+  url: https://t.me/dilettante_voiceover/284
+  type: article
+  source: Akrateia
+  status: complete
+  topics:
+  - history
+  - labor
+  spotify: https://open.spotify.com/episode/5JeRVuEn8AbDA7hCjiTY8j
+- id: dubovyk-directions-anarchism
+  ia_id: dv-dubovyk-directions-anarchism
+  title: 'Неактуальная тема: о направлениях анархизма'
+  author: Анатолий Дубовик
+  author_id: dubovyk
+  url: https://t.me/dilettante_voiceover/384
+  type: article
+  source: Akrateia
+  status: complete
+  topics:
+  - likbez
+  spotify: https://open.spotify.com/episode/3lbFxLiD3uEkTbM8PqyvxF
+- id: barmalei-slaughterhouse-excerpt
+  ia_id: dv-barmalei-slaughterhouse-excerpt
+  title: Бойня (отрывок)
+  author: Бармалеи/Партизаны
+  author_id: barmalei
+  url: https://t.me/dilettante_voiceover/185
+  type: article
+  source: Бармалеи/Партизаны
+  status: complete
+  topics:
+  - history
+  - antimilitarism
+  spotify: https://open.spotify.com/episode/0wACsR1pCRrijddBb2erM2
+- id: barmalei-slaughterhouse-timor
+  ia_id: dv-barmalei-slaughterhouse-timor
+  title: 'Бойня. Тимор: независимость и оккупация'
+  author: Бармалеи/Партизаны
+  author_id: barmalei
+  url: https://t.me/dilettante_voiceover/193
+  type: article
+  source: Бармалеи/Партизаны
+  status: complete
+  topics:
+  - history
+  - antimilitarism
+  - southeast-asia
+  spotify: https://open.spotify.com/episode/7Hfam4cXxHQjGNWhC8Holk
+- id: barmalei-nuremberg
+  ia_id: dv-barmalei-nuremberg
+  title: Дорога в Нюрнберг
+  author: Бармалеи/Партизаны
+  author_id: barmalei
+  url: https://t.me/dilettante_voiceover/188
+  type: article
+  source: Бармалеи/Партизаны
+  status: complete
+  topics:
+  - history
+  - antifascism
+  spotify: https://open.spotify.com/episode/4Ru9MqUIC6ITI2m57YA1PH
+- id: barmalei-miners
+  ia_id: dv-barmalei-miners
+  title: 'Шахтеры и Железная леди: кто сильней?'
+  author: Бармалеи/Партизаны
+  author_id: barmalei
+  url: https://t.me/dilettante_voiceover/208
+  type: article
+  source: Бармалеи/Партизаны
+  status: complete
+  topics:
+  - labor
+  - history
+  spotify: https://open.spotify.com/episode/42AoZT4d4u52B7lcY4TWGu
+- id: barmalei-africa-coups
+  ia_id: dv-barmalei-africa-coups
+  title: Эпидемия Африканских переворотов
+  author: Бармалеи/Партизаны
+  author_id: barmalei
+  url: https://t.me/dilettante_voiceover/210
+  type: article
+  source: Бармалеи/Партизаны
+  status: complete
+  topics:
+  - history
+  spotify: https://open.spotify.com/episode/6N9Kg37Hm0QUyNtLzT4wqK
+- id: barmalei-alf
+  ia_id: dv-barmalei-alf
+  title: Animal Liberation Front (ALF)
+  author: Бармалеи/Партизаны
+  author_id: barmalei
+  url: https://t.me/dilettante_voiceover/217
+  type: article
+  source: Бармалеи/Партизаны
+  status: complete
+  topics:
+  - animal-rights
+  - resistance
+  spotify: https://open.spotify.com/episode/4oMTdQtoYsatzMEjvV7gbc
+- id: barmalei-dictators-die
+  ia_id: dv-barmalei-dictators-die
+  title: Как умирают диктаторы
+  author: Бармалеи/Партизаны
+  author_id: barmalei
+  url: https://t.me/dilettante_voiceover/280
+  type: article
+  source: Бармалеи/Партизаны
+  status: complete
+  topics:
+  - history
+  spotify: https://open.spotify.com/episode/2Y5lPZrEj0NVg5fGZDUlXS
+- id: barmalei-student-resistance
+  ia_id: dv-barmalei-student-resistance
+  title: Студенческое сопротивление диктатуре в Аргентине и Греции
+  author: Бармалеи/Партизаны
+  author_id: barmalei
+  url: https://t.me/dilettante_voiceover/278
+  type: article
+  source: Бармалеи/Партизаны
+  status: complete
+  topics:
+  - history
+  - antimilitarism
+  - resistance
+  spotify: https://open.spotify.com/playlist/2FrAiFEahfptrkcjXU3CXv
+- id: crimethinc-security-culture
+  ia_id: dv-crimethinc-security-culture
+  title: Что такое культура безопасности
+  author: Crimethinc
+  author_id: crimethinc
+  url: https://t.me/dilettante_voiceover/479
+  type: article
+  source: Crimethinc
+  status: complete
+  topics:
+  - likbez
+  - resistance
+  spotify: https://open.spotify.com/episode/0lREJa7SEqw92eSijaJ5km
+- id: fiscella-anarcho-islam
+  ia_id: dv-fiscella-anarcho-islam
+  title: Анархо-Ислам
+  author: Энтони Т. Фискелла
+  author_id: fiskella
+  url: https://t.me/dilettante_voiceover/229
+  type: article
+  source: Прочие источники
+  status: complete
+  topics:
+  - religious-anarchism
+  spotify: https://open.spotify.com/episode/69UNHCtbg8TAmz0x6LJold
+- id: snyder-anarcho-buddhism
+  ia_id: dv-snyder-anarcho-buddhism
+  title: Анархо-буддизм
+  author: Гэри Снайдер
+  author_id: snyder
+  url: https://t.me/dilettante_voiceover/262
+  type: article
+  source: Прочие источники
+  status: complete
+  topics:
+  - religious-anarchism
+  spotify: https://open.spotify.com/episode/0Hboy6PfXOdZ4cof1Gv79N
+- id: myths-che-guevara
+  ia_id: dv-myths-che-guevara
+  title: 'Мифы и легенды: Че Гевара'
+  author: null
+  url: https://t.me/dilettante_voiceover/80
+  type: article
+  source: Прочие источники
+  status: complete
+  topics:
+  - history
+  spotify: https://open.spotify.com/episode/3SrvM1M954inNPxvaoIdHk
+- id: podshivalov-chicago-martyrs
+  ia_id: dv-podshivalov-chicago-martyrs
+  title: Чикагские мученики
+  author: Игорь Подшивалов
+  author_id: podshivalov
+  url: https://t.me/dilettante_voiceover/103
+  type: article
+  source: Прочие источники
+  status: complete
+  topics:
+  - labor
+  - history
+  spotify: https://open.spotify.com/episode/5ILeQDEOcSD3HLuE3ss3zA
+- id: anarchism-japan
+  ia_id: dv-anarchism-japan
+  title: Анархизм в Японии (о Фумико Канеко, Ито Ноэ, Кано Суга)
+  author: null
+  url: https://t.me/dilettante_voiceover/71
+  type: article
+  source: Прочие источники
+  status: complete
+  topics:
+  - feminism
+  - history
+  - japan
+  spotify: https://open.spotify.com/playlist/2PdGasmwoaHoETxfKbrQ2e
+- id: kaneko-biography
+  ia_id: dv-kaneko-biography
+  title: Биография Канеко Фумико
+  author: null
+  url: https://t.me/dilettante_voiceover/186
+  type: article
+  source: Прочие источники
+  status: complete
+  topics:
+  - feminism
+  - history
+  - japan
+  spotify: https://open.spotify.com/episode/49OVN0LTHpOIdg6fucr1Dj
+- id: mann-animal-liberation-history
+  ia_id: dv-mann-animal-liberation-history
+  title: История движения за освобождение животных
+  author: Кит Манн
+  author_id: mann
+  url: https://t.me/dilettante_voiceover/111
+  type: article
+  source: Прочие источники
+  status: complete
+  topics:
+  - animal-rights
+  - history
+  spotify: https://open.spotify.com/episode/13K0r9ZHo3OeHSuW0FJl39
+- id: podshivalov-zhanna-darc
+  ia_id: dv-podshivalov-zhanna-darc
+  title: Жанна д'Арк сибирской контрреволюции
+  author: Игорь Подшивалов
+  author_id: podshivalov
+  url: https://t.me/dilettante_voiceover/113
+  type: article
+  source: Прочие источники
+  status: complete
+  topics:
+  - history
+  - feminism
+  spotify: https://open.spotify.com/episode/182710ZxPdmTghv1R5KCQk
+- id: piper-women-pinochet
+  ia_id: dv-piper-women-pinochet
+  title: Женское сопротивление диктатуре Пиночета
+  author: Ядвига Пипер-Муни
+  author_id: piper-mooney
+  url: https://t.me/dilettante_voiceover/123
+  type: article
+  source: Прочие источники
+  status: complete
+  topics:
+  - feminism
+  - history
+  - antimilitarism
+  - resistance
+  spotify: https://open.spotify.com/episode/0DoCVvjG3jVl4HOF3FYFDq
+- id: foer-eating-animals
+  ia_id: dv-foer-eating-animals
+  title: Eating Animals
+  author: Джонатан Фоер
+  author_id: foer
+  url: https://t.me/dilettante_voiceover/126
+  type: article
+  source: Прочие источники
+  status: complete
+  topics:
+  - animal-rights
+  spotify: https://open.spotify.com/episode/5LJfonPU4lcpjm4hhYqRn2
+- id: hugsson-harry-potter-animals
+  ia_id: dv-hugsson-harry-potter-animals
+  title: Забота о «магических» существах? Моральная оценка литературного тропа «Любитель
+    животных» в Гарри Поттере
+  author: Анника Хьюгссон
+  author_id: hjugsson
+  url: https://t.me/dilettante_voiceover/141
+  type: article
+  source: Прочие источники
+  status: complete
+  topics:
+  - animal-rights
+  spotify: https://open.spotify.com/episode/4Bw2TxCzfcZnonScqIovMc
+- id: dominick-animal-liberation-revolution
+  ia_id: dv-dominick-animal-liberation-revolution
+  title: Освобождение животных и социальная революция
+  author: Брайн А. Доминик
+  author_id: dominic
+  url: https://t.me/dilettante_voiceover/201
+  type: article
+  source: Прочие источники
+  status: complete
+  topics:
+  - animal-rights
+  spotify: https://open.spotify.com/episode/5sOeH8Uc4M270NB0JaJzHs
+- id: khromyi-individualism-socialism
+  ia_id: dv-khromyi-individualism-socialism
+  title: Индивидуализм и социализм
+  author: Денис Хромый
+  author_id: khromyy
+  url: https://t.me/dilettante_voiceover/191
+  type: article
+  source: Прочие источники
+  status: complete
+  topics:
+  - individualist-anarchism
+  spotify: https://open.spotify.com/episode/0orj2Rusp5ku7KxPMVh9k2
+- id: podshivalov-betrayed-revolution
+  ia_id: dv-podshivalov-betrayed-revolution
+  title: Преданная революция
+  author: Игорь Подшивалов
+  author_id: podshivalov
+  url: https://t.me/dilettante_voiceover/119
+  type: article
+  source: Прочие источники
+  status: complete
+  topics:
+  - history
+  spotify: https://open.spotify.com/episode/5mEY4wvv1uFDYDKvbVjzn3
+- id: budnitsky-men-women-red-army
+  ia_id: dv-budnitsky-men-women-red-army
+  title: Мужчины и женщины в Красной армии
+  author: Олег Будницкий
+  author_id: budnitsky
+  url: https://t.me/dilettante_voiceover/194
+  type: article
+  source: Прочие источники
+  status: complete
+  topics:
+  - feminism
+  - history
+  spotify: https://open.spotify.com/episode/2hqiLaEiJCjXKxHfUKnwQN
+- id: maltsberger-hostility-suicide
+  ia_id: dv-maltsberger-hostility-suicide
+  title: Клиническое исследование роли враждебности и пожеланий смерти со стороны
+    семьи и общества при суицидальных попытках
+  author: Джон Молтсбергер
+  author_id: moltsberger
+  url: https://t.me/dilettante_voiceover/62
+  type: article
+  source: Прочие источники
+  status: complete
+  topics:
+  - prison
+  - suicide
+  spotify: https://open.spotify.com/episode/2nvQ13VyJPhQSLcqHK1zzc
+- id: maltsberger-suicide-risk
+  ia_id: dv-maltsberger-suicide-risk
+  title: 'Опасность самоубийства: клиническая оценка и принятие решений'
+  author: Джон Молтсбергер
+  author_id: moltsberger
+  url: https://t.me/dilettante_voiceover/206
+  type: article
+  source: Прочие источники
+  status: complete
+  topics:
+  - prison
+  - suicide
+  spotify: https://open.spotify.com/episode/0tJV6Bcfs1ovZ0ik7PAgvP
+- id: nechaev-catechism
+  ia_id: dv-nechaev-catechism
+  title: Катехизис революционера
+  author: Сергей Нечаев
+  author_id: nechaev
+  url: https://t.me/dilettante_voiceover/218
+  type: article
+  source: Прочие источники
+  status: complete
+  topics:
+  - history
+  spotify: https://open.spotify.com/episode/6V6oz1fIVXVjPj4DPquUe8
+- id: memorial-katyn
+  ia_id: dv-memorial-katyn
+  title: Катынское преступление
+  author: Международное общество «Мемориал»
+  author_id: memorial
+  url: https://t.me/dilettante_voiceover/240
+  type: article
+  source: Прочие источники
+  status: complete
+  topics:
+  - history
+  spotify: https://open.spotify.com/episode/3G6PJXQWA8mHLydes7qSHY
+- id: libertad-recruits
+  ia_id: dv-libertad-recruits
+  title: Новобранцам
+  author: Альбер Либертад
+  author_id: libertad
+  url: https://t.me/dilettante_voiceover/251
+  type: article
+  source: Прочие источники
+  status: complete
+  topics:
+  - antimilitarism
+  spotify: https://open.spotify.com/episode/2AC3wCRrSgHw9dStxmqBdV
+- id: thoreau-civil-disobedience
+  ia_id: dv-thoreau-civil-disobedience
+  title: О гражданском неповиновении
+  author: Генри Торо
+  author_id: thoreau
+  url: https://t.me/dilettante_voiceover/267
+  type: article
+  source: Прочие источники
+  status: complete
+  topics:
+  - antimilitarism
+  - individualist-anarchism
+  - resistance
+  spotify: https://open.spotify.com/episode/47XZaKwSxm7oyWwywZ1EVr
+- id: shypunov-anarchosyndicalism
+  ia_id: dv-shypunov-anarchosyndicalism
+  title: Анархо-синдикалізм як напрям ідейно-інституційної еволюції лівого політичного
+    руху
+  author: Геннадій Шипунов
+  author_id: shypunov
+  url: https://t.me/dilettante_voiceover/315
+  type: article
+  source: Прочие источники
+  status: complete
+  topics:
+  - labor
+  spotify: https://open.spotify.com/episode/6V5c3783mSjXJwVnatKEzt
+- id: dubovyk-makhno-faces
+  ia_id: dv-dubovyk-makhno-faces
+  title: 'Батрак, швец, слесарь, машинист: лица вожаков махновского движения'
+  author: Анатолий Дубовик
+  author_id: dubovyk
+  url: https://t.me/dilettante_voiceover/319
+  type: article
+  source: Прочие источники
+  status: complete
+  topics:
+  - history
+  - makhno
+  spotify: https://open.spotify.com/episode/7i5Tys9vOEMLuWbaAhezMc
+- id: labadie-study
+  ia_id: dv-labadie-study
+  title: Учиться? Чего ради?
+  author: Лоуренс Лабади
+  author_id: labadie
+  url: https://t.me/dilettante_voiceover/409
+  type: article
+  source: Прочие источники
+  status: complete
+  topics:
+  - individualist-anarchism
+  - anarchist-pedagogy
+  spotify: https://open.spotify.com/episode/18Gy7AN9Qe48F4vA3A1akY
+- id: labadie-war
+  ia_id: dv-labadie-war
+  title: Война, война и ещё раз война
+  author: Лоуренс Лабади
+  author_id: labadie
+  url: https://t.me/dilettante_voiceover/411
+  type: article
+  source: Прочие источники
+  status: complete
+  topics:
+  - antimilitarism
+  - individualist-anarchism
+  spotify: https://open.spotify.com/episode/60ZlFyyrKanHp5BP6VDDSP
+- id: zerzan-left-no-thanks
+  ia_id: dv-zerzan-left-no-thanks
+  title: Левые? Спасибо, но нет
+  author: Джон Зерзан
+  author_id: zerzan
+  url: https://t.me/dilettante_voiceover/408
+  type: article
+  source: Прочие источники
+  status: complete
+  topics:
+  - anarcho-primitivism
+  spotify: https://open.spotify.com/episode/4fHKwDMBnuuLjqKo2oqjJr
+- id: ryabov-escape-as-revolt
+  ia_id: dv-ryabov-escape-as-revolt
+  title: Побег как бунт
+  author: Петр Рябов
+  author_id: ryabov
+  url: https://t.me/dilettante_voiceover/400
+  type: article
+  source: Прочие источники
+  status: complete
+  topics:
+  - prison
+  - resistance
+  spotify: https://open.spotify.com/episode/0WkBUwq9sIRXHAYjKEZAtf
+- id: ira-green-book
+  ia_id: dv-ira-green-book
+  title: Зеленая книга ИРА
+  author: null
+  url: https://t.me/dilettante_voiceover/393
+  type: article
+  source: Прочие источники
+  status: complete
+  topics:
+  - history
+  - resistance
+  spotify: https://open.spotify.com/episode/4FZOC3CpdqT4dW5PVmHmBg
+- id: malatesta-anarchy-order
+  ia_id: dv-malatesta-anarchy-order
+  title: Анархия и порядок
+  author: Эррико Малатеста
+  author_id: malatesta
+  url: https://t.me/dilettante_voiceover/383
+  type: article
+  source: Прочие источники
+  status: complete
+  topics:
+  - likbez
+  spotify: https://open.spotify.com/episode/1aPPSzCT0VIKss9lzT4wxR
+- id: autonomous-action-durruti
+  ia_id: dv-autonomous-action-durruti
+  title: Дуррути. Памяти героя
+  author: Автономное действие
+  author_id: avt-dejstvie
+  url: https://t.me/dilettante_voiceover/372
+  type: article
+  source: Прочие источники
+  status: complete
+  topics:
+  - history
+  spotify: https://open.spotify.com/episode/4ksc6PJzyq7Jl8v8eyKATl
+- id: graeber-are-you-anarchist
+  ia_id: dv-graeber-are-you-anarchist
+  title: Ты Анархист? Ответ может тебя удивить
+  author: Дэвид Грэбер
+  author_id: graeber
+  url: https://t.me/dilettante_voiceover/370
+  type: article
+  source: Прочие источники
+  status: complete
+  topics:
+  - likbez
+  spotify: https://open.spotify.com/episode/1QNVHdbFoaALNGOct9AJxr
+- id: carson-anarchism-without-adjectives
+  ia_id: dv-carson-anarchism-without-adjectives
+  title: Анархизм без прилагательных
+  author: Кевин Карсон
+  author_id: carson
+  url: https://t.me/dilettante_voiceover/355
+  type: article
+  source: Прочие источники
+  status: complete
+  topics:
+  - individualist-anarchism
+  spotify: null
+- id: de-cleyre-paris-commune-other
+  ia_id: dv-de-cleyre-paris-commune-other
+  title: Парижская коммуна
+  author: Вольтарина Де Клер
+  author_id: de-cleyre
+  url: https://t.me/dilettante_voiceover/413
+  type: article
+  source: Прочие источники
+  status: complete
+  topics:
+  - history
+  spotify: https://open.spotify.com/episode/2Cp3MVXqXh7wsSl0nd06C4
+- id: romanov-anarchy-mother-of-order
+  ia_id: dv-romanov-anarchy-mother-of-order
+  title: Анархия — мать порядка
+  author: Илья Романов
+  author_id: romanov-i
+  url: https://t.me/dilettante_voiceover/343
+  type: article
+  source: Прочие источники
+  status: complete
+  topics:
+  - likbez
+  spotify: https://open.spotify.com/episode/6kLNn2Nbt558xl4HiSLMW9
+- id: gerasimov-mystical-anarchists
+  ia_id: dv-gerasimov-mystical-anarchists
+  title: Мистические анархисты
+  author: Николай Герасимов
+  author_id: gerasimov
+  url: https://t.me/dilettante_voiceover/341
+  type: article
+  source: Прочие источники
+  status: complete
+  topics:
+  - history
+  spotify: https://open.spotify.com/episode/5VCrbSmmbtoUUjZeilJDry
+- id: clastres-society-against-state
+  ia_id: dv-clastres-society-against-state
+  title: Общество против государства
+  author: Пьер Кластр
+  author_id: clastres
+  url: https://t.me/dilettante_voiceover/330
+  type: article
+  source: Прочие источники
+  status: complete
+  topics: []
+  spotify: https://open.spotify.com/episode/104Hud0NK7DtYGTiQo4kbN
+- id: nettlau-anarchists-war
+  ia_id: dv-nettlau-anarchists-war
+  title: Что должны делать анархисты в случае войны
+  author: Макс Неттлау
+  author_id: nettlau
+  url: https://t.me/dilettante_voiceover/463
+  type: article
+  source: Прочие источники
+  status: complete
+  topics:
+  - antimilitarism
+  spotify: https://open.spotify.com/episode/3U85DZUccaDBoYW0Yj047g
+- id: kropotkin-satisfaction-for-all
+  ia_id: dv-kropotkin-satisfaction-for-all
+  title: Довольство для всех
+  author: П.А. Кропоткин
+  author_id: kropotkin
+  url: https://t.me/dilettante_voiceover/462
+  type: article
+  source: Прочие источники
+  status: complete
+  topics:
+  - labor
+  spotify: https://open.spotify.com/episode/3p5NZjRjlmbC3x8XhMH4Xe
+- id: kropotkin-political-rights
+  ia_id: dv-kropotkin-political-rights
+  title: Политические права
+  author: П.А. Кропоткин
+  author_id: kropotkin
+  url: https://t.me/dilettante_voiceover/460
+  type: article
+  source: Прочие источники
+  status: complete
+  topics: []
+  spotify: https://open.spotify.com/episode/4lNNgvb8Ij02knG5Je0rAi
+- id: kropotkin-antimilitarism
+  ia_id: dv-kropotkin-antimilitarism
+  title: Антимилитаризм. Был ли он ясно понят?
+  author: П.А. Кропоткин
+  author_id: kropotkin
+  url: https://t.me/dilettante_voiceover/454
+  type: article
+  source: Прочие источники
+  status: complete
+  topics:
+  - antimilitarism
+  spotify: https://open.spotify.com/episode/3HqmTqYTeIxgRWHUp2DdBX
+- id: kropotkin-our-riches
+  ia_id: dv-kropotkin-our-riches
+  title: Наши богатства
+  author: П.А. Кропоткин
+  author_id: kropotkin
+  url: https://t.me/dilettante_voiceover/459
+  type: article
+  source: Прочие источники
+  status: complete
+  topics:
+  - labor
+  spotify: https://open.spotify.com/episode/4EOqFm852MXXpbYS9fnh8d
+- id: goldman-child-enemies
+  ia_id: dv-goldman-child-enemies
+  title: Ребенок и его враги
+  author: Эмма Гольдман
+  author_id: goldman
+  url: https://t.me/dilettante_voiceover/457
+  type: article
+  source: Akrateia
+  status: complete
+  topics:
+  - feminism
+  - anarchist-pedagogy
+  spotify: https://open.spotify.com/episode/72jyjqLo61MVIwztWwVsQv
+- id: volin-red-fascism
+  ia_id: dv-volin-red-fascism
+  title: Красный фашизм
+  author: Всеволод Волин
+  author_id: volin
+  url: https://t.me/dilettante_voiceover/456
+  type: article
+  source: Прочие источники
+  status: complete
+  topics:
+  - history
+  - antifascism
+  spotify: https://open.spotify.com/episode/4amlMIDCBxAim4zPCYiLU5
+- id: kalinina-never-alone
+  ia_id: dv-kalinina-never-alone
+  title: Я никогда не была одна и не буду. Нас миллионы и мы всегда были неугодны
+    обществу
+  author: Татьяна Калинина
+  author_id: kalinina
+  url: https://t.me/dilettante_voiceover/452
+  type: article
+  source: Прочие источники
+  status: complete
+  topics:
+  - feminism
+  spotify: https://open.spotify.com/episode/55J7ArN4OMojnmKXsrLpOo
+- id: guillaume-federalism
+  ia_id: dv-guillaume-federalism
+  title: Федерализм
+  author: Джеймс Гильом
+  author_id: guillaume
+  url: https://t.me/dilettante_voiceover/442
+  type: article
+  source: Прочие источники
+  status: complete
+  topics: []
+  spotify: https://open.spotify.com/episode/2YPwHsD8E3VxftvZTEwpgC
+- id: black-grebe-sea
+  ia_id: dv-black-grebe-sea
+  title: От кого мы спасаем море
+  author: Черная чомга
+  author_id: chernaya-chomga
+  url: https://t.me/dilettante_voiceover/437
+  type: article
+  source: Прочие источники
+  status: complete
+  topics:
+  - ecology
+  spotify: https://open.spotify.com/episode/1ryuL456vy8ba2LL4plDuN
+- id: carson-corporate-capitalism
+  ia_id: dv-carson-corporate-capitalism
+  title: Почему корпоративный капитализм нежизнеспособен
+  author: Кевин Карсон
+  author_id: carson
+  url: https://t.me/dilettante_voiceover/436
+  type: article
+  source: Прочие источники
+  status: complete
+  topics:
+  - labor
+  - individualist-anarchism
+  spotify: https://open.spotify.com/episode/6uNCeuHKdypU745vEtZCua
+- id: glitterbomb-cooperatives
+  ia_id: dv-glitterbomb-cooperatives
+  title: Коммунизация общества при помощи потребительских кооперативов
+  author: Логан Мари Глиттербомб
+  author_id: glitterbomb
+  url: https://t.me/dilettante_voiceover/431
+  type: article
+  source: Прочие источники
+  status: complete
+  topics:
+  - labor
+  spotify: https://open.spotify.com/episode/4uSarazNjWzOAbrPFS6eDL
+- id: watson-civilization-jet
+  ia_id: dv-watson-civilization-jet
+  title: Цивилизация подобна реактивному самолёту
+  author: Дэвид Уотсон
+  author_id: watson
+  url: https://t.me/dilettante_voiceover/423
+  type: article
+  source: Прочие источники
+  status: complete
+  topics:
+  - ecology
+  - anarcho-primitivism
+  spotify: https://open.spotify.com/episode/6JqHNcJnXvF7V3bXmB5bND
+- id: gibson-dirty-work
+  ia_id: dv-gibson-dirty-work
+  title: Кто будет делать грязную работу?
+  author: Тони Гибсон
+  author_id: gibson
+  url: https://t.me/dilettante_voiceover/420
+  type: article
+  source: Прочие источники
+  status: complete
+  topics:
+  - labor
+  spotify: https://open.spotify.com/episode/5VsZEPYaP9gUogdtEC1ok9
+- id: baker-means-ends
+  ia_id: dv-baker-means-ends
+  title: Средства и цели
+  author: Зои Бейкер
+  author_id: baker
+  url: https://t.me/dilettante_voiceover/419
+  type: article
+  source: Прочие источники
+  status: complete
+  topics:
+  - post-anarchism
+  spotify: https://open.spotify.com/episode/0mCXhklJSRZcN4n7OtOrYR
+- id: wee-market-anarchism
+  ia_id: dv-wee-market-anarchism
+  title: В чем разница между рыночным анархизмом и анархо-капитализмом
+  author: Келли Ви
+  author_id: vi
+  url: https://t.me/dilettante_voiceover/418
+  type: article
+  source: Прочие источники
+  status: complete
+  topics:
+  - individualist-anarchism
+  spotify: https://open.spotify.com/episode/6ip3vvHxPuGDnWgSNpNJtz
+- id: reclus-homeland-humanity
+  ia_id: dv-reclus-homeland-humanity
+  title: Родина и человечество
+  author: Элизе Реклю
+  author_id: reclus
+  url: https://t.me/dilettante_voiceover/417
+  type: article
+  source: Прочие источники
+  status: complete
+  topics: []
+  spotify: https://open.spotify.com/episode/23dLtHwH5Lgykc21ZNk3I8
+- id: labadie-what-is-man
+  ia_id: dv-labadie-what-is-man
+  title: Что такое человек и весь мир театр
+  author: Лоуренс Лабади
+  author_id: labadie
+  url: https://t.me/dilettante_voiceover/416
+  type: article
+  source: Прочие источники
+  status: complete
+  topics:
+  - individualist-anarchism
+  spotify: https://open.spotify.com/episode/3yQkaZy4yAxJwCmX93eZWJ
+- id: labadie-infantile-radicalism
+  ia_id: dv-labadie-infantile-radicalism
+  title: Инфантильный радикализм
+  author: Лоуренс Лабади
+  author_id: labadie
+  url: https://t.me/dilettante_voiceover/415
+  type: article
+  source: Прочие источники
+  status: complete
+  topics:
+  - individualist-anarchism
+  spotify: https://open.spotify.com/episode/0qQbpPKvKGPCNIDWTrX9jx
+- id: anon-security-culture-recipe
+  ia_id: dv-anon-security-culture-recipe
+  title: Уверенность. Отвага. Родство. Доверие. Рецепт культуры безопасности
+  author: Аноним
+  url: https://t.me/dilettante_voiceover/486
+  type: article
+  source: Прочие источники
+  status: complete
+  topics:
+  - resistance
+  spotify: https://open.spotify.com/episode/0G2wrWPtKnhsJLPBCR1qZU
+- id: kropotkin-are-we-good-enough
+  ia_id: dv-kropotkin-are-we-good-enough
+  title: Достаточно ли мы хороши
+  author: Пётр Кропоткин
+  author_id: kropotkin
+  url: https://t.me/dilettante_voiceover/496
+  type: article
+  source: Прочие источники
+  status: complete
+  topics: []
+  spotify: https://open.spotify.com/episode/26nMiZas0GRyWhtBtmQncy
+- id: markelov-red-book-antifa
+  ia_id: dv-markelov-red-book-antifa
+  title: Красная книга антифа
+  author: Станислав Маркелов
+  author_id: markelov
+  url: https://t.me/dilettante_voiceover/503
+  type: article
+  source: Прочие источники
+  status: complete
+  topics:
+  - history
+  - antifascism
+  spotify: https://open.spotify.com/episode/1c95KK6x7QfMbRCiNUtC2W
+- id: sakhnin-remember-stas
+  ia_id: dv-sakhnin-remember-stas
+  title: Помнить о Стасе
+  author: Алексей Сахнин
+  author_id: sakhnin
+  url: https://t.me/dilettante_voiceover/505
+  type: article
+  source: Прочие источники
+  status: complete
+  topics:
+  - history
+  - antifascism
+  spotify: https://open.spotify.com/episode/1NLgkFbTSNfQsZI6G0MVKC
+- id: kanavalchik-belarus-anarchism-history
+  ia_id: dv-kanavalchik-belarus-anarchism-history
+  title: История анархического движения Беларуси в первые 10 лет после развала СССР
+    (1992-2002 годы)
+  author: Павлюк Коновальчик
+  author_id: konovalchyk
+  url: https://t.me/dilettante_voiceover/525
+  type: article
+  source: Прочие источники
+  status: complete
+  topics:
+  - history
+  - belarus
+  spotify: https://open.spotify.com/episode/4gEGdArIp7l9Zy2z1duJXt
+- id: ukrainka-nadiia
+  ia_id: dv-ukrainka-nadiia
+  title: Надія
+  author: Леся Украинка
+  author_id: ukrainka
+  url: https://t.me/dilettante_voiceover/110
+  type: art
+  status: complete
+  topics: []
+  spotify: https://open.spotify.com/episode/3nXtpSosfJ2NgLmqJqbEV7
+- id: nefor-manuscripts
+  ia_id: dv-nefor-manuscripts
+  title: Рукописи из шкатулки
+  author: Саша «Нефор»
+  author_id: nefor
+  url: https://t.me/dilettante_voiceover/139
+  type: art
+  status: complete
+  topics: []
+  spotify: https://open.spotify.com/episode/7oQwAETVMcaR9fB8GB5p6A
+- id: george-zapatista-tale
+  ia_id: dv-george-zapatista-tale
+  title: 'Сапатистская сказка: история других'
+  author: Либертарий Джордж
+  author_id: libertariy-george
+  url: https://t.me/dilettante_voiceover/167
+  type: art
+  status: complete
+  topics: []
+  spotify: https://open.spotify.com/episode/0Ph9cMGOI0fVOYSTtRIeQM
+- id: cortazar-occupied-house
+  ia_id: dv-cortazar-occupied-house
+  title: Захваченный дом
+  author: Хулио Кортасар
+  author_id: cortazar
+  url: https://t.me/dilettante_voiceover/203
+  type: art
+  status: complete
+  topics: []
+  spotify: https://open.spotify.com/episode/0mjKe1cTij9XmwpFICtE3u
+- id: gordins-why
+  ia_id: dv-gordins-why
+  title: Почему?
+  author: Братья Гордины
+  author_id: gordiny
+  url: https://t.me/dilettante_voiceover/354
+  type: art
+  status: complete
+  topics: []
+  spotify: https://open.spotify.com/episode/3OkHx0ZJpurUHcGpZboB3G
+- id: agamalova-poems
+  ia_id: dv-agamalova-poems
+  title: Избранные стихотворения
+  author: Лолита Агамалова
+  author_id: agamalova
+  url: https://t.me/dilettante_voiceover/452
+  type: art
+  status: complete
+  topics:
+  - feminism
+  spotify: https://open.spotify.com/episode/6Oc2T5RRzIFJVMBk5zlcDf
+- id: lesbian-poetry
+  ia_id: dv-lesbian-poetry
+  title: Лесбийская поэзия
+  author: Сапфо, София Парнок, Одри Лорд, Джун Джордан
+  author_id:
+  - sappho
+  - parnok
+  - lord
+  - jordan
+  url: https://t.me/dilettante_voiceover/448
+  type: art
+  hasChapters: true
+  status: complete
+  topics:
+  - feminism
+  spotify: https://open.spotify.com/playlist/2ctRRzWQ9Owt7SaWKWq0q7
+- id: poetry-collection
+  ia_id: dv-poetry-collection
+  title: Поэзия последнего времени. Хроника
+  author: null
+  hasChapters: true
+  type: art
+  status: complete
+  topics:
+  - antimilitarism
+  spotify: https://open.spotify.com/playlist/2zfKSqyj4d7sypg5JP32O2
+- id: makhno-first-order
+  ia_id: dv-makhno-first-order
+  title: Первый приказ Нестора Махно
+  author: Нестор Махно
+  author_id: makhno
+  url: https://t.me/dilettante_voiceover/226
+  type: history
+  status: complete
+  topics:
+  - history
+  - makhno
+  spotify: https://open.spotify.com/episode/6RX1yZfqgOm8LwHmqQmA0C
+- id: ivanova-autobiography
+  ia_id: dv-ivanova-autobiography
+  title: Автобиография
+  author: С.А. Иванова-Борейшо
+  author_id: ivanova-boreysho
+  url: https://t.me/dilettante_voiceover/376
+  type: history
+  status: complete
+  topics:
+  - feminism
+  - history
+  spotify: https://open.spotify.com/episode/60myYkUYW5rV2FT6AIQb6L
+- id: ivanova-first-printing
+  ia_id: dv-ivanova-first-printing
+  title: Первая типография народной воли
+  author: С.А. Иванова-Борейшо
+  author_id: ivanova-boreysho
+  url: https://t.me/dilettante_voiceover/363
+  type: history
+  status: complete
+  topics:
+  - history
+  spotify: https://open.spotify.com/episode/5ONmIyHFvLG1fFyNYwtk2U
+- id: borovoy-anarchist-manifesto
+  ia_id: dv-borovoy-anarchist-manifesto
+  title: Анархический манифест
+  author: Алексей Боровой
+  author_id: borovoy
+  url: https://t.me/dilettante_voiceover/337
+  type: history
+  status: complete
+  topics:
+  - history
+  spotify: https://open.spotify.com/episode/0DtnDsWV07FDh7Zg38sIMa

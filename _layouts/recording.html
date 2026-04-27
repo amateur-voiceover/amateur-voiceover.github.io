@@ -1,0 +1,121 @@
+---
+layout: default
+---
+{% assign entry = site.data.recordings.recordings | where: "id", page.recording_id | first %}
+{% assign has_chapters = entry.chapters | and: entry.chapters.size %}
+{% comment %}Resolve author_id — supports both a single string and an array{% endcomment %}
+{% if entry.author_id.first %}
+  {% assign author_ids = entry.author_id %}
+{% elsif entry.author_id %}
+  {% assign author_ids = entry.author_id | split: "~~" %}
+{% endif %}
+{% assign has_authors = false %}
+{% for aid in author_ids %}
+  {% assign _a = site.data.authors.authors | where: "id", aid | first %}
+  {% if _a %}{% assign has_authors = true %}{% endif %}
+{% endfor %}
+
+<article class="book-page">
+
+  <header class="book-header">
+    {% if entry.cover %}
+    <img class="book-cover" src="{{ entry.cover }}" alt="{{ entry.title | escape }}">
+    {% endif %}
+    <div class="book-header-info">
+      <h1 class="book-title">{{ entry.title }}</h1>
+      {% if entry.author %}
+      <p class="book-author-name">{{ entry.author }}</p>
+      {% endif %}
+      <div class="book-links">
+        {% if entry.spotify %}
+        <a href="{{ entry.spotify }}" class="platform-link spotify-link" target="_blank" rel="noopener">
+          <img src="{{ '/assets/spotify.svg' | relative_url }}" alt="Spotify"> Spotify
+        </a>
+        {% endif %}
+        {% if entry.castbox %}
+        <a href="{{ entry.castbox }}" class="platform-link castbox-link" target="_blank" rel="noopener">
+          <img src="{{ '/assets/castbox.svg' | relative_url }}" alt="CastBox"> CastBox
+        </a>
+        {% endif %}
+        {% if entry.apple_podcasts %}
+        <a href="{{ entry.apple_podcasts }}" class="platform-link apple-link" target="_blank" rel="noopener">
+          <img src="{{ '/assets/apple-podcasts.svg' | relative_url }}" alt="Apple Podcasts"> Apple Podcasts
+        </a>
+        {% endif %}
+        {% if entry.url %}
+        <a href="{{ entry.url }}" class="platform-link telegram-link" target="_blank" rel="noopener">
+          <img src="{{ '/assets/telegram.svg' | relative_url }}" alt="Telegram"> Telegram
+        </a>
+        {% endif %}
+      </div>
+    </div>
+  </header>
+
+  {% if entry.ia_id %}
+  <section class="book-player">
+    {% if entry.chapters or entry.hasChapters %}
+    <iframe
+      src="https://archive.org/embed/{{ entry.ia_id }}?playlist=1&list_height=200"
+      width="100%"
+      height="420"
+      webkitallowfullscreen="true"
+      mozallowfullscreen="true"
+      allowfullscreen>
+    </iframe>
+    {% else %}
+    <iframe
+      src="https://archive.org/embed/{{ entry.ia_id }}"
+      width="100%"
+      height="30"
+      webkitallowfullscreen="true"
+      mozallowfullscreen="true"
+      allowfullscreen>
+    </iframe>
+    {% endif %}
+  </section>
+  {% endif %}
+
+  {% if entry.chapters %}
+  <section class="book-chapters-section">
+    <h2>Главы</h2>
+    <ul class="chapters-list">
+      {% for chapter in entry.chapters %}
+      <li>
+        {% if chapter.parts %}
+        <span class="chapter-title">{{ chapter.title }}</span>
+        <ul class="chapter-parts">
+          {% for part in chapter.parts %}
+          <li><a href="{{ part.url }}" target="_blank" rel="noopener">{{ part.label }}</a></li>
+          {% endfor %}
+        </ul>
+        {% elsif chapter.url %}
+        <a href="{{ chapter.url }}" target="_blank" rel="noopener">{{ chapter.title }}</a>
+        {% else %}
+        <span class="chapter-title">{{ chapter.title }}</span>
+        {% endif %}
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+
+  {% if has_authors %}
+  <section class="book-author-section">
+    {% if author_ids.size == 1 %}
+    <h2>Об авторе</h2>
+    {% else %}
+    <h2>Об авторах</h2>
+    {% endif %}
+    {% for aid in author_ids %}
+      {% include author-card.html author_id=aid %}
+    {% endfor %}
+  </section>
+  {% endif %}
+
+  {% if page.content and page.content != "" %}
+  <section class="book-notes">
+    {{ content }}
+  </section>
+  {% endif %}
+
+</article>

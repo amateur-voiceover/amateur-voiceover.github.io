@@ -1,5 +1,5 @@
 {% assign entry = include.entry %}
-{% assign book_page = site.books | where: "recording_id", entry.id | first %}
+{% assign book_page = site.recordings | where: "recording_id", entry.id | first %}
 <li data-type="{{ entry.type }}" data-author="{{ entry.author }}" data-source="{{ entry.source }}" data-status="{{ entry.status }}" data-topics="{{ entry.topics | join: ' ' }}">
 
   <div class="entry-icons">
@@ -9,7 +9,7 @@
 
   {% if book_page %}
     <span class="entry-info">
-      <a href="{{ book_page.url | relative_url }}">{{ entry.title }}</a>
+      <a href="{{ book_page.url | relative_url }}" target="_self">{{ entry.title }}</a>
       {% if entry.author %}<span class="entry-author"> — {{ entry.author }}</span>{% endif %}
     </span>
 

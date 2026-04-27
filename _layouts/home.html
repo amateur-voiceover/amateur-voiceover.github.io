@@ -3,9 +3,9 @@ layout: default
 ---
 
 <div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
+<!--  {%- if page.title -%}-->
+<!--    <h1 class="page-heading">{{ page.title }}</h1>-->
+<!--  {%- endif -%}-->
 
   {{ content }}
 
@@ -17,7 +17,7 @@ layout: default
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
+          <a class="post-link" target="_self" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
         </h3>
