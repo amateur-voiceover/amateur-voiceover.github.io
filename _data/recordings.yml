@@ -19,11 +19,12 @@ recordings:
   url: https://t.me/dilettante_voiceover/3
   type: book
   status: complete
+  hasChapters: true
   topics:
   - history
   spotify: https://open.spotify.com/playlist/4MJxrrvtpXlre13E6BItMB
   ia_id: dv-anarchy-works
-  cover: null
+  cover: https://ia800607.us.archive.org/0/items/dv-anarchy-works/24955583.jpg
 - id: malatesta-ten-talks
   title: Десять бесед об анархизме
   author: Эррико Малатеста
@@ -35,7 +36,7 @@ recordings:
   - likbez
   spotify: https://open.spotify.com/episode/50RBA8rrxY3Y9sBkrBrSfm
   ia_id: dv-malatesta-ten-talks
-  cover: null
+  cover: https://ia600706.us.archive.org/28/items/dv-malatesta-ten-talks/cover.jpg
 - id: gelderlos-prison
   title: Тюрьма
   author: Питер Гелдерлоос
@@ -43,11 +44,12 @@ recordings:
   url: https://t.me/dilettante_voiceover/252
   type: book
   status: complete
+  hasChapters: true
   topics:
   - prison
   spotify: https://open.spotify.com/playlist/49XXP1htvEFrYKvmGRggXu
   ia_id: dv-gelderlos-prison
-  cover: null
+  cover: https://ia803209.us.archive.org/4/items/dv-gelderlos-prison/Piter_Gelderloos__Tyurma.jpeg
 - id: black-abolition-work
   title: Упразднение работы
   author: Боб Блэк
@@ -59,7 +61,7 @@ recordings:
   - labor
   spotify: https://open.spotify.com/episode/1e2DP77WqmA8LlIA4vbPUJ
   ia_id: dv-black-abolition-work
-  cover: null
+  cover: https://ia802800.us.archive.org/30/items/dv-black-abolition-work/9781942801382_thumb.jpg
 - id: dedok-parallel-world
   title: Цвета параллельного мира
   author: Николай Дедок
@@ -71,7 +73,7 @@ recordings:
   - prison
   spotify: https://open.spotify.com/episode/59vBsacltv60fOgHYTwSdX
   ia_id: dv-dedok-parallel-world
-  cover: null
+  cover: https://ia800709.us.archive.org/13/items/dv-dedok-parallel-world/images.jpeg
 - id: ward-anarchism-intro
   title: 'Анархизм: очень краткое введение'
   author: Колин Вард
@@ -83,7 +85,7 @@ recordings:
   - likbez
   spotify: https://open.spotify.com/episode/2dlOd9RHi3dnNVQhA2tEa3
   ia_id: dv-ward-anarchism-intro
-  cover: null
+  cover: https://ia800909.us.archive.org/32/items/dv-ward-anarchism-intro/Ward_intro_cover.jpg
 - id: pustunya
   title: Пустыня
   author: Аноним
@@ -95,7 +97,7 @@ recordings:
   - anarcho-primitivism
   spotify: https://open.spotify.com/playlist/5e7bCzUjt7DK8JWXomKmW2
   ia_id: dv-pustunya
-  cover: null
+  cover: https://ia903206.us.archive.org/11/items/dv-pustunya/a-d-anonymous-desert-ru-1.jpg
   chapters:
   - title: 1. (Глобального) будущего нет
     url: https://t.me/dilettante_voiceover/475
@@ -207,7 +209,7 @@ recordings:
   - resistance
   spotify: https://open.spotify.com/playlist/1ez1xRzdPq7VV7uM4QwB0g
   ia_id: dv-crimethinc-fighting-for-our-lives
-  cover: null
+  cover: https://ia800608.us.archive.org/4/items/dv-crimethinc-fighting-for-our-lives/fighting-for-our-lives_front.jpg
   chapters:
   - title: Часть 1
     url: https://t.me/dilettante_voiceover/250
@@ -231,7 +233,7 @@ recordings:
   - prison
   spotify: https://open.spotify.com/playlist/3GQV5R3ESL9e3p7gGDQFNV
   ia_id: dv-kosovo-gaskarov
-  cover: null
+  cover: https://ia803106.us.archive.org/3/items/dv-kosovo-gaskarov/Petya_Kosovo__Korrespondent_Gaskarov_v_adu_i_drugie_istorii%20copy_thumb.jpg
   chapters:
   - title: Предисловие
     url: https://t.me/dilettante_voiceover/212
@@ -281,7 +283,7 @@ recordings:
   - feminism
   spotify: https://open.spotify.com/playlist/4riumxevA439G1Rqf3Eypd
   ia_id: dv-moya-oborona
-  cover: null
+  cover: https://ia903209.us.archive.org/23/items/dv-moya-oborona/boocover%20copy_thumb.jpg
   chapters:
   - title: Предисловие
     url: https://t.me/dilettante_voiceover/427
@@ -322,6 +324,7 @@ recordings:
   status: complete
   topics:
   - economy
+  cover: https://ia600109.us.archive.org/1/items/dv-gelderlos-anarchy-works/anarchy_works.jpeg
   spotify: https://open.spotify.com/playlist/1FbTAyBprXb7F4B763iRIk
   chapters:
   - title: Экономика. Часть 1
